@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2020/08/29/one-thing-i.html",
+				
+				"content_html": "<p>One thing I wish the #rstats community would do a better job of is code mods. I am very much in favor of some of the API changes that have been made as major packages reach 1.0, but adoption would be way easier/better if they came with solid code mods like I’ve seen in #emberjs.</p>\n",
+				"content_text": "One thing I wish the #rstats community would do a better job of is code mods. I am very much in favor of some of the API changes that have been made as major packages reach 1.0, but adoption would be way easier/better if they came with solid code mods like I’ve seen in #emberjs.\n",
+				"date_published": "2020-08-29T19:15:52-04:00",
+				"url": "https://micro.json.blog/2020/08/29/one-thing-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/28/oh-good-this.html",
+				
+				"content_html": "<p>Oh good, this service company has a form to fill out so that I can schedule this appointment entirely online.</p>\n\n<p>Hears nothing for 4 days.</p>\n\n<p>Calls, gets an immediate answer, and it&rsquo;s scheduled for tomorrow morning.</p>\n\n<p>This is oppressive toward millennials.</p>\n",
+				"content_text": "Oh good, this service company has a form to fill out so that I can schedule this appointment entirely online.\n\nHears nothing for 4 days.\n\nCalls, gets an immediate answer, and it's scheduled for tomorrow morning.\n\nThis is oppressive toward millennials.\n",
+				"date_published": "2020-08-28T15:41:07-04:00",
+				"url": "https://micro.json.blog/2020/08/28/oh-good-this.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/27/so-the-thing.html",
+				
+				"content_html": "<p>So the thing about finally getting your scleral lenses in by yourself after weeks is it makes taking them off feel like a sad thing.</p>\n",
+				"content_text": "So the thing about finally getting your scleral lenses in by yourself after weeks is it makes taking them off feel like a sad thing.\n",
+				"date_published": "2020-08-27T23:16:13-04:00",
+				"url": "https://micro.json.blog/2020/08/27/so-the-thing.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/27/an-important-part.html",
+				
+				"content_html": "<p>An important part of working from home successfully is being able to scream every once in a while without getting odd looks.</p>\n",
+				"content_text": "An important part of working from home successfully is being able to scream every once in a while without getting odd looks.\n",
+				"date_published": "2020-08-27T22:20:20-04:00",
+				"url": "https://micro.json.blog/2020/08/27/an-important-part.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/26/i-can-now.html",
+				
+				"content_html": "<p>I can now confidently say that COVID-19 has completely overloaded my working memory. My brain is fully in &ldquo;one in one out” mode.</p>\n",
+				"content_text": "I can now confidently say that COVID-19 has completely overloaded my working memory. My brain is fully in \"one in one out” mode.\n",
+				"date_published": "2020-08-26T16:49:01-04:00",
+				"url": "https://micro.json.blog/2020/08/26/i-can-now.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/26/dont-read-anything.html",
+				
+				"content_html": "<p>Don’t read anything by Mary Robinette Kowal at night or you’ll be crying and laughing and wide awake at 1:30am and want to keep going.</p>\n",
+				"content_text": "Don’t read anything by Mary Robinette Kowal at night or you’ll be crying and laughing and wide awake at 1:30am and want to keep going.\n",
+				"date_published": "2020-08-26T01:36:18-04:00",
+				"url": "https://micro.json.blog/2020/08/26/dont-read-anything.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/25/i-have-kept.html",
+				
+				"content_html": "<p>I have kept this page, on how to get an <a href=\"http://johnwilger.com/2019/01/27/lg-utlrafine-on-linux-gnome3-gdm3.html\">LG Ultrafine 5K working on Linux</a>, open in my browser for literally a year. I&rsquo;m trying to convince myself that it will actually be possible, and I should just build that desktop.</p>\n",
+				"content_text": "I have kept this page, on how to get an [LG Ultrafine 5K working on Linux](http://johnwilger.com/2019/01/27/lg-utlrafine-on-linux-gnome3-gdm3.html), open in my browser for literally a year. I'm trying to convince myself that it will actually be possible, and I should just build that desktop.\n",
+				"date_published": "2020-08-25T22:15:32-04:00",
+				"url": "https://micro.json.blog/2020/08/25/i-have-kept.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/24/the-broken-algorithm.html",
+				
+				"content_html": "<p><a href=\"https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3\">The Broken Algorithm That Poisoned American Transportation</a></p>\n",
+				"content_text": " [The Broken Algorithm That Poisoned American Transportation](https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3)\n",
+				"date_published": "2020-08-24T23:13:32-04:00",
+				"url": "https://micro.json.blog/2020/08/24/the-broken-algorithm.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/23/me-a-fairly.html",
+				
+				"content_html": "<p>Me: a fairly left wing person.\nAlso me: has specific interest in areas like education, transit, and housing development where the leftists get things <em>super</em> wrong all the time.</p>\n",
+				"content_text": "Me: a fairly left wing person.\nAlso me: has specific interest in areas like education, transit, and housing development where the leftists get things _super_ wrong all the time.\n",
+				"date_published": "2020-08-23T14:36:33-04:00",
+				"url": "https://micro.json.blog/2020/08/23/me-a-fairly.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/08/23/some-people-check.html",
+				
+				"content_html": "<p>Some people check Craigslist every day. I check BetterWorldBooks to find out if there are <a href=\"https://www.betterworldbooks.com/My/Wishlist?wishlistId=3507911&amp;wishlistName=Json Becker\">affordable hardcovers of books I love</a>.</p>\n",
+				"content_text": "Some people check Craigslist every day. I check BetterWorldBooks to find out if there are [affordable hardcovers of books I love](https://www.betterworldbooks.com/My/Wishlist?wishlistId=3507911&wishlistName=Json Becker).\n",
+				"date_published": "2020-08-23T11:36:42-04:00",
+				"url": "https://micro.json.blog/2020/08/23/some-people-check.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2020/08/22/this-weeks-reading.html",
 				
 				"content_html": "<p>This week’s reading haul.</p>\n\n<p><img src=\"uploads/2020/d12e09fd74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
