@@ -7,6 +7,110 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2020/09/19/i-have-to.html",
+				
+				"content_html": "<p>I have to admit, at the start, I was quite skeptical, but The Devil All the Time was quite a good film, even if it was incredibly dark.</p>\n",
+				"content_text": "I have to admit, at the start, I was quite skeptical, but The Devil All the Time was quite a good film, even if it was incredibly dark.\n",
+				"date_published": "2020-09-19T21:52:50-04:00",
+				"url": "https://micro.json.blog/2020/09/19/i-have-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/18/i-spent-some.html",
+				
+				"content_html": "<p>I spent some time this morning grooming/cleaning up some old bugs from our list and it felt so good. Like a solid scaling job at the dentist.</p>\n",
+				"content_text": "I spent some time this morning grooming/cleaning up some old bugs from our list and it felt so good. Like a solid scaling job at the dentist.\n",
+				"date_published": "2020-09-18T17:42:56-04:00",
+				"url": "https://micro.json.blog/2020/09/18/i-spent-some.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/16/why-the-left.html",
+				"title": "Why the Left is Toxic to Progressive Goals",
+				"content_html": "<blockquote>\n<p>McGhee, the former Demos president, framed progressives’ decision-making as a matter of priorities. “You have to be committed to winning real gains for the people at every step of the way as you build power,” she said. Progressives “stopped fighting on Medicaid expansion in predominantly Black states, and people are dying because we only want to talk about Medicare for All.”</p>\n</blockquote>\n\n<p>This <a href=\"https://www.theatlantic.com/politics/archive/2020/09/joe-biden-sean-mcelwee-and-future-progressive-power/616213/\">great profile of Sean McElwee</a> is also the perfect description of why I think the Left, and especially the DSA, are both horrificially bad at politics and making it harder to achieve the progressive goals I mostly share with them.</p>\n",
+				"content_text": "> McGhee, the former Demos president, framed progressives’ decision-making as a matter of priorities. “You have to be committed to winning real gains for the people at every step of the way as you build power,” she said. Progressives “stopped fighting on Medicaid expansion in predominantly Black states, and people are dying because we only want to talk about Medicare for All.”\n\nThis [great profile of Sean McElwee](https://www.theatlantic.com/politics/archive/2020/09/joe-biden-sean-mcelwee-and-future-progressive-power/616213/) is also the perfect description of why I think the Left, and especially the DSA, are both horrificially bad at politics and making it harder to achieve the progressive goals I mostly share with them.\n",
+				"date_published": "2020-09-16T08:39:02-04:00",
+				"url": "https://micro.json.blog/2020/09/16/why-the-left.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/15/blocktober-is-an.html",
+				
+				"content_html": "<p><a href=\"https://www.manton.org/2020/09/15/from-the-indieweb.html\">Blocktober</a> is an idea I can get behind. Especially given how prone I am to doomscrolling in the lead up to an election that will have ridiculously high stakes.</p>\n",
+				"content_text": "[Blocktober](https://www.manton.org/2020/09/15/from-the-indieweb.html) is an idea I can get behind. Especially given how prone I am to doomscrolling in the lead up to an election that will have ridiculously high stakes.\n",
+				"date_published": "2020-09-15T22:25:13-04:00",
+				"url": "https://micro.json.blog/2020/09/15/blocktober-is-an.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/15/theres-not-a.html",
+				
+				"content_html": "<p>There&rsquo;s not a ton in the Watch 6 for me, but the trade in value on my current Watch 4 is plenty high enough to make it a worthwhile upgrade.</p>\n",
+				"content_text": "There's not a ton in the Watch 6 for me, but the trade in value on my current Watch 4 is plenty high enough to make it a worthwhile upgrade.\n",
+				"date_published": "2020-09-15T14:24:36-04:00",
+				"url": "https://micro.json.blog/2020/09/15/theres-not-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/15/after-admiring-the.html",
+				
+				"content_html": "<p>After admiring the idea of <a href=\"https://github.com/ropensci/drake\">drake</a> for a long time, I think I finally have a problem that calls for using it.</p>\n",
+				"content_text": "After admiring the idea of [drake](https://github.com/ropensci/drake) for a long time, I think I finally have a problem that calls for using it.\n",
+				"date_published": "2020-09-15T00:05:40-04:00",
+				"url": "https://micro.json.blog/2020/09/15/after-admiring-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/14/i-had-a.html",
+				
+				"content_html": "<p>I had a lie down this evening and it basically restored me to health.</p>\n\n<p>I’m a fucking character in an RPG.</p>\n",
+				"content_text": "I had a lie down this evening and it basically restored me to health.\n\nI’m a fucking character in an RPG.\n",
+				"date_published": "2020-09-14T22:41:32-04:00",
+				"url": "https://micro.json.blog/2020/09/14/i-had-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/14/the-last-months.html",
+				
+				"content_html": "<p>The last 6 months or so, roughly 9 years into writing #rstats, I’ve begun to feel very confident in my skills.</p>\n\n<p>Can I do everything? Of course not. But I went months writing almost no code and came back to it with no hiccups. I feel fluent, at least in my corner.</p>\n",
+				"content_text": "The last 6 months or so, roughly 9 years into writing #rstats, I’ve begun to feel very confident in my skills. \n\nCan I do everything? Of course not. But I went months writing almost no code and came back to it with no hiccups. I feel fluent, at least in my corner.\n",
+				"date_published": "2020-09-14T22:38:45-04:00",
+				"url": "https://micro.json.blog/2020/09/14/the-last-months.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/14/this-review-of.html",
+				
+				"content_html": "<p><a href=\"https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp/\">This review</a> of <em>Lurking: How a Person Became a User</em> sure makes me want to read it. Sounds like it chronicles exactly what I loved, and now hate, about the internet.</p>\n",
+				"content_text": "[This review](https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp/) of _Lurking: How a Person Became a User_ sure makes me want to read it. Sounds like it chronicles exactly what I loved, and now hate, about the internet.\n",
+				"date_published": "2020-09-14T10:17:50-04:00",
+				"url": "https://micro.json.blog/2020/09/14/this-review-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/13/poppy-li-is.html",
+				
+				"content_html": "<p>Poppy Li is a critical character in our culture as a successful main character who does not own a car. In this essay, I will&hellip;</p>\n",
+				"content_text": "Poppy Li is a critical character in our culture as a successful main character who does not own a car. In this essay, I will...\n",
+				"date_published": "2020-09-13T21:04:45-04:00",
+				"url": "https://micro.json.blog/2020/09/13/poppy-li-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/13/harissa-chicken-pita.html",
+				
+				"content_html": "<p>Harissa Chicken Pita</p>\n\n<p><a href=\"https://micro.json.blog/uploads/2020/b95369489a.jpg\"><img src=\"uploads/2020/b95369489a.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.json.blog/uploads/2020/7d29de6442.jpg\"><img src=\"uploads/2020/7d29de6442.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.json.blog/uploads/2020/5ec8c4cfef.jpg\"><img src=\"uploads/2020/5ec8c4cfef.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Harissa Chicken Pita\n\n<a href=\"https://micro.json.blog/uploads/2020/b95369489a.jpg\"><img src=\"uploads/2020/b95369489a.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.json.blog/uploads/2020/7d29de6442.jpg\"><img src=\"uploads/2020/7d29de6442.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.json.blog/uploads/2020/5ec8c4cfef.jpg\"><img src=\"uploads/2020/5ec8c4cfef.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-09-13T20:35:23-04:00",
+				"url": "https://micro.json.blog/2020/09/13/harissa-chicken-pita.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/13/is-it-crazy.html",
+				
+				"content_html": "<p>Is it crazy to learn Phoenix and Elixir (and modern web dev) by writing a micropub server that does indieauth/accepts all the micropub end points and generates files for Hugo?</p>\n",
+				"content_text": "Is it crazy to learn Phoenix and Elixir (and modern web dev) by writing a micropub server that does indieauth/accepts all the micropub end points and generates files for Hugo?\n",
+				"date_published": "2020-09-13T19:25:45-04:00",
+				"url": "https://micro.json.blog/2020/09/13/is-it-crazy.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/09/13/simpler-way-to.html",
+				"title": "Simpler Way to Fill Missing Data?",
+				"content_html": "<p>Hey #rstats, so I do a pattern like this all the time— essentially fill in missing values from some other data source. I feel like there must be some <code>*_join</code> or other incantation that does this cleaner… is there or should I just write my own utility function?</p>\n\n<pre><code class=\"language-r\">transactions %&gt;%\n  left_join(po_vendors, by = &quot;po&quot;) %&gt;%\n  mutate(vendor = coalesce(vendor.x, vendor.y)) %&gt;%\n  select(-matches(&quot;\\\\..$&quot;))\n</code></pre>\n",
+				"content_text": "Hey #rstats, so I do a pattern like this all the time— essentially fill in missing values from some other data source. I feel like there must be some `*_join` or other incantation that does this cleaner… is there or should I just write my own utility function?\n\n```r\ntransactions %>%\n  left_join(po_vendors, by = \"po\") %>%\n  mutate(vendor = coalesce(vendor.x, vendor.y)) %>%\n  select(-matches(\"\\\\..$\"))\n```\n",
+				"date_published": "2020-09-13T19:04:37-04:00",
+				"url": "https://micro.json.blog/2020/09/13/simpler-way-to.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2020/09/12/taken-over-by.html",
 				"title": "Taken Over by Blands",
 				"content_html": "<blockquote>\n<p>The one liberal value blands tend to elide is inequality, because while blands are, by definition, not opulent, neither are they bargain-basement. For the rich, blands are an ironic normcore trifle; for the aspiring middle, blands offer a fleeting facsimile of prosperity; and for the poor, blands are either the products they make, or the services they provide.</p>\n</blockquote>\n\n<p>— Ben Schott, <a href=\"https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism\">Welcome to Your Bland New World</a></p>\n\n<p>I both loathe and love Blands myself. I am the target market, of course, but often find them disappointing relative to the standard bearers.</p>\n\n<p>What I find attractive about most direct to consumer companies is not discussed too much in this article, which rightly criticizes their faux ethics and VC-backed rise and fall. No, what I like about most blands is an uncomplicated, consistent buying experience. Blands and their marketing buzz means I can get access to sufficient reviews and testimonials to know if the product is good. I can rely on an easy online shopping experience. Shipping is consistent and tracked. Return policies are reasonable.</p>\n\n<p>It wasn’t long ago that none of this was a given on the web, and therefore your choices were in person shopping or Amazon. Or at least it seemed that way to me.</p>\n\n<p>In that sense, the really disruption to Blands has not been their proliferation beyond what the market can bear, nor has it been the Instagram dropshipping clones. The real change has been Shopify, and to a lesser degree Stripe and Square, which have made it easier for small businesses to have the same solid online shopping experience that Blands had.</p>\n\n<p>Increasingly when I buy online, I recognize the same store design, the same email confirmation, and the same shipping tracking. Thi s is not bland— my experience in stores is consistent when buying in brick-and-mortar stores, and this consistency online is welcome. It increases my personal trust. It’s enabling small businesses with quality products to have presence.</p>\n\n<p>Most of the Blands don’t have much to offer me anymore. They can’t differentiate amongst themselves, and they can’t compete with quality products from companies who sell great products for a profit instead of blitzscaling.</p>\n",
