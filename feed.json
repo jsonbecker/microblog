@@ -7,6 +7,89 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2020/10/12/what-happens-when.html",
+				
+				"content_html": "<p><a href=\"http://schoolfinancedata.org/wp-content/uploads/2020/10/Profiles17_RI.pdf\">What happens</a> when you spend a lot on education, mostly from high local property taxes, in class-segregated state.</p>\n\n<p>The real reason RI should have fewer districts is to fix this problem.</p>\n",
+				"content_text": "[What happens](http://schoolfinancedata.org/wp-content/uploads/2020/10/Profiles17_RI.pdf) when you spend a lot on education, mostly from high local property taxes, in class-segregated state.\n\nThe real reason RI should have fewer districts is to fix this problem.\n",
+				"date_published": "2020-10-12T09:59:33-04:00",
+				"url": "https://micro.json.blog/2020/10/12/what-happens-when.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/11/airpods-pro-switching.html",
+				
+				"content_html": "<p>AirPods Pro switching seamlessly between the podcast playing on my iPhone and the Twitter video I check out on my iPad is <em><em>fucking magic</em></em>.</p>\n",
+				"content_text": "AirPods Pro switching seamlessly between the podcast playing on my iPhone and the Twitter video I check out on my iPad is _*fucking magic*_.\n",
+				"date_published": "2020-10-11T18:03:29-04:00",
+				"url": "https://micro.json.blog/2020/10/11/airpods-pro-switching.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/10/maybe-its-the.html",
+				
+				"content_html": "<p>Maybe it’s the Jewish in me, but nothing smells better than chicken fat, salt, and pepper cooking up together. Schmaltz is life.</p>\n",
+				"content_text": "Maybe it’s the Jewish in me, but nothing smells better than chicken fat, salt, and pepper cooking up together. Schmaltz is life.\n",
+				"date_published": "2020-10-10T22:22:33-04:00",
+				"url": "https://micro.json.blog/2020/10/10/maybe-its-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/10/this-morning-i.html",
+				
+				"content_html": "<p>This morning I sat a the local coffee shop and ate this expensive toast. It was delicious. But it was also so normal and pleasant.</p>\n\n<div class=\"img-gallery\">\n<a href=\"https://micro.json.blog/uploads/2020/d62015827f.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"goodneighbors\"\n   \n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/d62015827f.jpg\"\n        \n           alt=\"Jambon et Beurre toast\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://micro.json.blog/uploads/2020/b713bd34f6.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"goodneighbors\"\n   \n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/b713bd34f6.jpg\"\n        \n           alt=\"The outdoor space at my local coffee shop.\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n</div>\n",
+				"content_text": "This morning I sat a the local coffee shop and ate this expensive toast. It was delicious. But it was also so normal and pleasant. \n\n<div class=\"img-gallery\">\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/d62015827f.jpg\" gallery=\"goodneighbors\" alt=\"Jambon et Beurre toast\" >}}\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/b713bd34f6.jpg\" gallery=\"goodneighbors\" alt=\"The outdoor space at my local coffee shop.\">}}\n</div>\n",
+				"date_published": "2020-10-10T17:19:56-04:00",
+				"url": "https://micro.json.blog/2020/10/10/this-morning-i.html",
+				"tags": ["photoblogging","baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/10/ikea-pegboard-installed.html",
+				
+				"content_html": "<p>IKEA pegboard installed. Level and square, which was significantly harder than I thought it’d be.</p>\n\n<p>More office shots soon. Hopefully will be fully cozied by end of year.</p>\n\n<a href=\"https://micro.json.blog/uploads/2020/fdfe48cadc.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/fdfe48cadc.jpg\"\n        \n           alt=\"Two white IKEA Skadis pegboards mounted above my desk.\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n",
+				"content_text": "IKEA pegboard installed. Level and square, which was significantly harder than I thought it’d be.\n\nMore office shots soon. Hopefully will be fully cozied by end of year.\n\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/fdfe48cadc.jpg\" alt=\"Two white IKEA Skadis pegboards mounted above my desk.\" >}}\n",
+				"date_published": "2020-10-10T17:16:02-04:00",
+				"url": "https://micro.json.blog/2020/10/10/ikea-pegboard-installed.html",
+				"tags": ["photoblogging","baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/10/the-main-reason.html",
+				
+				"content_html": "<p>The main reason I hope one day to have a home with a yard is to build an ADU for work <a href=\"https://reddit.com/r/CozyPlaces/comments/j8lk6f/ext_pro_a_writers_tiny_work_shed_in_the_garden/\">like this</a>.</p>\n\n<p>I just want a music listening, book reading, personal computer working shack.</p>\n",
+				"content_text": "The main reason I hope one day to have a home with a yard is to build an ADU for work [like this](https://reddit.com/r/CozyPlaces/comments/j8lk6f/ext_pro_a_writers_tiny_work_shed_in_the_garden/). \n\nI just want a music listening, book reading, personal computer working shack.\n",
+				"date_published": "2020-10-10T17:07:50-04:00",
+				"url": "https://micro.json.blog/2020/10/10/the-main-reason.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/08/i-have-a.html",
+				
+				"content_html": "<p>I have a very particular and bizarre set of anxieties.</p>\n",
+				"content_text": "I have a very particular and bizarre set of anxieties.\n",
+				"date_published": "2020-10-08T22:41:20-04:00",
+				"url": "https://micro.json.blog/2020/10/08/i-have-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/07/this-dog.html",
+				
+				"content_html": "<p>This dog.</p>\n\n<a href=\"https://micro.json.blog/uploads/2020/3b0a45a35d.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/3b0a45a35d.jpg\"\n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n",
+				"content_text": "This dog.\n\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/3b0a45a35d.jpg\" >}}\n",
+				"date_published": "2020-10-07T19:32:54-04:00",
+				"url": "https://micro.json.blog/2020/10/07/this-dog.html",
+				"tags": ["photoblogging","dogs"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/05/having-a-full.html",
+				
+				"content_html": "<p>Having a full bleed option for the central column of my blog layout using CSS grid is something I struggled with. This <a href=\"https://joshwcomeau.com/css/full-bleed/\">solution is great</a>, and like all great solutions, seems completely obvious now that I&rsquo;ve read it. Excited to implement this weekend.</p>\n",
+				"content_text": "Having a full bleed option for the central column of my blog layout using CSS grid is something I struggled with. This [solution is great](https://joshwcomeau.com/css/full-bleed/), and like all great solutions, seems completely obvious now that I've read it. Excited to implement this weekend.\n",
+				"date_published": "2020-10-05T12:56:27-04:00",
+				"url": "https://micro.json.blog/2020/10/05/having-a-full.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/04/achievement-unlocked-got.html",
+				
+				"content_html": "<p>Achievement Unlocked: Got the “Are you still watching?” shame dialog while watching The West Wing.</p>\n",
+				"content_text": "Achievement Unlocked: Got the “Are you still watching?” shame dialog while watching The West Wing.\n",
+				"date_published": "2020-10-04T21:16:01-04:00",
+				"url": "https://micro.json.blog/2020/10/04/achievement-unlocked-got.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2020/10/04/delete-your-facebook.html",
 				
 				"content_html": "<p><a href=\"https://www.cnn.com/2020/10/02/politics/fact-check-trump-facebook-biden-earpiece/index.html\">Delete</a> <a href=\"https://www.vox.com/recode/2020/10/1/21497453/facebook-democrats-2020-election-misinformation\">your</a> Facebook.</p>\n",
