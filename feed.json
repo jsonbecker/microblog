@@ -7,6 +7,119 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2020/10/27/you-know-youve.html",
+				
+				"content_html": "<p>You know you’ve crossed a demographic age band each time you bump up the text size of iTerm another step or two.</p>\n",
+				"content_text": "You know you’ve crossed a demographic age band each time you bump up the text size of iTerm another step or two.\n",
+				"date_published": "2020-10-27T16:23:46-04:00",
+				"url": "https://micro.json.blog/2020/10/27/you-know-youve.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/26/when-i-heard.html",
+				
+				"content_html": "<p>When I heard about City Cast on this week&rsquo;s @SlateGabfest, I lifted my fist like an antennas to heaven. <a href=\"https://medium.com/@davidplotz_89250/the-future-is-local-thats-why-i-m-launching-city-cast-a-network-of-daily-local-podcasts-2537bc9b0773\">This is a great idea to bolster our local news media landscape</a>.</p>\n",
+				"content_text": "When I heard about City Cast on this week's @SlateGabfest, I lifted my fist like an antennas to heaven. [This is a great idea to bolster our local news media landscape](https://medium.com/@davidplotz_89250/the-future-is-local-thats-why-i-m-launching-city-cast-a-network-of-daily-local-podcasts-2537bc9b0773).\n",
+				"date_published": "2020-10-26T12:41:55-04:00",
+				"url": "https://micro.json.blog/2020/10/26/when-i-heard.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/25/in-a-generation.html",
+				
+				"content_html": "<blockquote>\n<p>In 1990 a generation of baby-boomers, with a median age of 35, owned a third of America’s real estate by value. In 2019 a similarly sized cohort of millennials, aged 31, owned just 4%.</p>\n</blockquote>\n\n<p>From <a href=\"https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake\">The horrible housing blunder</a></p>\n",
+				"content_text": "> In 1990 a generation of baby-boomers, with a median age of 35, owned a third of America’s real estate by value. In 2019 a similarly sized cohort of millennials, aged 31, owned just 4%.\n\nFrom [The horrible housing blunder](https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake)\n",
+				"date_published": "2020-10-25T23:25:13-04:00",
+				"url": "https://micro.json.blog/2020/10/25/in-a-generation.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/24/is-there-any.html",
+				
+				"content_html": "<p>Is there any reason not to have a mailto link to my email address on my site?</p>\n",
+				"content_text": "Is there any reason not to have a mailto link to my email address on my site?\n",
+				"date_published": "2020-10-24T23:47:28-04:00",
+				"url": "https://micro.json.blog/2020/10/24/is-there-any.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/24/some-greek-cooking.html",
+				"title": "Some Greek Cooking",
+				"content_html": "<div class=\"img-gallery\">\n<a href=\"https://micro.json.blog/uploads/2020/16529f1850.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"greekfood\"\n   \n   \n     data-glightbox=\"title:Horiatiki;description:\"\n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/16529f1850.jpg\"\n        \n        \n           title=Horiatiki \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://micro.json.blog/uploads/2020/0c3b2b1770.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"greekfood\"\n   \n   \n     data-glightbox=\"title:Avgolemono;description:\"\n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/0c3b2b1770.jpg\"\n        \n        \n           title=Avgolemono \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://micro.json.blog/uploads/2020/c14956c17f.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"greekfood\"\n   \n   \n     data-glightbox=\"title:Spanikopita;description:\"\n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/c14956c17f.jpg\"\n        \n        \n           title=Spanikopita \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://micro.json.blog/uploads/2020/05dc3b97f1.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"greekfood\"\n   \n   \n     data-glightbox=\"title:Spanikopita -- Detail;description:\"\n   \n>\n<img src= \"https://micro.json.blog/uploads/2020/05dc3b97f1.jpg\"\n        \n        \n           title=Spanikopita&#32;--&#32;Detail \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n</div>\n",
+				"content_text": "<div class=\"img-gallery\">\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/16529f1850.jpg\" gallery=\"greekfood\" title=\"Horiatiki\" width=\"1512\" height=\"2016\" >}}\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/0c3b2b1770.jpg\" gallery=\"greekfood\" title=\"Avgolemono\" width=\"1512\" height=\"2016\" >}}\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/c14956c17f.jpg\" gallery=\"greekfood\" title=\"Spanikopita\" width=\"1512\" height=\"2016\" >}}\n{{< glightbox src=\"https://micro.json.blog/uploads/2020/05dc3b97f1.jpg\" gallery=\"greekfood\" title=\"Spanikopita -- Detail\" width=\"1512\" height=\"2016\" >}}\n</div>\n",
+				"date_published": "2020-10-24T22:37:33-04:00",
+				"url": "https://micro.json.blog/2020/10/24/some-greek-cooking.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/24/listening-to-theincomparable.html",
+				
+				"content_html": "<p>Listening to @theincomparable episode on Ted Lasso is making me so excited to watch Ted Lasso again.</p>\n",
+				"content_text": "Listening to @theincomparable episode on Ted Lasso is making me so excited to watch Ted Lasso again.\n",
+				"date_published": "2020-10-24T21:54:07-04:00",
+				"url": "https://micro.json.blog/2020/10/24/listening-to-theincomparable.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/23/am-i-misremembering.html",
+				
+				"content_html": "<p>Am I misremembering, or was TV’s The Sarah Connor Chronicles the best entry in the Terminator franchise?</p>\n",
+				"content_text": "Am I misremembering, or was TV’s The Sarah Connor Chronicles the best entry in the Terminator franchise?\n",
+				"date_published": "2020-10-23T22:48:00-04:00",
+				"url": "https://micro.json.blog/2020/10/23/am-i-misremembering.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/21/this-album-is.html",
+				
+				"content_html": "<p><a href=\"https://open.spotify.com/album/1l30Lz33tMOir9eKHGHfgZ?si=nX9EtoBYQr6jbFVTi_cs5w\">This album is pop-punk perfection</a>, and was a the dominant sound of my 2002.</p>\n\n<p>Midtown&rsquo;s live show featured a moment where they all just <em>stopped</em> at a tense moment in the song and hold killer rockstar poses for impossibly long before crashing into the rest of the song. It was magic.</p>\n",
+				"content_text": "[This album is pop-punk perfection](https://open.spotify.com/album/1l30Lz33tMOir9eKHGHfgZ?si=nX9EtoBYQr6jbFVTi_cs5w), and was a the dominant sound of my 2002.\n\nMidtown's live show featured a moment where they all just _stopped_ at a tense moment in the song and hold killer rockstar poses for impossibly long before crashing into the rest of the song. It was magic.\n",
+				"date_published": "2020-10-21T22:01:32-04:00",
+				"url": "https://micro.json.blog/2020/10/21/this-album-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/21/every-year-austin.html",
+				
+				"content_html": "<p>Every year Austin Mann reminds me that <a href=\"http://austinmann.com/trek/iphone-12-pro-camera-review-glacier\">it&rsquo;s not the equipment, but the operator</a>.</p>\n",
+				"content_text": "Every year Austin Mann reminds me that [it's not the equipment, but the operator](http://austinmann.com/trek/iphone-12-pro-camera-review-glacier).\n",
+				"date_published": "2020-10-21T21:56:52-04:00",
+				"url": "https://micro.json.blog/2020/10/21/every-year-austin.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/21/i-need-to.html",
+				
+				"content_html": "<p>I need to stop reading books before bed when I have less than 2 hours to go, because I inevitably stay up too late in order to finish them.</p>\n",
+				"content_text": "I need to stop reading books before bed when I have less than 2 hours to go, because I inevitably stay up too late in order to finish them.\n",
+				"date_published": "2020-10-21T01:39:21-04:00",
+				"url": "https://micro.json.blog/2020/10/21/i-need-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/20/on-the-one.html",
+				
+				"content_html": "<p>On the one hand, I feel so angry that Trump has stolen the freedom to not think about politics with every breath. On the other hand, I am happy to see a lot of “content creators”/“personalities” break the glass and make their politics clear.</p>\n",
+				"content_text": "On the one hand, I feel so angry that Trump has stolen the freedom to not think about politics with every breath. On the other hand, I am happy to see a lot of “content creators”/“personalities” break the glass and make their politics clear.\n",
+				"date_published": "2020-10-20T21:59:55-04:00",
+				"url": "https://micro.json.blog/2020/10/20/on-the-one.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/20/i-dont-need.html",
+				
+				"content_html": "<p>I don’t need it, but I really want an ES-335 and a Les Paul with P90s.</p>\n",
+				"content_text": "I don’t need it, but I really want an ES-335 and a Les Paul with P90s.\n",
+				"date_published": "2020-10-20T20:52:23-04:00",
+				"url": "https://micro.json.blog/2020/10/20/i-dont-need.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/19/this-video-going.html",
+				
+				"content_html": "<p>This video going through how great the animation is in Akira is spectacular. \n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/2ltgr21jMag\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n</p>\n",
+				"content_text": "This video going through how great the animation is in Akira is spectacular. {{< youtube 2ltgr21jMag >}}\n",
+				"date_published": "2020-10-19T22:30:05-04:00",
+				"url": "https://micro.json.blog/2020/10/19/this-video-going.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/10/19/i-dont-think.html",
+				
+				"content_html": "<p>I don&rsquo;t think I realized that FaceID and TouchID were <a href=\"https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/\">coming to the web</a>, but I think this is freaking great.</p>\n",
+				"content_text": "I don't think I realized that FaceID and TouchID were [coming to the web](https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/), but I think this is freaking great.\n",
+				"date_published": "2020-10-19T21:19:58-04:00",
+				"url": "https://micro.json.blog/2020/10/19/i-dont-think.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2020/10/19/rough-time-of.html",
 				
 				"content_html": "<p>Rough time of the year where I think, “Whelp. I’m done with dinner and it’s dark, time for bed!” but actually it’s 7:30pm.</p>\n",
