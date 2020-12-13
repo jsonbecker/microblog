@@ -7,6 +7,127 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2020/12/13/i-miss-having.html",
+				
+				"content_html": "<p>I miss having real snow now that I&rsquo;m in Baltimore. The last big storm to hit here, and it was a <em>bad</em> one, was the year before I moved here. Even in the middle of quarantine, a big snow has a different way of shutting things down that feels special. I&rsquo;d love a big one this year.</p>\n",
+				"content_text": "I miss having real snow now that I'm in Baltimore. The last big storm to hit here, and it was a _bad_ one, was the year before I moved here. Even in the middle of quarantine, a big snow has a different way of shutting things down that feels special. I'd love a big one this year.\n",
+				"date_published": "2020-12-13T11:40:38-05:00",
+				"url": "https://micro.json.blog/2020/12/13/i-miss-having.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/12/a-recent-discovery.html",
+				
+				"content_html": "<p>A recent discovery by a coworker— because of some work we did to be far more efficient with some bulk data processes, turns out we have to start thinking about the autovacuum/analyze settings again because we’re not guaranteed new statistics the way we were.</p>\n",
+				"content_text": "A recent discovery by a coworker— because of some work we did to be far more efficient with some bulk data processes, turns out we have to start thinking about the autovacuum/analyze settings again because we’re not guaranteed new statistics the way we were.\n",
+				"date_published": "2020-12-12T21:21:46-05:00",
+				"url": "https://micro.json.blog/2020/12/12/a-recent-discovery.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/12/should-i-be.html",
+				
+				"content_html": "<p>Should I be in a “Discord” of any kind? Am I missing something interesting by skipping out on these communities?</p>\n",
+				"content_text": "Should I be in a “Discord” of any kind? Am I missing something interesting by skipping out on these communities?\n",
+				"date_published": "2020-12-12T20:41:32-05:00",
+				"url": "https://micro.json.blog/2020/12/12/should-i-be.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/12/its-been-months.html",
+				
+				"content_html": "<p>It’s been months since I watched Mythic Quest, but I still think about how much I love the character Poppy Li.</p>\n",
+				"content_text": "It’s been months since I watched Mythic Quest, but I still think about how much I love the character Poppy Li.\n",
+				"date_published": "2020-12-12T20:37:36-05:00",
+				"url": "https://micro.json.blog/2020/12/12/its-been-months.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/12/the-gb-ram.html",
+				
+				"content_html": "<p>The 16GB RAM Mac Mini now won’t deliver until January 20. Did they way underestimate the desktop market that wants some RAM?</p>\n",
+				"content_text": "The 16GB RAM Mac Mini now won’t deliver until January 20. Did they way underestimate the desktop market that wants some RAM?\n",
+				"date_published": "2020-12-12T14:23:48-05:00",
+				"url": "https://micro.json.blog/2020/12/12/the-gb-ram.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/12/it-took-me.html",
+				
+				"content_html": "<p>It took me until this moment to realize that samosas and knishes are basically the same food product.</p>\n",
+				"content_text": "It took me until this moment to realize that samosas and knishes are basically the same food product.\n",
+				"date_published": "2020-12-12T14:19:18-05:00",
+				"url": "https://micro.json.blog/2020/12/12/it-took-me.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/12/to-feel-loved.html",
+				
+				"content_html": "<p>To feel loved, go away for three days after being home all the time for 9 months due to a pandemic and be greeted by your dogs.</p>\n",
+				"content_text": "To feel loved, go away for three days after being home all the time for 9 months due to a pandemic and be greeted by your dogs.\n",
+				"date_published": "2020-12-12T13:21:35-05:00",
+				"url": "https://micro.json.blog/2020/12/12/to-feel-loved.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/11/just-steps-outside.html",
+				
+				"content_html": "<p>Just steps outside our AirBnB (pictured third)</p>\n\n<p><img src=\"uploads/2020/88f358e0c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/cdb2700349.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/250bf282da.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just steps outside our AirBnB (pictured third)\n\n<img src=\"uploads/2020/88f358e0c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/cdb2700349.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/250bf282da.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-12-11T14:57:28-05:00",
+				"url": "https://micro.json.blog/2020/12/11/just-steps-outside.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/10/apple-music-memos.html",
+				
+				"content_html": "<p><a href=\"https://www.macstories.net/linked/apple-to-discontinue-music-memos-app-in-march/\">Apple Music Memos is done</a>. This app is a great tool, and I’m very sad it’s going away.</p>\n",
+				"content_text": "[Apple Music Memos is done](https://www.macstories.net/linked/apple-to-discontinue-music-memos-app-in-march/). This app is a great tool, and I’m very sad it’s going away.\n",
+				"date_published": "2020-12-10T19:08:53-05:00",
+				"url": "https://micro.json.blog/2020/12/10/apple-music-memos.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/09/i-really-wish.html",
+				
+				"content_html": "<p>I really wish Apple would release a HomePod-tech inspired AppleTV Soundbar. It would be an instant buy for me in secondary rooms.</p>\n",
+				"content_text": "I really wish Apple would release a HomePod-tech inspired AppleTV Soundbar. It would be an instant buy for me in secondary rooms.\n",
+				"date_published": "2020-12-09T09:26:50-05:00",
+				"url": "https://micro.json.blog/2020/12/09/i-really-wish.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/07/the-autogolpe.html",
+				"title": "The Autogolpe",
+				"content_html": "<blockquote>\n<p>Punditry can tend to focus too much on decorum and terminology, like the overachieving students so many of us once were, conflating the ridiculous with the unserious. The incoherence and the incompetence of the attempt do not change its nature, however, nor do those traits allow us to dismiss it or ignore it until it finally fails on account of its incompetence.</p>\n</blockquote>\n\n<p>&ndash; <a href=\"https://www.theatlantic.com/ideas/archive/2020/12/trumps-farcical-inept-and-deadly-serious-coup-attempt/617309/\">Xeynep Tufekci on Trump&rsquo;s autogolpe</a></p>\n",
+				"content_text": "> Punditry can tend to focus too much on decorum and terminology, like the overachieving students so many of us once were, conflating the ridiculous with the unserious. The incoherence and the incompetence of the attempt do not change its nature, however, nor do those traits allow us to dismiss it or ignore it until it finally fails on account of its incompetence.\n\n-- [Xeynep Tufekci on Trump's autogolpe](https://www.theatlantic.com/ideas/archive/2020/12/trumps-farcical-inept-and-deadly-serious-coup-attempt/617309/)\n",
+				"date_published": "2020-12-07T14:23:15-05:00",
+				"url": "https://micro.json.blog/2020/12/07/the-autogolpe.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/06/my-mil-is.html",
+				
+				"content_html": "<p>My MIL is retired and lives at home with us. She loves ID, Discovery, TLC, Lifetime, OWN, etc. Because of that, we have had to pay for some form of live TV since she moved in with us 4 years ago. Discovery+ is going to save us at least $45 a month.</p>\n",
+				"content_text": "My MIL is retired and lives at home with us. She loves ID, Discovery, TLC, Lifetime, OWN, etc. Because of that, we have had to pay for some form of live TV since she moved in with us 4 years ago. Discovery+ is going to save us at least $45 a month.\n",
+				"date_published": "2020-12-06T18:05:56-05:00",
+				"url": "https://micro.json.blog/2020/12/06/my-mil-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/06/two-books-to.html",
+				
+				"content_html": "<p>Two books to go on my Goodreads challenge in December means that my next book choice is quite possibly the most perilous of the year. A good one means smooth sailing to my goal; a slog could lead to my defeat.</p>\n",
+				"content_text": "Two books to go on my Goodreads challenge in December means that my next book choice is quite possibly the most perilous of the year. A good one means smooth sailing to my goal; a slog could lead to my defeat.\n",
+				"date_published": "2020-12-06T15:22:00-05:00",
+				"url": "https://micro.json.blog/2020/12/06/two-books-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/06/naomi-novik-is.html",
+				
+				"content_html": "<p>Naomi Novik is now quite clearly one of my favorite active authors.</p>\n",
+				"content_text": "Naomi Novik is now quite clearly one of my favorite active authors.\n",
+				"date_published": "2020-12-06T12:38:55-05:00",
+				"url": "https://micro.json.blog/2020/12/06/naomi-novik-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2020/12/06/oh-fun-your.html",
+				
+				"content_html": "<p>Oh fun. Your API returns dates as strings, and sometimes, just for fun, changes the string format. That’s so great. Love that journey for us.</p>\n",
+				"content_text": "Oh fun. Your API returns dates as strings, and sometimes, just for fun, changes the string format. That’s so great. Love that journey for us.\n",
+				"date_published": "2020-12-06T11:37:36-05:00",
+				"url": "https://micro.json.blog/2020/12/06/oh-fun-your.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2020/12/05/i-hate-trivia.html",
 				
 				"content_html": "<p>I hate trivia so much. Everyone thinks I’d be great at trivia, because I seemingly know all kinds of useless things. So I always just feel bad, becuse what I know is so useless it doesn’t even come up during trivia.</p>\n",
