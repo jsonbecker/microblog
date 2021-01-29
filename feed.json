@@ -7,6 +7,143 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/01/29/i-am-today.html",
+				
+				"content_html": "<p>I am today years old.</p>\n\n<p><img src=\"uploads/2021/e531981655.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "I am today years old.\n\n<img src=\"uploads/2021/e531981655.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2021-01-29T09:57:24-05:00",
+				"url": "https://json.blog/2021/01/29/i-am-today.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/28/the-invisible-library.html",
+				
+				"content_html": "<p><a href=\"https://io9.gizmodo.com/the-invisible-library-is-my-fantasy-novel-comfort-food-1846126405\">The Invisible Library Is My Fantasy Novel Comfort Food</a></p>\n\n<p>Couldn’t agree more.</p>\n",
+				"content_text": "[The Invisible Library Is My Fantasy Novel Comfort Food](https://io9.gizmodo.com/the-invisible-library-is-my-fantasy-novel-comfort-food-1846126405)\n\nCouldn’t agree more.\n",
+				"date_published": "2021-01-28T00:50:18-05:00",
+				"url": "https://json.blog/2021/01/28/the-invisible-library.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/27/is-there-a.html",
+				
+				"content_html": "<p>Is there a good, up-to-date guide of settings I may want to hit on Big Sur with all the <code>defaults write com.apple</code> stuff?</p>\n",
+				"content_text": "Is there a good, up-to-date guide of settings I may want to hit on Big Sur with all the `defaults write com.apple` stuff?\n",
+				"date_published": "2021-01-27T16:22:37-05:00",
+				"url": "https://json.blog/2021/01/27/is-there-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/27/i-really-dislike.html",
+				
+				"content_html": "<p>I really dislike Elon Musk and was hoping more (and more affordable) EVs would be on the market in 2 yearss when my lease is up. But the total failure of other manufacturers to <a href=\"https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust\">replicate anything like the supercharger network</a> makes it quite likely I&rsquo;ll have a Tesla.</p>\n",
+				"content_text": "I really dislike Elon Musk and was hoping more (and more affordable) EVs would be on the market in 2 yearss when my lease is up. But the total failure of other manufacturers to [replicate anything like the supercharger network](https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust) makes it quite likely I'll have a Tesla.\n",
+				"date_published": "2021-01-27T13:52:46-05:00",
+				"url": "https://json.blog/2021/01/27/i-really-dislike.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/26/theres-nothing-worse.html",
+				
+				"content_html": "<p>There’s nothing worse than a process with a 20 min long feedback cycle.</p>\n",
+				"content_text": "There’s nothing worse than a process with a 20 min long feedback cycle.\n",
+				"date_published": "2021-01-26T19:57:52-05:00",
+				"url": "https://json.blog/2021/01/26/theres-nothing-worse.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/25/wow-this-is.html",
+				
+				"content_html": "<p>Wow this is basically all the steps I do on my own in my bootstrap.sh script that I maintain, poorly, on my own. <a href=\"https://github.com/zero-sh/zero.sh\">Very cool way to get up and running on a new Mac</a>.</p>\n",
+				"content_text": "Wow this is basically all the steps I do on my own in my bootstrap.sh script that I maintain, poorly, on my own. [Very cool way to get up and running on a new Mac](https://github.com/zero-sh/zero.sh).\n",
+				"date_published": "2021-01-25T21:26:13-05:00",
+				"url": "https://json.blog/2021/01/25/wow-this-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/25/new-mac-day.html",
+				
+				"content_html": "<p>New Mac day is tomorrow. I&rsquo;m wondering if I could run Dropbox on my Synology and then never let that accursed software live on my local machine…</p>\n",
+				"content_text": "New Mac day is tomorrow. I'm wondering if I could run Dropbox on my Synology and then never let that accursed software live on my local machine…\n",
+				"date_published": "2021-01-25T20:28:40-05:00",
+				"url": "https://json.blog/2021/01/25/new-mac-day.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/25/me-watching-literally.html",
+				
+				"content_html": "<p>Me watching literally everything:</p>\n\n<p>Please look at the road while you talk. You’re going to crash.</p>\n",
+				"content_text": "Me watching literally everything: \n\nPlease look at the road while you talk. You’re going to crash.\n",
+				"date_published": "2021-01-25T19:24:42-05:00",
+				"url": "https://json.blog/2021/01/25/me-watching-literally.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/24/its-as-though.html",
+				
+				"content_html": "<p>It&rsquo;s as though recognizing what made The Amazing Adventures of Kavalier &amp; Clay <a href=\"https://json.blog/2021/01/23/ive-been-slowly.html\">hard to read</a> in spite of it&rsquo;s obvious quality and genuine appeal opened the flood gates. I will finally finish it tonight.</p>\n",
+				"content_text": "It's as though recognizing what made The Amazing Adventures of Kavalier & Clay [hard to read](https://json.blog/2021/01/23/ive-been-slowly.html) in spite of it's obvious quality and genuine appeal opened the flood gates. I will finally finish it tonight.\n",
+				"date_published": "2021-01-24T20:35:06-05:00",
+				"url": "https://json.blog/2021/01/24/its-as-though.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/ive-been-slowly.html",
+				
+				"content_html": "<p>I&rsquo;ve been slowly reading The Amazing Adventures of Kavalier &amp; Clay. I keep saying, &ldquo;It’s very good, but I always stop reading after 20-25 pages.” I thought, &ldquo;maybe it&rsquo;s boring.&rdquo; Tonight I realized it&rsquo;s because reading about Jews during the Holocaust is emotionally exhausting.</p>\n",
+				"content_text": "I've been slowly reading The Amazing Adventures of Kavalier & Clay. I keep saying, \"It’s very good, but I always stop reading after 20-25 pages.” I thought, \"maybe it's boring.\" Tonight I realized it's because reading about Jews during the Holocaust is emotionally exhausting.\n",
+				"date_published": "2021-01-23T23:35:12-05:00",
+				"url": "https://json.blog/2021/01/23/ive-been-slowly.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/chef.html",
+				"title": "🍿 Chef (2014) ★★★★",
+				"content_html": "<p><em>Chef</em> is a movie for anyone who loves food and loves cooking. No surprises there. But if you like watching competent people in the kitchen make food that looks incredible, I’m not sure any other movie competes.</p>\n\n<p>The cast is fantastic. Favreau and Leguizamo are great, but every role, big or small received the same careful attention. Oliver Platt, Amy Sedaris, and Bobby Cannavale are stand outs.</p>\n\n<p>Despite the call outs to Vine, the idea that Twitter is novel and hard to understand, or the skepticism of food trucks that firmly place <em>Chef</em> in its time, the movie hardly feels dated. It’s a classic story— middle-aged man who has lost his way and neglected his family rediscovering himself and rebuilding his relationship with his son along the way.</p>\n\n<p>But here’s the thing— if you make a movie that has beautiful cooking and shows off Cubanos, beignets, and brisket from Franklin’s? I’m going to show up. And in this year, when I haven’t been able to travel to these places that I went every year to eat the food that makes those places special&hellip; damn that hits.</p>\n",
+				"content_text": "*Chef* is a movie for anyone who loves food and loves cooking. No surprises there. But if you like watching competent people in the kitchen make food that looks incredible, I’m not sure any other movie competes.\n\nThe cast is fantastic. Favreau and Leguizamo are great, but every role, big or small received the same careful attention. Oliver Platt, Amy Sedaris, and Bobby Cannavale are stand outs.\n\nDespite the call outs to Vine, the idea that Twitter is novel and hard to understand, or the skepticism of food trucks that firmly place *Chef* in its time, the movie hardly feels dated. It’s a classic story— middle-aged man who has lost his way and neglected his family rediscovering himself and rebuilding his relationship with his son along the way.\n\nBut here’s the thing— if you make a movie that has beautiful cooking and shows off Cubanos, beignets, and brisket from Franklin’s? I’m going to show up. And in this year, when I haven’t been able to travel to these places that I went every year to eat the food that makes those places special... damn that hits.\n",
+				"date_published": "2021-01-23T21:14:32-05:00",
+				"url": "https://json.blog/2021/01/23/chef.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/also-congress-should.html",
+				
+				"content_html": "<p>Also, congress should be much larger.</p>\n",
+				"content_text": "Also, congress should be much larger.\n",
+				"date_published": "2021-01-23T18:53:58-05:00",
+				"url": "https://json.blog/2021/01/23/also-congress-should.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/dc-statehood-is.html",
+				
+				"content_html": "<p><a href=\"https://www.bloomberg.com/news/articles/2021-01-20/in-locked-down-d-c-calls-for-statehood-re-emerge\">DC Statehood</a> is as necessary as obvious. Virtually any belief in democratic representation cannot plausibly deny this. This shouldn’t be a debate.</p>\n",
+				"content_text": "[DC Statehood](https://www.bloomberg.com/news/articles/2021-01-20/in-locked-down-d-c-calls-for-statehood-re-emerge) is as necessary as obvious. Virtually any belief in democratic representation cannot plausibly deny this. This shouldn’t be a debate.\n",
+				"date_published": "2021-01-23T18:52:50-05:00",
+				"url": "https://json.blog/2021/01/23/dc-statehood-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/my-last-now.html",
+				
+				"content_html": "<p>My last <a href=\"https://json.blog/categories/now/\">Now page</a> update was 10+ months ago right as lockdown really hit. I&rsquo;m just not quite sure I&rsquo;m ready to change it while I still feel like my world is in some kind of stasis.</p>\n",
+				"content_text": "My last [Now page](https://json.blog/categories/now/) update was 10+ months ago right as lockdown really hit. I'm just not quite sure I'm ready to change it while I still feel like my world is in some kind of stasis.\n",
+				"date_published": "2021-01-23T17:16:00-05:00",
+				"url": "https://json.blog/2021/01/23/my-last-now.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/a-good-overview.html",
+				"title": "School Finance (Un)Fairness",
+				"content_html": "<p>A <a href=\"https://schoolfinance101.wordpress.com/2021/01/22/getting-school-finance-indicators-right/\">good overview</a> on important work in school finance. The flat-to-regressive financing of schools nationwide represents a failure of state finance systems to overcome the inequities introduced by having local-based funding and control of schools.</p>\n\n<p>The core purpose of state funding (and federal funding) is to take advantage of better funded, larger jurisdictions to do redistributive policy that counteracts the unequal opportunity caused by local funding. Our national failure to drive enough dollars through states through sufficiently progressive mechanisms results in a failure to equalize opportunity.</p>\n\n<p>This is the real reason why zip codes define the destiny of children. It is not about district effectiveness or efficiency, but instead about district starvation of resources to meet the challenges they face, while others are awash in the money they need.</p>\n\n<p>When we say we favor local control of education, we are advocating for maintaining a tiered system of access to resources and school quality. We are saying the rent or mortgage parents can afford and/or the distance they can travel for work defines the opportunity for their children.</p>\n\n<p>Layering on our history of housing segregation and the drawing of school district and municipal boundaries to explicitly create white and not white, have and have not schools and communities, school finance fairness serves as a quantified keyhole through which we observe a state-supported caste system in the US.</p>\n",
+				"content_text": "A [good overview](https://schoolfinance101.wordpress.com/2021/01/22/getting-school-finance-indicators-right/) on important work in school finance. The flat-to-regressive financing of schools nationwide represents a failure of state finance systems to overcome the inequities introduced by having local-based funding and control of schools.\n\nThe core purpose of state funding (and federal funding) is to take advantage of better funded, larger jurisdictions to do redistributive policy that counteracts the unequal opportunity caused by local funding. Our national failure to drive enough dollars through states through sufficiently progressive mechanisms results in a failure to equalize opportunity.\n\nThis is the real reason why zip codes define the destiny of children. It is not about district effectiveness or efficiency, but instead about district starvation of resources to meet the challenges they face, while others are awash in the money they need.\n\nWhen we say we favor local control of education, we are advocating for maintaining a tiered system of access to resources and school quality. We are saying the rent or mortgage parents can afford and/or the distance they can travel for work defines the opportunity for their children.\n\nLayering on our history of housing segregation and the drawing of school district and municipal boundaries to explicitly create white and not white, have and have not schools and communities, school finance fairness serves as a quantified keyhole through which we observe a state-supported caste system in the US.\n",
+				"date_published": "2021-01-23T16:22:54-05:00",
+				"url": "https://json.blog/2021/01/23/a-good-overview.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/paving-the-way.html",
+				"title": "Paving the way for the M1 Mac mini-- I/O edition",
+				"content_html": "<p>My new Mac mini is coming this week. This will be my first new computer in almost 5 years, so I&rsquo;m pretty excited. For reasons unbeknownst to me, I have decided I will not use Migration Assistant. This will be the first time in at least 5 Macs that I&rsquo;m going fresh. This will also be the longest I&rsquo;ve gone without a new Mac <sup class=\"footnote-ref\" id=\"fnref:newage\"><a href=\"#fn:newage\">1</a></sup>.</p>\n\n<p>Taking stock of software is going to be hard, but my first step to prepare for this new computer is actually related to I/O. I currently have a 2016 retina MacBook Pro with Four Thunderbolt ports. Every port, including the headphone port, is in use. The new Mac mini has only two Thunderbolt ports, but also comes with some additional ports.</p>\n\n<a href=\"https://json.blog/uploads/2021/5e752169ab.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://json.blog/uploads/2021/5e752169ab.jpg\"\n        \n           alt=\"Laptop bang-on, showing all ports in use.\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n\n<p>On the left side, I have an Ethernet to Thunderbolt adapter, my microphone (Audio-Technica ATR2100 mini USB-A to USB-C), and a 3.5mm to RCA cable that goes into my powered speakers (Kanto YU-5s). On the right side, I have a Thunderbolt cable that goes into the LG 5K Ultrafine monitor, providing power, display, and acting as a USB-C hub, and a USB-C cable going to a Samsung SSD I mount under my desk which is my primary Time Machine drive.</p>\n\n<p>I am also using all of the ports on the back of my display. There, I have the connection to my laptop, a USB-C cable to a 4-port USB-A hub (where I keep my Logitech mouse universal reciever thing plugged in and otherwise just have it available for hot swaps), a USB-C to USB-A micro cable (which I use to plug in a Blu-ray drive or my Fujitsu Scansnap scanner when needed, but often is just &ldquo;danging&rdquo;, and my keyboard.</p>\n\n<a href=\"https://json.blog/uploads/2021/3bdc54fcfb.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://json.blog/uploads/2021/3bdc54fcfb.jpg\"\n        \n           alt=\"Back of my LG 5K Ultrafine Display\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n\n<p>I truly went all in on the USB-C lifestyle, primarily though the use of new cables.</p>\n\n<p>The Mac mini, however, has one ethernet port, one headphone jack, two Thunderbolt 4 ports, and two USB-A ports.</p>\n\n<p>Here&rsquo;s how I think I&rsquo;ll re-arrange my cables. The monitor and SSD will remain directly plugged in via Thunderbolt 4/USB-C. The ethernet adapter can go away for direct use of the ethernet port. The microphone will move to being plugged into the monitor by using the slot vacated by my keyboard which I will plug directly into one of the USB-A ports on the Mac mini. I will also move the mouse to being directly plugged in via USB-A rather than using the four port USB-A adapter. At that point, I think I could actually remove the USB-A hub entirely&ndash; I use it very rarely, I already have one USB-A micro cable dangling and ready, and I&rsquo;d have an additional USB-C port freed up behind my monitor. I keep several USB-something to USB-C cables on a pegboard above my desk and have 3 USB-A to C adapters there as well (of which I only really need to keep one).</p>\n\n<p>Was I originally nervous about moving from four, versatile, fast Thunderbolt ports to two? Absolutely. But once I went through how I actually use all cables attached to my computer, I quickly realized that I would be in great shape. One thing this setup will not allow for is easy hot swapping back to my laptop at my desk. If I had kept the keyboard and mouse attached to the monitor, then I could move one cable and reasonably be back at work on my other computer. I decided that this is a non-goal. In truth, it&rsquo;ll probably just delay me from doing a good job of fully migrating from my laptop to my new desktop.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:newage\">I truly think we&rsquo;re in a new age where Macs are finally exciting and worth buying again. I frequently traded in my Mac after 2-3 years before because there was a reason to. I didn&rsquo;t keep this Mac for five years because I wanted to, I kept it because I had no reason to upgrade. I think this is equal parts the longevity of my 2016 rMBP, which I wisely upgraded to 16GB of RAM and a 512GB SSD and better processor and the lack of new compelling products. No more.\n <a class=\"footnote-return\" href=\"#fnref:newage\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "My new Mac mini is coming this week. This will be my first new computer in almost 5 years, so I'm pretty excited. For reasons unbeknownst to me, I have decided I will not use Migration Assistant. This will be the first time in at least 5 Macs that I'm going fresh. This will also be the longest I've gone without a new Mac [^newage].\n\nTaking stock of software is going to be hard, but my first step to prepare for this new computer is actually related to I/O. I currently have a 2016 retina MacBook Pro with Four Thunderbolt ports. Every port, including the headphone port, is in use. The new Mac mini has only two Thunderbolt ports, but also comes with some additional ports.\n\n{{< glightbox src=\"https://json.blog/uploads/2021/5e752169ab.jpg\" alt=\"Laptop bang-on, showing all ports in use.\" >}}\n\nOn the left side, I have an Ethernet to Thunderbolt adapter, my microphone (Audio-Technica ATR2100 mini USB-A to USB-C), and a 3.5mm to RCA cable that goes into my powered speakers (Kanto YU-5s). On the right side, I have a Thunderbolt cable that goes into the LG 5K Ultrafine monitor, providing power, display, and acting as a USB-C hub, and a USB-C cable going to a Samsung SSD I mount under my desk which is my primary Time Machine drive.\n\nI am also using all of the ports on the back of my display. There, I have the connection to my laptop, a USB-C cable to a 4-port USB-A hub (where I keep my Logitech mouse universal reciever thing plugged in and otherwise just have it available for hot swaps), a USB-C to USB-A micro cable (which I use to plug in a Blu-ray drive or my Fujitsu Scansnap scanner when needed, but often is just \"danging\", and my keyboard.\n\n\n{{< glightbox src=\"https://json.blog/uploads/2021/3bdc54fcfb.jpg\" alt=\"Back of my LG 5K Ultrafine Display\" >}}\n\nI truly went all in on the USB-C lifestyle, primarily though the use of new cables.\n\nThe Mac mini, however, has one ethernet port, one headphone jack, two Thunderbolt 4 ports, and two USB-A ports.\n\nHere's how I think I'll re-arrange my cables. The monitor and SSD will remain directly plugged in via Thunderbolt 4/USB-C. The ethernet adapter can go away for direct use of the ethernet port. The microphone will move to being plugged into the monitor by using the slot vacated by my keyboard which I will plug directly into one of the USB-A ports on the Mac mini. I will also move the mouse to being directly plugged in via USB-A rather than using the four port USB-A adapter. At that point, I think I could actually remove the USB-A hub entirely-- I use it very rarely, I already have one USB-A micro cable dangling and ready, and I'd have an additional USB-C port freed up behind my monitor. I keep several USB-something to USB-C cables on a pegboard above my desk and have 3 USB-A to C adapters there as well (of which I only really need to keep one).\n\nWas I originally nervous about moving from four, versatile, fast Thunderbolt ports to two? Absolutely. But once I went through how I actually use all cables attached to my computer, I quickly realized that I would be in great shape. One thing this setup will not allow for is easy hot swapping back to my laptop at my desk. If I had kept the keyboard and mouse attached to the monitor, then I could move one cable and reasonably be back at work on my other computer. I decided that this is a non-goal. In truth, it'll probably just delay me from doing a good job of fully migrating from my laptop to my new desktop.\n\n[^newage]: I truly think we're in a new age where Macs are finally exciting and worth buying again. I frequently traded in my Mac after 2-3 years before because there was a reason to. I didn't keep this Mac for five years because I wanted to, I kept it because I had no reason to upgrade. I think this is equal parts the longevity of my 2016 rMBP, which I wisely upgraded to 16GB of RAM and a 512GB SSD and better processor and the lack of new compelling products. No more.\n",
+				"date_published": "2021-01-23T15:03:14-05:00",
+				"url": "https://json.blog/2021/01/23/paving-the-way.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/23/one-thing-thats.html",
+				
+				"content_html": "<p>One thing that’s tough about being a product person is the despair you feel when using what by all accounts should be a great product that conquers the market and watch it flounder anyway.</p>\n",
+				"content_text": "One thing that’s tough about being a product person is the despair you feel when using what by all accounts should be a great product that conquers the market and watch it flounder anyway.\n",
+				"date_published": "2021-01-23T09:06:13-05:00",
+				"url": "https://json.blog/2021/01/23/one-thing-thats.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/01/21/am-i-the.html",
 				
 				"content_html": "<p>Am I the only remote tech worker left without a ring light?</p>\n",
