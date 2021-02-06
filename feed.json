@@ -7,12 +7,94 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/02/06/its-very-hard.html",
+				
+				"content_html": "<p>It’s very hard to consider the fantasy of living on a huge, cheap property far away when Zillow doesn&rsquo;t include information about broadband availability.</p>\n",
+				"content_text": "It’s very hard to consider the fantasy of living on a huge, cheap property far away when Zillow doesn't include information about broadband availability.\n",
+				"date_published": "2021-02-06T13:44:46-05:00",
+				"url": "https://json.blog/2021/02/06/its-very-hard.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/04/every-time-i.html",
+				
+				"content_html": "<p>Every time I have a hunch I want to reference, “No, because Anatoly&rsquo;s nose said so,&rdquo; but no one understands a Chronicles of Riddick reference.</p>\n\n<p>This is one of those things that has lived rent free in my mind since I randomly saw this movie in theaters.</p>\n",
+				"content_text": "Every time I have a hunch I want to reference, “No, because Anatoly's nose said so,\" but no one understands a Chronicles of Riddick reference.\n\nThis is one of those things that has lived rent free in my mind since I randomly saw this movie in theaters.\n",
+				"date_published": "2021-02-04T16:04:48-05:00",
+				"url": "https://json.blog/2021/02/04/every-time-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/02/im-so-happy.html",
+				
+				"content_html": "<p>I’m so happy I live in an age where the answer to “where should I store my applications data?” is simply <strong>PostgreSQL</strong>.</p>\n\n<p>The world of legacy applications is riddled with bad persistence layers.</p>\n",
+				"content_text": "I’m so happy I live in an age where the answer to “where should I store my applications data?” is simply **PostgreSQL**.\n\nThe world of legacy applications is riddled with bad persistence layers.\n",
+				"date_published": "2021-02-02T19:30:42-05:00",
+				"url": "https://json.blog/2021/02/02/im-so-happy.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/02/me-i-love.html",
+				
+				"content_html": "<p>Me: I love code formatters, consistency is the most important thing when it comes to code formatting, and automating with machines is great.</p>\n\n<p>Also me: who the fuck came up with these terrible formatting rules?</p>\n",
+				"content_text": "Me: I love code formatters, consistency is the most important thing when it comes to code formatting, and automating with machines is great.\n\nAlso me: who the fuck came up with these terrible formatting rules?\n",
+				"date_published": "2021-02-02T09:35:33-05:00",
+				"url": "https://json.blog/2021/02/02/me-i-love.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/31/unpopular-opinion-use.html",
+				
+				"content_html": "<p><strong>Unpopular Opinion:</strong> use real names in your contacts. Nickname is a usable field, if you must.</p>\n",
+				"content_text": "**Unpopular Opinion:** use real names in your contacts. Nickname is a usable field, if you must.\n",
+				"date_published": "2021-01-31T22:04:59-05:00",
+				"url": "https://json.blog/2021/01/31/unpopular-opinion-use.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/31/some-great-news.html",
+				
+				"content_html": "<p>Some great news: <a href=\"https://arstechnica.com/science/2021/01/new-study-a-zero-emissions-us-is-now-pretty-cheap/\">New study: A zero-emissions US is now pretty cheap</a>.</p>\n",
+				"content_text": "Some great news: [New study: A zero-emissions US is now pretty cheap](https://arstechnica.com/science/2021/01/new-study-a-zero-emissions-us-is-now-pretty-cheap/).\n",
+				"date_published": "2021-01-31T19:01:51-05:00",
+				"url": "https://json.blog/2021/01/31/some-great-news.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/31/snowy-evening-walks.html",
+				
+				"content_html": "<p>Snowy evening walks in Baltimore.</p>\n\n<p><a href=\"https://json.blog/uploads/2021/7e8bc6d698.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://json.blog/uploads/2021/7e8bc6d698.jpg\"\n        \n           alt=\"Snowy Skate Park I\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://json.blog/uploads/2021/30a128829b.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://json.blog/uploads/2021/30a128829b.jpg\"\n        \n           alt=\"Snowy Skate Park II\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n</p>\n",
+				"content_text": "Snowy evening walks in Baltimore.\n\n{{< glightbox src=\"https://json.blog/uploads/2021/7e8bc6d698.jpg\" alt=\"Snowy Skate Park I\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/30a128829b.jpg\" alt=\"Snowy Skate Park II\" >}}\n",
+				"date_published": "2021-01-31T18:31:02-05:00",
+				"url": "https://json.blog/2021/01/31/snowy-evening-walks.html",
+				"tags": ["photoblogging","baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/31/if-google-reader.html",
+				
+				"content_html": "<p>If Google Reader wasn’t destroyed, journalists would never have flocked to Twitter.</p>\n\n<p>In this essay, I will explain how the demise of Google Reader led directly to Donald Trump’s election.</p>\n",
+				"content_text": "If Google Reader wasn’t destroyed, journalists would never have flocked to Twitter. \n\nIn this essay, I will explain how the demise of Google Reader led directly to Donald Trump’s election.\n",
+				"date_published": "2021-01-31T15:22:25-05:00",
+				"url": "https://json.blog/2021/01/31/if-google-reader.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/31/is-there-literally.html",
+				
+				"content_html": "<p>Is there literally any good news about vaccine distribution in the United States? Right now, in phase 1C, Maryland says they’re receiving 10,000 doses a day for 1.5M people eligible (out of 6M in the state). That’s a rate of one year for 25% at 2 doses per person. Horrible.</p>\n",
+				"content_text": "Is there literally any good news about vaccine distribution in the United States? Right now, in phase 1C, Maryland says they’re receiving 10,000 doses a day for 1.5M people eligible (out of 6M in the state). That’s a rate of one year for 25% at 2 doses per person. Horrible.\n",
+				"date_published": "2021-01-31T09:00:34-05:00",
+				"url": "https://json.blog/2021/01/31/is-there-literally.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/01/30/i-love-my.html",
+				
+				"content_html": "<p>I love my dogs and my house. But we have no backyard, and I would like to protest walking them on days like today.</p>\n\n<p><img src=\"uploads/2021/6ae187f555.jpg\" width=\"600\" height=\"306\" alt=\"\" /></p>\n",
+				"content_text": "I love my dogs and my house. But we have no backyard, and I would like to protest walking them on days like today.\n\n<img src=\"uploads/2021/6ae187f555.jpg\" width=\"600\" height=\"306\" alt=\"\" />\n",
+				"date_published": "2021-01-30T09:12:38-05:00",
+				"url": "https://json.blog/2021/01/30/i-love-my.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/01/29/i-am-today.html",
 				
-				"content_html": "<p>I am today years old.</p>\n\n<p><img src=\"uploads/2021/e531981655.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "I am today years old.\n\n<img src=\"uploads/2021/e531981655.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>I am today years old.</p>\n\n<a href=\"https://json.blog/uploads/2021/e531981655.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://json.blog/uploads/2021/e531981655.jpg\"\n        \n           alt=\"Two braced hand on an ergonomic keyboard.\" \n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n",
+				"content_text": "I am today years old.\n\n{{< glightbox src=\"https://json.blog/uploads/2021/e531981655.jpg\" alt=\"Two braced hand on an ergonomic keyboard.\" >}}\n",
 				"date_published": "2021-01-29T09:57:24-05:00",
-				"url": "https://json.blog/2021/01/29/i-am-today.html"
+				"url": "https://json.blog/2021/01/29/i-am-today.html",
+				"tags": ["photoblogging"]
 			},
 			{
 				"id": "http://jsonbecker.micro.blog/2021/01/28/the-invisible-library.html",
@@ -33,8 +115,8 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2021/01/27/i-really-dislike.html",
 				
-				"content_html": "<p>I really dislike Elon Musk and was hoping more (and more affordable) EVs would be on the market in 2 yearss when my lease is up. But the total failure of other manufacturers to <a href=\"https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust\">replicate anything like the supercharger network</a> makes it quite likely I&rsquo;ll have a Tesla.</p>\n",
-				"content_text": "I really dislike Elon Musk and was hoping more (and more affordable) EVs would be on the market in 2 yearss when my lease is up. But the total failure of other manufacturers to [replicate anything like the supercharger network](https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust) makes it quite likely I'll have a Tesla.\n",
+				"content_html": "<p>I really dislike Elon Musk and was hoping more (and more affordable) EVs would be on the market in 2 years when my lease is up. But the total failure of other manufacturers to <a href=\"https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust\">replicate anything like the supercharger network</a> makes it quite likely I&rsquo;ll have a Tesla.</p>\n",
+				"content_text": "I really dislike Elon Musk and was hoping more (and more affordable) EVs would be on the market in 2 years when my lease is up. But the total failure of other manufacturers to [replicate anything like the supercharger network](https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust) makes it quite likely I'll have a Tesla.\n",
 				"date_published": "2021-01-27T13:52:46-05:00",
 				"url": "https://json.blog/2021/01/27/i-really-dislike.html"
 			},
