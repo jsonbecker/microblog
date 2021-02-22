@@ -7,6 +7,255 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/02/21/i-keep-seeing.html",
+				
+				"content_html": "<p>I keep seeing Republicans say that they can move past Trump and that this is what the party wants. <a href=\"https://www.rollingstone.com/politics/politics-news/poll-trump-republican-party-1130975/\">This is a pretty discouraging sign</a> that the GOP remains the party of Trump.</p>\n",
+				"content_text": "I keep seeing Republicans say that they can move past Trump and that this is what the party wants. [This is a pretty discouraging sign](https://www.rollingstone.com/politics/politics-news/poll-trump-republican-party-1130975/) that the GOP remains the party of Trump.\n",
+				"date_published": "2021-02-21T20:27:50-05:00",
+				"url": "https://json.blog/2021/02/21/i-keep-seeing.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/20/do-not-like.html",
+				
+				"content_html": "<p>Do not like how Mako treats Asami.</p>\n",
+				"content_text": "Do not like how Mako treats Asami.\n",
+				"date_published": "2021-02-20T16:42:01-05:00",
+				"url": "https://json.blog/2021/02/20/do-not-like.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/19/was-emacs-actually.html",
+				
+				"content_html": "<p>Was Emacs actually the first container?</p>\n",
+				"content_text": "Was Emacs actually the first container?\n",
+				"date_published": "2021-02-19T18:18:38-05:00",
+				"url": "https://json.blog/2021/02/19/was-emacs-actually.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/19/this-short-piece.html",
+				
+				"content_html": "<p>This <a href=\"https://sixcolors.com/post/2021/02/fun-with-charts-numbers-versus-time/\">short piece</a> on behavior in Numbers versus Excel is a brilliant UX case study.</p>\n",
+				"content_text": "This [short piece](https://sixcolors.com/post/2021/02/fun-with-charts-numbers-versus-time/) on behavior in Numbers versus Excel is a brilliant UX case study.\n",
+				"date_published": "2021-02-19T18:13:26-05:00",
+				"url": "https://json.blog/2021/02/19/this-short-piece.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/19/theres-a-very.html",
+				
+				"content_html": "<p>There’s a very good chance I hate your HR system and your accounting system. I wish this did not make me desperate to rebuild them, but it does.</p>\n\n<p>Hi, my name is Jason. I played too much Mario Bros as a child and now I&rsquo;m obsessed with your digital shit pipes.</p>\n",
+				"content_text": "There’s a very good chance I hate your HR system and your accounting system. I wish this did not make me desperate to rebuild them, but it does.\n\nHi, my name is Jason. I played too much Mario Bros as a child and now I'm obsessed with your digital shit pipes.\n",
+				"date_published": "2021-02-19T17:43:15-05:00",
+				"url": "https://json.blog/2021/02/19/theres-a-very.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/19/this-article-is.html",
+				
+				"content_html": "<p><a href=\"https://modelcitizen.substack.com/p/grey-lady-steel-man\">This article</a> is 100% correct on the dust up about Slate Star Codex and is very well done.</p>\n\n<p>I am disappointed, however, that it needs to exist, because frankly, it&rsquo;s just a lucid description of exactly how everyone not stuck in the SSC orbit would understand the situation.</p>\n",
+				"content_text": "[This article](https://modelcitizen.substack.com/p/grey-lady-steel-man) is 100% correct on the dust up about Slate Star Codex and is very well done.\n\nI am disappointed, however, that it needs to exist, because frankly, it's just a lucid description of exactly how everyone not stuck in the SSC orbit would understand the situation.\n",
+				"date_published": "2021-02-19T16:37:20-05:00",
+				"url": "https://json.blog/2021/02/19/this-article-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/18/i-have-once.html",
+				
+				"content_html": "<p>I have once again, eaten something that <a href=\"https://micro.blog/jessgartner\">@jessgartner</a> recommended many years ago and it is delicious.</p>\n\n<p>Don’t sleep on Charles Restaurant Tikka Masala pizza.</p>\n",
+				"content_text": "I have once again, eaten something that [@jessgartner](https://micro.blog/jessgartner) recommended many years ago and it is delicious.\n\nDon’t sleep on Charles Restaurant Tikka Masala pizza.\n",
+				"date_published": "2021-02-18T19:35:35-05:00",
+				"url": "https://json.blog/2021/02/18/i-have-once.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/17/friendly-reminder-that.html",
+				
+				"content_html": "<p>Friendly reminder that the only useful snow forecast is the Weather Prediction Center’s <a href=\"https://www.wpc.ncep.noaa.gov/pwpf/wwd_accum_probs.php\">Probabilistic Winter Precipitation Guidance Map</a>.</p>\n",
+				"content_text": "Friendly reminder that the only useful snow forecast is the Weather Prediction Center’s [Probabilistic Winter Precipitation Guidance Map](https://www.wpc.ncep.noaa.gov/pwpf/wwd_accum_probs.php).\n",
+				"date_published": "2021-02-17T21:54:43-05:00",
+				"url": "https://json.blog/2021/02/17/friendly-reminder-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/17/so-i-know.html",
+				
+				"content_html": "<p>So I know I’m years late to the party, but wow Atlanta is a good.</p>\n",
+				"content_text": "So I know I’m years late to the party, but wow Atlanta is a good.\n",
+				"date_published": "2021-02-17T19:15:15-05:00",
+				"url": "https://json.blog/2021/02/17/so-i-know.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/16/fuck-im-old.html",
+				
+				"content_html": "<p>Fuck, I’m old. <a href=\"https://arstechnica.com/?p=1742713\">An anniversary for great justice: Remembering “All Your Base” 20 years later</a></p>\n",
+				"content_text": "Fuck, I’m old. [An anniversary for great justice: Remembering “All Your Base” 20 years later](https://arstechnica.com/?p=1742713)\n",
+				"date_published": "2021-02-16T23:36:34-05:00",
+				"url": "https://json.blog/2021/02/16/fuck-im-old.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/16/its-unclear-to.html",
+				
+				"content_html": "<p>It&rsquo;s unclear to me why &ldquo;bipartisan compromise&rdquo; in DC is &ldquo;Let&rsquo;s tie this thing that’s good to this other thing that is totally disconnected to that and you will certainly hate!”</p>\n",
+				"content_text": "It's unclear to me why \"bipartisan compromise\" in DC is \"Let's tie this thing that’s good to this other thing that is totally disconnected to that and you will certainly hate!”\n",
+				"date_published": "2021-02-16T12:30:30-05:00",
+				"url": "https://json.blog/2021/02/16/its-unclear-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/15/i-use-casewhen.html",
+				
+				"content_html": "<p>I use <code>case_when</code> a fair amount, but I think I’ll be swapping most of that code to <code>*_join</code> in the future. I had no idea how <a href=\"https://themockup.blog/posts/2021-02-13-joins-vs-casewhen-speed-and-memory-tradeoffs/\">different the performance characteristics</a> are.</p>\n",
+				"content_text": "I use `case_when` a fair amount, but I think I’ll be swapping most of that code to `*_join` in the future. I had no idea how [different the performance characteristics](https://themockup.blog/posts/2021-02-13-joins-vs-casewhen-speed-and-memory-tradeoffs/) are.\n",
+				"date_published": "2021-02-15T23:02:48-05:00",
+				"url": "https://json.blog/2021/02/15/i-use-casewhen.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/15/whelp-there-goes.html",
+				
+				"content_html": "<p>Whelp there goes that theory.</p>\n",
+				"content_text": "Whelp there goes that theory.\n",
+				"date_published": "2021-02-15T22:17:06-05:00",
+				"url": "https://json.blog/2021/02/15/whelp-there-goes.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/15/so-tarrlok-is.html",
+				
+				"content_html": "<p>So Tarrlok is Amon, I’m guessing (don’t spoil me).</p>\n",
+				"content_text": "So Tarrlok is Amon, I’m guessing (don’t spoil me).\n",
+				"date_published": "2021-02-15T21:45:37-05:00",
+				"url": "https://json.blog/2021/02/15/so-tarrlok-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/15/look-legend-of.html",
+				
+				"content_html": "<p>Look Legend of Korra is a cool concept but the lack of spirit realm/avatar state to actually learn something from Aang is getting on my nerves (just 6 epsiodes in).</p>\n",
+				"content_text": "Look Legend of Korra is a cool concept but the lack of spirit realm/avatar state to actually learn something from Aang is getting on my nerves (just 6 epsiodes in).\n",
+				"date_published": "2021-02-15T21:09:18-05:00",
+				"url": "https://json.blog/2021/02/15/look-legend-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/15/look-theres-plenty.html",
+				
+				"content_html": "<p>Look, there’s plenty of reason for both products to exist, but if you prefer boneless wings (aka fried chicken nuggets) over bone-in wings categorically, you’re a cop.</p>\n",
+				"content_text": "Look, there’s plenty of reason for both products to exist, but if you prefer boneless wings (aka fried chicken nuggets) over bone-in wings categorically, you’re a cop.\n",
+				"date_published": "2021-02-15T17:23:28-05:00",
+				"url": "https://json.blog/2021/02/15/look-theres-plenty.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/15/for-all-mankind.html",
+				
+				"content_html": "<p>For All Mankind is a stellar show on AppleTV+ and Season 2 starts Friday. If you haven’t watched yet, this is worth your binge this week.</p>\n",
+				"content_text": "For All Mankind is a stellar show on AppleTV+ and Season 2 starts Friday. If you haven’t watched yet, this is worth your binge this week.\n",
+				"date_published": "2021-02-15T16:54:06-05:00",
+				"url": "https://json.blog/2021/02/15/for-all-mankind.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/15/two-stories-that.html",
+				
+				"content_html": "<p>Two stories that feel deeply connected: <a href=\"http://www.erasmatazz.com/personal/self/i-really-blew-it.html\">Chris Crawford’s sober, narcissistic</a> assessment of his life&rsquo;s work published on February 8th, 2020 and everything about Slate Star Codex.</p>\n",
+				"content_text": "Two stories that feel deeply connected: [Chris Crawford’s sober, narcissistic](http://www.erasmatazz.com/personal/self/i-really-blew-it.html) assessment of his life's work published on February 8th, 2020 and everything about Slate Star Codex.\n",
+				"date_published": "2021-02-15T13:43:23-05:00",
+				"url": "https://json.blog/2021/02/15/two-stories-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/14/i-just-saw.html",
+				
+				"content_html": "<p>I just saw someone in a supermarket lower their mask to cough. 🤦🏻‍♂️</p>\n",
+				"content_text": "I just saw someone in a supermarket lower their mask to cough. 🤦🏻‍♂️\n",
+				"date_published": "2021-02-14T15:12:25-05:00",
+				"url": "https://json.blog/2021/02/14/i-just-saw.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/13/an-urban-fantasy.html",
+				
+				"content_html": "<p>An urban fantasy trashy romance murder mystery book is just what my soul needed.</p>\n",
+				"content_text": "An urban fantasy trashy romance murder mystery book is just what my soul needed.\n",
+				"date_published": "2021-02-13T08:40:50-05:00",
+				"url": "https://json.blog/2021/02/13/an-urban-fantasy.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/12/i-use-my.html",
+				
+				"content_html": "<p>I use my Digital Ocean droplet for literally one thing at this point&ndash; hosting jsonbecker.com page. I like the <em>idea</em> that I have a webserver out there that&rsquo;s more flexible, but I think it&rsquo;s time that I stop paying $5 and figure out another way to server a single page site.</p>\n",
+				"content_text": "I use my Digital Ocean droplet for literally one thing at this point-- hosting jsonbecker.com page. I like the _idea_ that I have a webserver out there that's more flexible, but I think it's time that I stop paying $5 and figure out another way to server a single page site.\n",
+				"date_published": "2021-02-12T12:56:45-05:00",
+				"url": "https://json.blog/2021/02/12/i-use-my.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/11/a-frustrating-conversation.html",
+				"title": "A Frustrating Conversation with a Conservative",
+				"content_html": "<p>A good friend of mine for decades has long identified as conservative. In a recent conversation, we discussed his support for single-payer health insurance, a path to citizenship for undocumented immigrants (in part to get national ID laws that are fair and free), and more.</p>\n\n<p>When they expressed their support for lower taxes and limited government, I asked “what does lower mean?”</p>\n\n<p>He answered, &ldquo;as low as possible.&rdquo;</p>\n\n<p>I said, “As low as possible to support what the government needs to be run successfully, yes?&rdquo;</p>\n\n<p>&ldquo;Yes.”</p>\n\n<p>&ldquo;Ok, so then when you say limited government, you mean limited to what? What&rsquo;s something the government does today that you don&rsquo;t think it should be doing?”</p>\n\n<p>They admitted, &ldquo;That&rsquo;s a good question.&rdquo; They had no specific examples, and when we dug into a couple of ideas (transit was one), it was relatively easy to convince him that it&rsquo;s very possible the government should be doing this work.</p>\n\n<p>In the end, their conservatism largely came down to a statement I let go by, unready and unwilling to engage with it at the moment. They off-handedly said, &ldquo;Well I&rsquo;ll never be a democrat, because I don&rsquo;t believe an 8 year old should be able to declare their gender.&rdquo;</p>\n\n<p>Honestly, I wasn&rsquo;t ready to address the casual transphobia that I know was informed by beliefs they were taught in their church. The conversation was primarily focused on the mess that is the current GOP around voting.</p>\n\n<p>But it&rsquo;s bothered me for days since that I didn&rsquo;t confront them about their casual transphobia. In fact, the whole conversation was about how liberals shut down conservatives by having clear moral lines when, in fact, they could and should convince more conservatives that their policies are good. And within that context, it felt like a really tough thing to dig into their beliefs on social issues.</p>\n\n<p>Yet, causal transphobia being left unchallenged will spread.</p>\n\n<p>What I wish I had said, even if it was just briefly at the end was this. “Before you dismiss the experience of trans people entirely, I think you should have a conversation with someone who is trans. Learn about their experiences. I wonder if after that, you could find it in your heart to have a lot more kindness and compassion to accept them as people.”</p>\n",
+				"content_text": "A good friend of mine for decades has long identified as conservative. In a recent conversation, we discussed his support for single-payer health insurance, a path to citizenship for undocumented immigrants (in part to get national ID laws that are fair and free), and more. \n\nWhen they expressed their support for lower taxes and limited government, I asked “what does lower mean?” \n\nHe answered, \"as low as possible.\" \n\nI said, “As low as possible to support what the government needs to be run successfully, yes?\"\n\n\"Yes.”\n\n\"Ok, so then when you say limited government, you mean limited to what? What's something the government does today that you don't think it should be doing?”\n\nThey admitted, \"That's a good question.\" They had no specific examples, and when we dug into a couple of ideas (transit was one), it was relatively easy to convince him that it's very possible the government should be doing this work.\n\nIn the end, their conservatism largely came down to a statement I let go by, unready and unwilling to engage with it at the moment. They off-handedly said, \"Well I'll never be a democrat, because I don't believe an 8 year old should be able to declare their gender.\"\n\nHonestly, I wasn't ready to address the casual transphobia that I know was informed by beliefs they were taught in their church. The conversation was primarily focused on the mess that is the current GOP around voting.\n\nBut it's bothered me for days since that I didn't confront them about their casual transphobia. In fact, the whole conversation was about how liberals shut down conservatives by having clear moral lines when, in fact, they could and should convince more conservatives that their policies are good. And within that context, it felt like a really tough thing to dig into their beliefs on social issues.\n\nYet, causal transphobia being left unchallenged will spread.\n\nWhat I wish I had said, even if it was just briefly at the end was this. “Before you dismiss the experience of trans people entirely, I think you should have a conversation with someone who is trans. Learn about their experiences. I wonder if after that, you could find it in your heart to have a lot more kindness and compassion to accept them as people.”\n",
+				"date_published": "2021-02-11T13:35:09-05:00",
+				"url": "https://json.blog/2021/02/11/a-frustrating-conversation.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/10/im-often-tired.html",
+				
+				"content_html": "<p>I’m often tired, I feel unmotivated to accomplish things in my personal life, and things I used to take pleasure in brings me no joy.</p>\n\n<p>[butterfly.jpg] is this, depression?</p>\n",
+				"content_text": "I’m often tired, I feel unmotivated to accomplish things in my personal life, and things I used to take pleasure in brings me no joy.\n\n\\[butterfly.jpg\\] is this, depression?\n",
+				"date_published": "2021-02-10T22:41:22-05:00",
+				"url": "https://json.blog/2021/02/10/im-often-tired.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/10/we-all-will.html",
+				
+				"content_html": "<p>We all will deserve a sabbatical when this pandemic is done.</p>\n",
+				"content_text": "We all will deserve a sabbatical when this pandemic is done.\n",
+				"date_published": "2021-02-10T20:48:27-05:00",
+				"url": "https://json.blog/2021/02/10/we-all-will.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/10/i-think-that.html",
+				
+				"content_html": "<p>I think that work can smell when I have empty time on my calendar. I&rsquo;ve been much better (with help) at making sure I have dedicated, continuous time on my calendar to get deep work done. And sure enough, urgent issues constantly come up precisely during those times.</p>\n",
+				"content_text": "I think that work can smell when I have empty time on my calendar. I've been much better (with help) at making sure I have dedicated, continuous time on my calendar to get deep work done. And sure enough, urgent issues constantly come up precisely during those times.\n",
+				"date_published": "2021-02-10T11:26:08-05:00",
+				"url": "https://json.blog/2021/02/10/i-think-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/09/i-had-no.html",
+				
+				"content_html": "<p>I had no idea this <a href=\"https://youtu.be/-uYKLe2lP6Q\">deleted scene</a> from High Fidelity existed. It was great when redone in the Hulu TV series. I’m assuming it comes from the book.</p>\n",
+				"content_text": "I had no idea this [deleted scene](https://youtu.be/-uYKLe2lP6Q) from High Fidelity existed. It was great when redone in the Hulu TV series. I’m assuming it comes from the book.\n",
+				"date_published": "2021-02-09T18:10:30-05:00",
+				"url": "https://json.blog/2021/02/09/i-had-no.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/07/reminded-today-that.html",
+				
+				"content_html": "<p>Reminded today that sometimes a relationship is strong because it’s been pulverized and rebuilt a couple of times.</p>\n",
+				"content_text": "Reminded today that sometimes a relationship is strong because it’s been pulverized and rebuilt a couple of times.\n",
+				"date_published": "2021-02-07T17:04:36-05:00",
+				"url": "https://json.blog/2021/02/07/reminded-today-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/07/im-glad-that.html",
+				
+				"content_html": "<p>I’m glad that democrats are taking up expanding benefits to families with children, and I’m happy that at least during the next year it won’t need potentially ugly pay-fors.</p>\n\n<p>That said, I’m sad at the relative complexity v. Romney plan. We need to set bureaucracies up to succeed.</p>\n",
+				"content_text": "I’m glad that democrats are taking up expanding benefits to families with children, and I’m happy that at least during the next year it won’t need potentially ugly pay-fors.\n\nThat said, I’m sad at the relative complexity v. Romney plan. We need to set bureaucracies up to succeed.\n",
+				"date_published": "2021-02-07T10:20:58-05:00",
+				"url": "https://json.blog/2021/02/07/im-glad-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/06/go-into-in.html",
+				"title": "🍿 In and Of Itself (2021) ★★★★★",
+				"content_html": "<p>Go into <em>In and Of Itself</em> cold. Watch it with the lights out. That’s all I want to say about it.</p>\n",
+				"content_text": "Go into *In and Of Itself* cold. Watch it with the lights out. That’s all I want to say about it.\n",
+				"date_published": "2021-02-06T20:28:34-05:00",
+				"url": "https://json.blog/2021/02/06/go-into-in.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/06/lunch.html",
+				
+				"content_html": "<p>Lunch</p>\n\n<p><img src=\"uploads/2021/e72c38df93.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Lunch\n\n<img src=\"uploads/2021/e72c38df93.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-02-06T15:15:09-05:00",
+				"url": "https://json.blog/2021/02/06/lunch.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/06/i-live-in.html",
+				
+				"content_html": "<p>I live in MD, with my mother-in-law, who is eligible for a vaccine. <a href=\"https://www.theatlantic.com/ideas/archive/2021/02/americas-soviet-style-vaccine-rollout/617942/\">This piece</a> perfectly reflects the frustration, agony, and obvious total failure of the US and state government on vaccine distribution.</p>\n",
+				"content_text": "I live in MD, with my mother-in-law, who is eligible for a vaccine. [This piece](https://www.theatlantic.com/ideas/archive/2021/02/americas-soviet-style-vaccine-rollout/617942/) perfectly reflects the frustration, agony, and obvious total failure of the US and state government on vaccine distribution.\n",
+				"date_published": "2021-02-06T14:07:03-05:00",
+				"url": "https://json.blog/2021/02/06/i-live-in.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/02/06/its-very-hard.html",
 				
 				"content_html": "<p>It’s very hard to consider the fantasy of living on a huge, cheap property far away when Zillow doesn&rsquo;t include information about broadband availability.</p>\n",
