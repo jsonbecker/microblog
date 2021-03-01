@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/02/28/varrick-and-zhu.html",
+				
+				"content_html": "<p>Varrick and Zhu Li— very satisfying.</p>\n",
+				"content_text": "Varrick and Zhu Li— very satisfying.\n",
+				"date_published": "2021-02-28T22:06:02-05:00",
+				"url": "https://json.blog/2021/02/28/varrick-and-zhu.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/28/elsa-made-ramen.html",
+				
+				"content_html": "<p>Elsa made ramen.</p>\n\n<p><img src=\"uploads/2021/9b0c777cc2.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Elsa made ramen.\n\n<img src=\"uploads/2021/9b0c777cc2.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-02-28T19:56:14-05:00",
+				"url": "https://json.blog/2021/02/28/elsa-made-ramen.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/28/the-expense-and.html",
+				
+				"content_html": "<p>The expense and complexity of our nation’s social assistance programs for meager benefits is shameful. A system that cared about the conditions of the poor would be so much simpler and kinder.</p>\n\n<p>Our lack of empathy is frightening.</p>\n",
+				"content_text": "The expense and complexity of our nation’s social assistance programs for meager benefits is shameful. A system that cared about the conditions of the poor would be so much simpler and kinder. \n\nOur lack of empathy is frightening.\n",
+				"date_published": "2021-02-28T19:09:43-05:00",
+				"url": "https://json.blog/2021/02/28/the-expense-and.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/28/im-coming-to.html",
+				
+				"content_html": "<p>I’m coming to the end of The Legend of Korra and it feels clear to me there’s plenty of interesting stories to be told in the Avatar universe.</p>\n",
+				"content_text": "I’m coming to the end of The Legend of Korra and it feels clear to me there’s plenty of interesting stories to be told in the Avatar universe.\n",
+				"date_published": "2021-02-28T17:30:46-05:00",
+				"url": "https://json.blog/2021/02/28/im-coming-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/28/shouldnt-we-have.html",
+				
+				"content_html": "<p>Shouldn’t we have treated prisons like we did nursing homes and immediately vaccinate everyone (and with J&amp;J, shouldn’t we vaccinate upon entrance to any kind of detention center)?</p>\n\n<p>I realize the bad history of medical experimentation on prisoners, but they’re dying!</p>\n",
+				"content_text": "Shouldn’t we have treated prisons like we did nursing homes and immediately vaccinate everyone (and with J&J, shouldn’t we vaccinate upon entrance to any kind of detention center)?\n\nI realize the bad history of medical experimentation on prisoners, but they’re dying!\n",
+				"date_published": "2021-02-28T16:46:44-05:00",
+				"url": "https://json.blog/2021/02/28/shouldnt-we-have.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/26/ive-seen-enough.html",
+				
+				"content_html": "<p>I’ve seen enough. End the filibuster so we can pass proper legislation and not this pained reconciliation crap that just makes our government far more complex and arbitrary.</p>\n",
+				"content_text": "I’ve seen enough. End the filibuster so we can pass proper legislation and not this pained reconciliation crap that just makes our government far more complex and arbitrary.\n",
+				"date_published": "2021-02-26T21:19:46-05:00",
+				"url": "https://json.blog/2021/02/26/ive-seen-enough.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/24/i-started-to.html",
+				
+				"content_html": "<p>I started to wake up earlier just this morning in an attempt to get back to pre-pandemic patterns, so naturally I can’t fall asleep tonight.</p>\n",
+				"content_text": "I started to wake up earlier just this morning in an attempt to get back to pre-pandemic patterns, so naturally I can’t fall asleep tonight.\n",
+				"date_published": "2021-02-24T00:19:17-05:00",
+				"url": "https://json.blog/2021/02/24/i-started-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/24/some-people-think.html",
+				
+				"content_html": "<p>Some people think that a heuristic must be a fallacy, as though statements that don’t offer direct, primary evidence have no value. These people rarely actually produce direct, primary evidence themselves.</p>\n",
+				"content_text": "Some people think that a heuristic must be a fallacy, as though statements that don’t offer direct, primary evidence have no value. These people rarely actually produce direct, primary evidence themselves.\n",
+				"date_published": "2021-02-24T00:09:44-05:00",
+				"url": "https://json.blog/2021/02/24/some-people-think.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/23/i-dont-understand.html",
+				
+				"content_html": "<p>I don&rsquo;t understand anyone who doesn&rsquo;t like SQL. I could write SQL all day, every day. Small, achievable data puzzles are the best.</p>\n",
+				"content_text": "I don't understand anyone who doesn't like SQL. I could write SQL all day, every day. Small, achievable data puzzles are the best.\n",
+				"date_published": "2021-02-23T09:41:03-05:00",
+				"url": "https://json.blog/2021/02/23/i-dont-understand.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/23/im-amazed-it.html",
+				
+				"content_html": "<p>I’m amazed it took this long, but one of my dogs finally dragged my ass right down in this ice. Slammed my back. I’m sure it’ll feel great tomorrow.</p>\n",
+				"content_text": "I’m amazed it took this long, but one of my dogs finally dragged my ass right down in this ice. Slammed my back. I’m sure it’ll feel great tomorrow.\n",
+				"date_published": "2021-02-23T08:56:18-05:00",
+				"url": "https://json.blog/2021/02/23/im-amazed-it.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/22/theres-a-lot.html",
+				
+				"content_html": "<p>There’s a lot of power in realizing you can do the unexpected because the consequences are imagined.</p>\n",
+				"content_text": "There’s a lot of power in realizing you can do the unexpected because the consequences are imagined.\n",
+				"date_published": "2021-02-22T22:38:10-05:00",
+				"url": "https://json.blog/2021/02/22/theres-a-lot.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/02/22/if-you-want.html",
+				
+				"content_html": "<p>If you want to get me on a rant, let’s talk about legislation that causes a need to change software that then fails and <a href=\"https://arstechnica.com/?p=1744189\">leads to people being in jail longer than they should be</a>.</p>\n",
+				"content_text": "If you want to get me on a rant, let’s talk about legislation that causes a need to change software that then fails and [leads to people being in jail longer than they should be](https://arstechnica.com/?p=1744189).\n",
+				"date_published": "2021-02-22T22:24:12-05:00",
+				"url": "https://json.blog/2021/02/22/if-you-want.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/02/21/i-keep-seeing.html",
 				
 				"content_html": "<p>I keep seeing Republicans say that they can move past Trump and that this is what the party wants. <a href=\"https://www.rollingstone.com/politics/politics-news/poll-trump-republican-party-1130975/\">This is a pretty discouraging sign</a> that the GOP remains the party of Trump.</p>\n",
