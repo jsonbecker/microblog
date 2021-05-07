@@ -7,6 +7,104 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/05/06/having-one-of.html",
+				
+				"content_html": "<p>Having one of those weeks where I still made time to get to the gym, but I&rsquo;m working too much to hit my stand goal.</p>\n",
+				"content_text": "Having one of those weeks where I still made time to get to the gym, but I'm working too much to hit my stand goal.\n",
+				"date_published": "2021-05-06T21:04:05-04:00",
+				"url": "https://json.blog/2021/05/06/having-one-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/05/my-apple-watch.html",
+				
+				"content_html": "<p>My Apple Watch unlocking my phone while I wear a mask is a game changer for being out and about during the last throws of this pandemic.</p>\n",
+				"content_text": "My Apple Watch unlocking my phone while I wear a mask is a game changer for being out and about during the last throws of this pandemic.\n",
+				"date_published": "2021-05-05T15:02:45-04:00",
+				"url": "https://json.blog/2021/05/05/my-apple-watch.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/04/if-you-ever.html",
+				
+				"content_html": "<p>If you ever want deep insight into someone&rsquo;s mind, look at how they design a spreadsheet to help guide a decision.</p>\n",
+				"content_text": "If you ever want deep insight into someone's mind, look at how they design a spreadsheet to help guide a decision.\n",
+				"date_published": "2021-05-04T22:59:00-04:00",
+				"url": "https://json.blog/2021/05/04/if-you-ever.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/04/i-just-opened.html",
+				
+				"content_html": "<p>I just opened an article whose opening sentence was, “Politics didn’t used to enter the schools.”</p>\n\n<p>Has there ever been a lede this absurd?</p>\n",
+				"content_text": "I just opened an article whose opening sentence was, “Politics didn’t used to enter the schools.”\n\nHas there ever been a lede this absurd?\n",
+				"date_published": "2021-05-04T19:49:33-04:00",
+				"url": "https://json.blog/2021/05/04/i-just-opened.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/04/well-be-talking.html",
+				
+				"content_html": "<blockquote>\n<p>“We’ll be talking about race regardless—there’s no putting that genie back into the bottle, and we should blame racism for that, not antiracism.”</p>\n</blockquote>\n\n<p>— <a href=\"https://www.liberalcurrents.com/scorched-earth-racism/\">Scorched Earth Racism, Positive Sum Antiracism</a></p>\n",
+				"content_text": "> “We’ll be talking about race regardless—there’s no putting that genie back into the bottle, and we should blame racism for that, not antiracism.”\n\n— [Scorched Earth Racism, Positive Sum Antiracism](https://www.liberalcurrents.com/scorched-earth-racism/)\n",
+				"date_published": "2021-05-04T08:10:22-04:00",
+				"url": "https://json.blog/2021/05/04/well-be-talking.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/03/for-all-man.html",
+				
+				"content_html": "<p>For All Man Kind. Jeebus.</p>\n",
+				"content_text": "For All Man Kind. Jeebus.\n",
+				"date_published": "2021-05-03T21:09:53-04:00",
+				"url": "https://json.blog/2021/05/03/for-all-man.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/03/holy-shit-the.html",
+				
+				"content_html": "<p>Holy shit the ending of S2E9 of For All Mankind.</p>\n",
+				"content_text": "Holy shit the ending of S2E9 of For All Mankind.\n",
+				"date_published": "2021-05-03T19:54:33-04:00",
+				"url": "https://json.blog/2021/05/03/holy-shit-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/03/my-dogs-stayed.html",
+				
+				"content_html": "<p>My dogs stayed with my parents for a month and we just got them home. So of course Gracie woke me up at 6:30am, not to walk, but to get scratches and cuddles. After 20 minutes of that, she let me take her for a 30 minute walk. Welcome home.</p>\n",
+				"content_text": "My dogs stayed with my parents for a month and we just got them home. So of course Gracie woke me up at 6:30am, not to walk, but to get scratches and cuddles. After 20 minutes of that, she let me take her for a 30 minute walk. Welcome home.\n",
+				"date_published": "2021-05-03T08:49:05-04:00",
+				"url": "https://json.blog/2021/05/03/my-dogs-stayed.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/05/02/farm-season-commenced.html",
+				
+				"content_html": "<p>Farm season 2021 commenced.</p>\n\n<p><img src=\"https://json.blog/uploads/2021/f0382b3dcf.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Farm season 2021 commenced.\n\n<img src=\"https://json.blog/uploads/2021/f0382b3dcf.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-05-02T16:57:24-04:00",
+				"url": "https://json.blog/2021/05/02/farm-season-commenced.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/04/30/down-the-hill.html",
+				
+				"content_html": "<p>Down the hill, over the river, around the bend, into the forest, up the trail, and to the clearing where a zen garden sits. At the center of a winding path, a bell and a gnome.</p>\n\n<p><img src=\"https://json.blog/uploads/2021/1d4d73b8b6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Down the hill, over the river, around the bend, into the forest, up the trail, and to the clearing where a zen garden sits. At the center of a winding path, a bell and a gnome.\n\n<img src=\"https://json.blog/uploads/2021/1d4d73b8b6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-04-30T23:45:40-04:00",
+				"url": "https://json.blog/2021/04/30/down-the-hill.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/04/30/why-the-gop.html",
+				
+				"content_html": "<p><a href=\"https://nymag.com/intelligencer/2021/04/why-the-republican-party-has-no-agenda.html\">Why the GOP Is Ideologically Lost</a> by Eric Levitz, a near perfect summation, a must read.</p>\n",
+				"content_text": "[Why the GOP Is Ideologically Lost](https://nymag.com/intelligencer/2021/04/why-the-republican-party-has-no-agenda.html) by Eric Levitz, a near perfect summation, a must read.\n",
+				"date_published": "2021-04-30T10:30:51-04:00",
+				"url": "https://json.blog/2021/04/30/why-the-gop.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/04/30/people-who-love.html",
+				
+				"content_html": "<p>People who love California weather, I get that.</p>\n\n<p>People who love Florida weather? Does. Not. Compute.</p>\n",
+				"content_text": "People who love California weather, I get that.\n\nPeople who love Florida weather? Does. Not. Compute.\n",
+				"date_published": "2021-04-30T09:17:10-04:00",
+				"url": "https://json.blog/2021/04/30/people-who-love.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/04/29/my-version-of.html",
 				
 				"content_html": "<p>My version of, “Get off my lawn!” is yelling at a YouTube video, “it’s a trailer!” every time they say, “double wide tiny home”.</p>\n",
