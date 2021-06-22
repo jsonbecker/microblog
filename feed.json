@@ -7,10 +7,263 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/06/22/the-ghosting-on.html",
+				
+				"content_html": "<p>The ghosting on my LG 5K is getting pretty bad, and I&rsquo;m just so mad with Apple right now.</p>\n",
+				"content_text": "The ghosting on my LG 5K is getting pretty bad, and I'm just so mad with Apple right now.\n",
+				"date_published": "2021-06-22T11:35:45-04:00",
+				"url": "https://json.blog/2021/06/22/the-ghosting-on.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/20/this-was-a.html",
+				
+				"content_html": "<p>This was a lot of chilaquiles. Only ate about half.</p>\n\n<p><img src=\"uploads/2021/b6d8d3eab3.jpg\" width=\"600\" height=\"600\" alt=\"chilaquiles con cream y salsa rojas y cotija\" /></p>\n",
+				"content_text": "This was a lot of chilaquiles. Only ate about half.\n\n<img src=\"uploads/2021/b6d8d3eab3.jpg\" width=\"600\" height=\"600\" alt=\"chilaquiles con cream y salsa rojas y cotija\" />\n",
+				"date_published": "2021-06-20T13:38:22-04:00",
+				"url": "https://json.blog/2021/06/20/this-was-a.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/20/very-trivial-gripe.html",
+				
+				"content_html": "<p>Very trivial gripe, but waiting 6 months for a piece of furniture we ordered is driving me nuts.</p>\n",
+				"content_text": "Very trivial gripe, but waiting 6 months for a piece of furniture we ordered is driving me nuts.\n",
+				"date_published": "2021-06-20T12:15:01-04:00",
+				"url": "https://json.blog/2021/06/20/very-trivial-gripe.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/20/a-short-review.html",
+				"title": "A Short Review of 18 Months Sleep Tracking",
+				"content_html": "<p>Here’s what I’ve learned:</p>\n\n<ol>\n<li>I always feel pretty good after a night with an unusually high amount of “deep sleep”.</li>\n<li>I fairly often feel great even when I don’t get very much deep sleep.</li>\n<li>Sometimes less sleep is totally fine.</li>\n<li>It takes getting significantly less than my normal sleep to feel bad after just one night of poor sleep. Normally, it will take 3-4 nights of low sleep to start having ill effects.</li>\n<li>Interrupted sleep has the most negative effect on how I feel in the morning, but is also nearly fully resolved by just staying it bed and getting an additional 2-3 hrs of deep sleep throughout the morning.</li>\n<li>Caffeine in the evening can cause me to stay awake later, but doesn’t have any discernable other impact on my sleep.</li>\n<li>Exercise helps me sleep well, but less than I thought.</li>\n<li>Anything over 6 hours and 45 minutes for me is absolutely fine. Anything over 7 hours and 15 minutes feels like “a lot”. I can sleep as little as 6 hours and 15 minutes with virtually no impact unless that goes on for days at a time.</li>\n</ol>\n\n<p>I think the most important of these is (5)— if I find myself up at 2 AM, and again at 4 AM, I will do my best to send a few emails to say I’m having a rough night and make sure I can sleep from 7 to 10 or 10:30 AM whenever possible. This almost always ensures I won’t stack several days of bad sleep. If it’s not possible, I try and get a nap in around 4 or 5 PM that day.</p>\n",
+				"content_text": "Here’s what I’ve learned:\n\n1. I always feel pretty good after a night with an unusually high amount of “deep sleep”.\n2. I fairly often feel great even when I don’t get very much deep sleep.\n3. Sometimes less sleep is totally fine.\n4. It takes getting significantly less than my normal sleep to feel bad after just one night of poor sleep. Normally, it will take 3-4 nights of low sleep to start having ill effects.\n5. Interrupted sleep has the most negative effect on how I feel in the morning, but is also nearly fully resolved by just staying it bed and getting an additional 2-3 hrs of deep sleep throughout the morning.\n6. Caffeine in the evening can cause me to stay awake later, but doesn’t have any discernable other impact on my sleep.\n7. Exercise helps me sleep well, but less than I thought.\n8. Anything over 6 hours and 45 minutes for me is absolutely fine. Anything over 7 hours and 15 minutes feels like “a lot”. I can sleep as little as 6 hours and 15 minutes with virtually no impact unless that goes on for days at a time.\n\nI think the most important of these is (5)— if I find myself up at 2 AM, and again at 4 AM, I will do my best to send a few emails to say I’m having a rough night and make sure I can sleep from 7 to 10 or 10:30 AM whenever possible. This almost always ensures I won’t stack several days of bad sleep. If it’s not possible, I try and get a nap in around 4 or 5 PM that day.\n",
+				"date_published": "2021-06-20T11:07:54-04:00",
+				"url": "https://json.blog/2021/06/20/a-short-review.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/19/when-youre-as.html",
+				
+				"content_html": "<p>When you’re as big as me, losing weight basically means having a protein shake for breakfast and eating a salad that would normally feed a whole family as one of your meals.</p>\n",
+				"content_text": "When you’re as big as me, losing weight basically means having a protein shake for breakfast and eating a salad that would normally feed a whole family as one of your meals.\n",
+				"date_published": "2021-06-19T18:59:01-04:00",
+				"url": "https://json.blog/2021/06/19/when-youre-as.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/18/dinner-a-lot.html",
+				
+				"content_html": "<p>Dinner. A lot of food for just under 700 calories (not shown, the rest of that pita in my hand that I ate already).</p>\n\n<p><img src=\"uploads/2021/d7a6cac954.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dinner. A lot of food for just under 700 calories (not shown, the rest of that pita in my hand that I ate already).\n\n<img src=\"uploads/2021/d7a6cac954.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-18T21:08:44-04:00",
+				"url": "https://json.blog/2021/06/18/dinner-a-lot.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/18/my-morning.html",
+				
+				"content_html": "<p>My morning</p>\n\n<p><img src=\"https://json.blog/uploads/2021/eb99ab1949.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My morning\n\n<img src=\"https://json.blog/uploads/2021/eb99ab1949.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-18T21:04:54-04:00",
+				"url": "https://json.blog/2021/06/18/my-morning.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/18/focusing-on-closing.html",
+				"title": "The Resource Gap is (much) of the Outcomes Gap",
+				"content_html": "<p>Focusing on closing the resource gap in education is important as a mechanism to close the outcomes gap. Possibly the greatest flaw of the outcomes focused accountability regime of the last 20+ years was trying to eliminate the idea that changing inputs changes outcomes.</p>\n\n<p>Of course outcomes matter! Of course the goal of equitable resources in education is to build systems that result in equitable outcomes! But the feedback loop has not been, &ldquo;Our system provides inequitable resources, then provides inequitable services, and the result is inequitable outcomes.”</p>\n\n<p>Instead, the feedback loop has been &ldquo;Our system produces inequitable outcomes, you should change how you provide inequitable or ineffective or inefficient services.”</p>\n\n<p>I am the first person to tell you schools and districts have room to operate better&ndash; it&rsquo;s what I spend my professional career on! But there are severe limits when many districts are starved of the necessary supports.</p>\n\n<p>We know how poverty makes it significantly harder for individuals to always make the “best” decisions that will lead to the greatest chance of escaping poverty. We talk far too little about how impoverished institutions and organizations face those same challenges. And that kind of institutional capacity rot is stacked on top of simply having too little to succeed.</p>\n",
+				"content_text": "Focusing on closing the resource gap in education is important as a mechanism to close the outcomes gap. Possibly the greatest flaw of the outcomes focused accountability regime of the last 20+ years was trying to eliminate the idea that changing inputs changes outcomes.\n\nOf course outcomes matter! Of course the goal of equitable resources in education is to build systems that result in equitable outcomes! But the feedback loop has not been, \"Our system provides inequitable resources, then provides inequitable services, and the result is inequitable outcomes.”\n\nInstead, the feedback loop has been \"Our system produces inequitable outcomes, you should change how you provide inequitable or ineffective or inefficient services.”\n\nI am the first person to tell you schools and districts have room to operate better-- it's what I spend my professional career on! But there are severe limits when many districts are starved of the necessary supports.\n\nWe know how poverty makes it significantly harder for individuals to always make the “best” decisions that will lead to the greatest chance of escaping poverty. We talk far too little about how impoverished institutions and organizations face those same challenges. And that kind of institutional capacity rot is stacked on top of simply having too little to succeed.\n",
+				"date_published": "2021-06-18T16:13:25-04:00",
+				"url": "https://json.blog/2021/06/18/focusing-on-closing.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/18/why-did-jesse.html",
+				
+				"content_html": "<p>Why did Jesse have to <a href=\"https://www.jessemaegan.com/blog/branding/\">call me out like this</a> <sup class=\"footnote-ref\" id=\"fnref:nosuchthing\"><a href=\"#fn:nosuchthing\">1</a></sup> on a week when I&rsquo;m already struggling with whether/how I need to actually do the whole branding thing to be more professionally satisfied?</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:nosuchthing\">if by, &ldquo;call me out&rdquo; I mean, “write a helpful blog post.”\n <a class=\"footnote-return\" href=\"#fnref:nosuchthing\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Why did Jesse have to [call me out like this](https://www.jessemaegan.com/blog/branding/) [^nosuchthing] on a week when I'm already struggling with whether/how I need to actually do the whole branding thing to be more professionally satisfied?\n\n[^nosuchthing]: if by, \"call me out\" I mean, “write a helpful blog post.”\n",
+				"date_published": "2021-06-18T15:55:58-04:00",
+				"url": "https://json.blog/2021/06/18/why-did-jesse.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/18/data-is-overrated.html",
+				
+				"content_html": "<p><a href=\"https://pedestrianobservations.com/2021/06/18/data-is-overrated/\">Data is Overrated</a> is about transit, but I think the same can be applied to education.</p>\n\n<p>Our challenges don’t require ever more specific and granular data. The solutions are about solving structural challenges, not marginal, high precision optimization for individuals.</p>\n",
+				"content_text": "[Data is Overrated](https://pedestrianobservations.com/2021/06/18/data-is-overrated/) is about transit, but I think the same can be applied to education. \n\nOur challenges don’t require ever more specific and granular data. The solutions are about solving structural challenges, not marginal, high precision optimization for individuals.\n",
+				"date_published": "2021-06-18T13:08:02-04:00",
+				"url": "https://json.blog/2021/06/18/data-is-overrated.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/18/i-am-deeply.html",
+				
+				"content_html": "<p>I am deeply moved each time I read stories that draw from Jewish culture and history. How is it possible that the importance of representation is non-obvious to anyone?</p>\n\n<p>In fact, I reject that. It <em>is</em> obvious to everyone. Those that fight representation know what they’re doing.</p>\n",
+				"content_text": "I am deeply moved each time I read stories that draw from Jewish culture and history. How is it possible that the importance of representation is non-obvious to anyone?\n\nIn fact, I reject that. It _is_ obvious to everyone. Those that fight representation know what they’re doing.\n",
+				"date_published": "2021-06-18T12:39:25-04:00",
+				"url": "https://json.blog/2021/06/18/i-am-deeply.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/17/not-sure-i.html",
+				
+				"content_html": "<p>Not sure I should admit this, but here goes nothing:</p>\n\n<p>I’ve never been to a Waffle House.</p>\n",
+				"content_text": "Not sure I should admit this, but here goes nothing:\n\nI’ve never been to a Waffle House.\n",
+				"date_published": "2021-06-17T18:25:07-04:00",
+				"url": "https://json.blog/2021/06/17/not-sure-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/17/my-new-favorite.html",
+				
+				"content_html": "<p>My new favorite coffee spot closes at 4pm, and it&rsquo;s really messing with my desired way to live my life.</p>\n\n<p>At least they <a href=\"https://json.blog/2020/05/25/lives-lost.html\">survived long enough</a> to be the neighborhood third space I needed.</p>\n",
+				"content_text": "My new favorite coffee spot closes at 4pm, and it's really messing with my desired way to live my life.\n\nAt least they [survived long enough](https://json.blog/2020/05/25/lives-lost.html) to be the neighborhood third space I needed.\n",
+				"date_published": "2021-06-17T16:35:11-04:00",
+				"url": "https://json.blog/2021/06/17/my-new-favorite.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/17/apparently-holidays-are.html",
+				
+				"content_html": "<p>Apparently holidays are some kind of scarce resource, and we can’t have two summer holidays without the second one… erasing the first, still very real holiday? I’m struggling here.</p>\n",
+				"content_text": "Apparently holidays are some kind of scarce resource, and we can’t have two summer holidays without the second one… erasing the first, still very real holiday? I’m struggling here.\n",
+				"date_published": "2021-06-17T16:19:33-04:00",
+				"url": "https://json.blog/2021/06/17/apparently-holidays-are.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/17/yeah-yeah-the.html",
+				
+				"content_html": "<p>Yeah, yeah, the patriarchy hurts men too, but have you spoken with women?</p>\n\n<p>Men should be projected into the sun.</p>\n",
+				"content_text": "Yeah, yeah, the patriarchy hurts men too, but have you spoken with women?\n\nMen should be projected into the sun.\n",
+				"date_published": "2021-06-17T08:37:45-04:00",
+				"url": "https://json.blog/2021/06/17/yeah-yeah-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/17/theres-nothing-especially.html",
+				
+				"content_html": "<p><a href=\"https://modelcitizen.substack.com/p/theres-nothing-especially-democratic?r=13cw5&amp;utm_campaign=post&amp;utm_medium=email&amp;utm_source=copy\">There&rsquo;s Nothing Especially Democratic about Local Control of Land Use</a> is so good. A near perfect combination of things I’m academically interested in— federalism, Tiebout sorting, democratic authority— to explain why the NIMBY legal regime is bullshit.</p>\n",
+				"content_text": "[There's Nothing Especially Democratic about Local Control of Land Use](https://modelcitizen.substack.com/p/theres-nothing-especially-democratic?r=13cw5&utm_campaign=post&utm_medium=email&utm_source=copy) is so good. A near perfect combination of things I’m academically interested in— federalism, Tiebout sorting, democratic authority— to explain why the NIMBY legal regime is bullshit.\n",
+				"date_published": "2021-06-17T07:40:08-04:00",
+				"url": "https://json.blog/2021/06/17/theres-nothing-especially.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/17/days-until-vacation.html",
+				
+				"content_html": "<p>13 days until vacation. It’s been years since I’ve needed one as badly as I do right now.</p>\n",
+				"content_text": "13 days until vacation. It’s been years since I’ve needed one as badly as I do right now.\n",
+				"date_published": "2021-06-17T00:13:05-04:00",
+				"url": "https://json.blog/2021/06/17/days-until-vacation.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/16/i-thought-i.html",
+				
+				"content_html": "<p>I thought I might try to be a Product Thought Leader ™, but flopped. Turns out, it&rsquo;s hard to write about when you should <em>not</em> build a feature without sharing lots of specific details that I&rsquo;m not able to.</p>\n\n<p>Maybe this is why I read almost nothing about product management.</p>\n",
+				"content_text": "I thought I might try to be a Product Thought Leader ™, but flopped. Turns out, it's hard to write about when you should _not_ build a feature without sharing lots of specific details that I'm not able to.\n\nMaybe this is why I read almost nothing about product management.\n",
+				"date_published": "2021-06-16T22:31:14-04:00",
+				"url": "https://json.blog/2021/06/16/i-thought-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/16/my-mental-health.html",
+				
+				"content_html": "<p>My mental health feels like it’s slowly restoring as I sit in a coffee shop, listening to coffee shop music and coffee shop sounds, doing some focus work in the afternoon as I lost steam at my desk at home.</p>\n",
+				"content_text": "My mental health feels like it’s slowly restoring as I sit in a coffee shop, listening to coffee shop music and coffee shop sounds, doing some focus work in the afternoon as I lost steam at my desk at home.\n",
+				"date_published": "2021-06-16T16:01:39-04:00",
+				"url": "https://json.blog/2021/06/16/my-mental-health.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/16/two-patterns-that.html",
+				
+				"content_html": "<p>Two patterns that I&rsquo;m looking to read more about are user-customizable approval flow (think rules-based chain of responsibility/business process docs, but not bad) and, closely related, event/action/CQRS data structures to support change request-approval/rejection. Send me links!</p>\n",
+				"content_text": "Two patterns that I'm looking to read more about are user-customizable approval flow (think rules-based chain of responsibility/business process docs, but not bad) and, closely related, event/action/CQRS data structures to support change request-approval/rejection. Send me links!\n",
+				"date_published": "2021-06-16T13:36:42-04:00",
+				"url": "https://json.blog/2021/06/16/two-patterns-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/16/i-didnt-eat.html",
+				
+				"content_html": "<p>I didn’t eat so well for dinner last night so… this should be a fun hour at the gym.</p>\n",
+				"content_text": "I didn’t eat so well for dinner last night so… this should be a fun hour at the gym.\n",
+				"date_published": "2021-06-16T08:59:45-04:00",
+				"url": "https://json.blog/2021/06/16/i-didnt-eat.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/15/step-tell-people.html",
+				
+				"content_html": "<p>Step 1: Tell people what you’re feeling and talk about it rather than make assumptions about their feelings or beliefs.</p>\n\n<p>Ok got that one. ✅</p>\n\n<p>Step 2: Believe what they tell you instead of the story you tell yourself.</p>\n\n<p>Miles to go before I sleep.</p>\n",
+				"content_text": "Step 1: Tell people what you’re feeling and talk about it rather than make assumptions about their feelings or beliefs.\n\nOk got that one. ✅ \n\nStep 2: Believe what they tell you instead of the story you tell yourself.\n\nMiles to go before I sleep.\n",
+				"date_published": "2021-06-15T23:56:51-04:00",
+				"url": "https://json.blog/2021/06/15/step-tell-people.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/15/call-it-authoritarianism.html",
+				
+				"content_html": "<p><a href=\"https://www.vox.com/policy-and-politics/2021/6/15/22522504/republicans-authoritarianism-trump-competitive\">Call it authoritarianism</a>.</p>\n\n<blockquote>\n<p>We are suffering from the same rot that has brought down democracy in other countries: a party that has decided it no longer wants to play by the rules and that would instead prefer to rule as authoritarians rather than share power with its opponents.</p>\n</blockquote>\n",
+				"content_text": "[Call it authoritarianism](https://www.vox.com/policy-and-politics/2021/6/15/22522504/republicans-authoritarianism-trump-competitive).\n\n> We are suffering from the same rot that has brought down democracy in other countries: a party that has decided it no longer wants to play by the rules and that would instead prefer to rule as authoritarians rather than share power with its opponents.\n",
+				"date_published": "2021-06-15T22:26:42-04:00",
+				"url": "https://json.blog/2021/06/15/call-it-authoritarianism.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/look-i-dont.html",
+				
+				"content_html": "<p>Look, I don’t think it’s too much to ask that members of Congress don’t need to visit the United States Holocaust Memorial Museum to avoid making ridiculous comparisons. “Turns out the Holocaust was bad,” is not a thing you should have to learn as a grown ass, powerful adult.</p>\n",
+				"content_text": "Look, I don’t think it’s too much to ask that members of Congress don’t need to visit the United States Holocaust Memorial Museum to avoid making ridiculous comparisons. “Turns out the Holocaust was bad,” is not a thing you should have to learn as a grown ass, powerful adult.\n",
+				"date_published": "2021-06-14T23:54:37-04:00",
+				"url": "https://json.blog/2021/06/14/look-i-dont.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/oh-wow-apple.html",
+				
+				"content_html": "<p>Oh wow, Apple added a <a href=\"https://developer.apple.com/documentation/tabulardata\">TabularData framework</a>. This looks pretty great!</p>\n",
+				"content_text": "Oh wow, Apple added a [TabularData framework](https://developer.apple.com/documentation/tabulardata). This looks pretty great!\n",
+				"date_published": "2021-06-14T22:14:50-04:00",
+				"url": "https://json.blog/2021/06/14/oh-wow-apple.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/one-thing-too.html",
+				
+				"content_html": "<p>One thing <a href=\"http://existentialcomics.com/comic/398\">too stupid to believe</a>.</p>\n",
+				"content_text": "One thing [too stupid to believe](http://existentialcomics.com/comic/398).\n",
+				"date_published": "2021-06-14T21:45:46-04:00",
+				"url": "https://json.blog/2021/06/14/one-thing-too.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/demonizing-the-bureaucracy.html",
+				
+				"content_html": "<p>Demonizing the bureaucracy is a <a href=\"https://jabberwocking.com/election-officials-quitting-in-droves-thanks-to-gop-threats/\">great way to destroy state capacity</a>, which is a great way to destroy the state itself.</p>\n",
+				"content_text": "Demonizing the bureaucracy is a [great way to destroy state capacity](https://jabberwocking.com/election-officials-quitting-in-droves-thanks-to-gop-threats/), which is a great way to destroy the state itself.\n",
+				"date_published": "2021-06-14T21:15:20-04:00",
+				"url": "https://json.blog/2021/06/14/demonizing-the-bureaucracy.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/i-spent-a.html",
+				
+				"content_html": "<p>I spent a significant portion of my day talking about my work/professional fears and insecurities, including with a paid professional.</p>\n\n<p>Just putting that out there in case anyone thinks I’ve got all my shit together or that they’re the only one struggling.</p>\n",
+				"content_text": "I spent a significant portion of my day talking about my work/professional fears and insecurities, including with a paid professional. \n\nJust putting that out there in case anyone thinks I’ve got all my shit together or that they’re the only one struggling.\n",
+				"date_published": "2021-06-14T20:42:59-04:00",
+				"url": "https://json.blog/2021/06/14/i-spent-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/i-kind-of.html",
+				
+				"content_html": "<p>I kind of think that Day One + Tumblr make the perfect amateur writing platform. Day One is an amazing experience for personal journaling, and if you choose to publish something, Tumblr offers a great out of the box experience for posting publicly on the web.</p>\n",
+				"content_text": "I kind of think that Day One + Tumblr make the perfect amateur writing platform. Day One is an amazing experience for personal journaling, and if you choose to publish something, Tumblr offers a great out of the box experience for posting publicly on the web.\n",
+				"date_published": "2021-06-14T20:37:13-04:00",
+				"url": "https://json.blog/2021/06/14/i-kind-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/the-more-i.html",
+				
+				"content_html": "<p>The more I learn, the more I become convinced that the wealth tax is a much worse idea than estate taxes.</p>\n",
+				"content_text": "The more I learn, the more I become convinced that the wealth tax is a much worse idea than estate taxes.\n",
+				"date_published": "2021-06-14T09:57:31-04:00",
+				"url": "https://json.blog/2021/06/14/the-more-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/06/14/anyone-have-a.html",
+				
+				"content_html": "<p>Anyone have a scale they really like that more accurately measures body fat percentage? The one at my gym that uses hands and feet has significantly different results (in my favor!) than the cheap scale I have at home.</p>\n",
+				"content_text": "Anyone have a scale they really like that more accurately measures body fat percentage? The one at my gym that uses hands and feet has significantly different results (in my favor!) than the cheap scale I have at home.\n",
+				"date_published": "2021-06-14T08:57:10-04:00",
+				"url": "https://json.blog/2021/06/14/anyone-have-a.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/06/13/so-dramatic.html",
 				
-				"content_html": "<p>So dramatic.</p>\n\n<p><img src=\"uploads/2021/e395e72f91.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "So dramatic. \n\n<img src=\"uploads/2021/e395e72f91.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>So dramatic.</p>\n\n<p><img src=\"https://json.blog/uploads/2021/e395e72f91.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "So dramatic. \n\n<img src=\"https://json.blog/uploads/2021/e395e72f91.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-13T19:12:13-04:00",
 				"url": "https://json.blog/2021/06/13/so-dramatic.html",
 				"tags": ["photoblogging"]
