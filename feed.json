@@ -7,6 +7,219 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/08/07/ive-always-thought.html",
+				
+				"content_html": "<p>I&rsquo;ve always thought Apple Maps were quite good (and certainly underrated). The iOS 15 version is an incredible update, including adding the one feature I sometimes used Google Maps for&ndash; easily adding a stop along a route.</p>\n",
+				"content_text": "I've always thought Apple Maps were quite good (and certainly underrated). The iOS 15 version is an incredible update, including adding the one feature I sometimes used Google Maps for-- easily adding a stop along a route.\n",
+				"date_published": "2021-08-07T10:53:47-04:00",
+				"url": "https://json.blog/2021/08/07/ive-always-thought.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/03/i-ate-what.html",
+				
+				"content_html": "<p>I ate what is actually considered a serving of ice cream. It was probably one sixth what I would have eaten four months ago. I feel sick it was so heavy. Is this what it’s like eating less?</p>\n",
+				"content_text": "I ate what is actually considered a serving of ice cream. It was probably one sixth what I would have eaten four months ago. I feel sick it was so heavy. Is this what it’s like eating less?\n",
+				"date_published": "2021-08-03T21:28:42-04:00",
+				"url": "https://json.blog/2021/08/03/i-ate-what.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/03/i-love-miyazakis.html",
+				
+				"content_html": "<p>I love Miyazaki’s Howl’s Moving Castle, but somehow never thought to read the book. This <a href=\"https://gizmodo.com/howls-moving-castle-reminds-us-that-we-are-more-than-ou-1847373554\">article has set me straight</a>, and I am for sure reading it next.</p>\n",
+				"content_text": "I love Miyazaki’s Howl’s Moving Castle, but somehow never thought to read the book. This [article has set me straight](https://gizmodo.com/howls-moving-castle-reminds-us-that-we-are-more-than-ou-1847373554), and I am for sure reading it next.\n",
+				"date_published": "2021-08-03T09:43:25-04:00",
+				"url": "https://json.blog/2021/08/03/i-love-miyazakis.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/02/the-regression-is.html",
+				
+				"content_html": "<p>“The regression is burpees,” might be the worst four words a trainer has ever said to me.</p>\n",
+				"content_text": "“The regression is burpees,” might be the worst four words a trainer has ever said to me.\n",
+				"date_published": "2021-08-02T09:47:04-04:00",
+				"url": "https://json.blog/2021/08/02/the-regression-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/02/hello-darkness-my.html",
+				
+				"content_html": "<p>Hello darkness my old friend. I see it’s a new month of workouts again.</p>\n\n<p><img src=\"uploads/2021/49a612043e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hello darkness my old friend. I see it’s a new month of workouts again. \n\n<img src=\"uploads/2021/49a612043e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-02T08:52:18-04:00",
+				"url": "https://json.blog/2021/08/02/hello-darkness-my.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/02/so-tired-today.html",
+				
+				"content_html": "<p>So tired today that I went to shove my house key into the side of my wheel to start my car. I’ve had proximity keys for 5 years.</p>\n",
+				"content_text": "So tired today that I went to shove my house key into the side of my wheel to start my car. I’ve had proximity keys for 5 years.\n",
+				"date_published": "2021-08-02T08:51:34-04:00",
+				"url": "https://json.blog/2021/08/02/so-tired-today.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/01/finally-watching-halt.html",
+				
+				"content_html": "<p>Finally watching Halt and Catch Fire… not exactly pleased with the depiction of product managers. 😳</p>\n",
+				"content_text": "Finally watching Halt and Catch Fire… not exactly pleased with the depiction of product managers. 😳\n",
+				"date_published": "2021-08-01T20:26:08-04:00",
+				"url": "https://json.blog/2021/08/01/finally-watching-halt.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/01/the-number-of.html",
+				
+				"content_html": "<p>The number of sports at the Olympics where the results are due to who doesn’t get caught up in a crash makes me feel like our sports are insufficiently valuing the safety of athletes in the pursuit of pushing the boundaries of human capability, and I don’t like it.</p>\n",
+				"content_text": "The number of sports at the Olympics where the results are due to who doesn’t get caught up in a crash makes me feel like our sports are insufficiently valuing the safety of athletes in the pursuit of pushing the boundaries of human capability, and I don’t like it.\n",
+				"date_published": "2021-08-01T14:52:49-04:00",
+				"url": "https://json.blog/2021/08/01/the-number-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/01/sometimes-we-reject.html",
+				"title": "Sometimes we reject authority based on unreasonable expectations",
+				"content_html": "<p>While I’m mad at how the US has performed during COVID, and especially our government health authorities, I still have bristled at completely undermining their authority. This is at least equal parts fear of the lack of better alternatives and a recognition that, “the painfully visible gap between the institutions’ claims of competence and their actual performance,” while real, also strike me as “a function of the limits of human knowledge,” as Martin Gurri wrote.</p>\n\n<p>This crisis of authority is real, but their failures to be perfect are not. And in some ways, my frustrations are feeding a narrative that requires, at times, magical or impossible standards. That’s why specific criticism is so important— the early communication on masks was wrong, but possibly not bad <sup class=\"footnote-ref\" id=\"fnref:whatisbad\"><a href=\"#fn:whatisbad\">1</a></sup> decisions. Whereas the slow process to full approval for the mRNA vaccines and hesitance to introduce vaccine mandates of any kind feel more like both bad and wrong decisions.</p>\n\n<p>Our government’s handling of COVID-19 is littered with wrong decisions and bad decisions. We would do well to focus criticism on the latter, lest we succumb to a hopeless nihilism that will only leave us less prepared to face the next crisis.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:whatisbad\">A wrong decision is one that results in a less good outcome. We make decisions all the time that, with the power of hindsight, are revealed to be wrong. But a bad decision is one that is not based upon the best available data and interpretation of that data to make a choice. Bad decisions can turn out right— this is the whole “right for the wrong reason” idea. Wrong decisions can still be a decision that was well considered.\n <a class=\"footnote-return\" href=\"#fnref:whatisbad\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "While I’m mad at how the US has performed during COVID, and especially our government health authorities, I still have bristled at completely undermining their authority. This is at least equal parts fear of the lack of better alternatives and a recognition that, “the painfully visible gap between the institutions’ claims of competence and their actual performance,” while real, also strike me as “a function of the limits of human knowledge,” as Martin Gurri wrote.\n\nThis crisis of authority is real, but their failures to be perfect are not. And in some ways, my frustrations are feeding a narrative that requires, at times, magical or impossible standards. That’s why specific criticism is so important— the early communication on masks was wrong, but possibly not bad [^whatisbad] decisions. Whereas the slow process to full approval for the mRNA vaccines and hesitance to introduce vaccine mandates of any kind feel more like both bad and wrong decisions.\n\n[^whatisbad]: A wrong decision is one that results in a less good outcome. We make decisions all the time that, with the power of hindsight, are revealed to be wrong. But a bad decision is one that is not based upon the best available data and interpretation of that data to make a choice. Bad decisions can turn out right— this is the whole “right for the wrong reason” idea. Wrong decisions can still be a decision that was well considered.\n\nOur government’s handling of COVID-19 is littered with wrong decisions and bad decisions. We would do well to focus criticism on the latter, lest we succumb to a hopeless nihilism that will only leave us less prepared to face the next crisis.\n",
+				"date_published": "2021-08-01T12:31:35-04:00",
+				"url": "https://json.blog/2021/08/01/sometimes-we-reject.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/01/upon-discovering-what.html",
+				
+				"content_html": "<p>Upon discovering what I felt was the right place for me to attend college, I purposely avoided applying anywhere that might entice me to change my mind because of perceived prestige.</p>\n",
+				"content_text": "Upon discovering what I felt was the right place for me to attend college, I purposely avoided applying anywhere that might entice me to change my mind because of perceived prestige.\n",
+				"date_published": "2021-08-01T12:19:35-04:00",
+				"url": "https://json.blog/2021/08/01/upon-discovering-what.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/08/01/i-swear-im.html",
+				
+				"content_html": "<p>I swear, I’m highlighting like half of <a href=\"https://www.amazon.com/dp/1732265143/\">The Revolt of the Public and the Crisis of Authority in the New Millennium</a>.</p>\n",
+				"content_text": "I swear, I’m highlighting like half of [The Revolt of the Public and the Crisis of Authority in the New Millennium](https://www.amazon.com/dp/1732265143/).\n",
+				"date_published": "2021-08-01T11:26:22-04:00",
+				"url": "https://json.blog/2021/08/01/i-swear-im.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/31/i-recenly-realized.html",
+				"title": "Changing Careers and Leaving a City Behind is Hard",
+				"content_html": "<p>I recently realized how disruptive it was to my personal relationships and professional networks to change fields and then move 375 miles away. I think moving from working in government and research academia, where my work was largely in the open and I could largely discuss the details in public, to the private sector, where I often cannot discuss the details of my work, made this even more difficult.</p>\n\n<p>I don’t regret this shift; it was 100% the right thing for me and has been an incredible opportunity. But I don’t think I ever realized the strain I have felt because of it. I still don’t have a strong “startup” network. I have no product management network. My Baltimore network is minuscule; it’s virtually non-existent if you remove direct colleagues. These things are my own fault.</p>\n\n<p>I came to this position having left a community I built by happenstance in the easiest way. I went to college and graduate school in the same city, then I worked in that city, in both city and state in government. I interacted with former classmates or professionals who attended the same undergraduate or graduate program in my daily work and around town. This became a tight network for me. When I started to feel limited by &ldquo;only&rdquo; knowing Providence and Rhode Island folks, I left my role at the state to go back to work at my university (in collaboration with the city school district) through a national fellowship. That fellowship tied me to similar practitioners across the country, and I already knew many people within that network because they were former classmates or colleagues. I basically went to school and did my job and stayed connected to the people I met along the way as they spread out into new cities and new opportunities, none too distant from my own work.</p>\n\n<p>My friends were mostly folks who I went to school with that stayed around town or folks I interacted with tangentially through work. Staying in Providence for a decade gave me a huge leg up when it came to building a personal and professional network.</p>\n\n<p>When I moved to Baltimore, I wasn’t a part of any kind of group experience or challenge that allowed me to meet new people. I wasn&rsquo;t in a cohort of &ldquo;founders&rdquo; connected me to the tech community. I wasn&rsquo;t coming together regularly with people who were product managers. I had abandoned government data analysis and leadership, and now, I was working at an early stage start up doing product management. I fell into a new career in a very different industry and after a couple of years left what had become my home city to reduce my own travel and improve my chances at moving up at work <sup class=\"footnote-ref\" id=\"fnref:success\"><a href=\"#fn:success\">1</a></sup>. As an adult, I lacked the kind of community building that happens when you go to school together, or are trained in a group to work a new role together. The sort of school/job orientation of likeminded folks is not a thing that happens very often around 30. And although I worked for a startup, I joined 1 year in and moved to Baltimore 2.5 years later. So perhaps the most likely analogs like an incubator or subsidized office space with other early stage companies had long passed. The easy(ish) mode version of building a network had passed. Add to this to my ferocious sense of imposter syndrome and general lack of confidence and frankly, I’ve floundered a bit.</p>\n\n<p>I’m going to be working on all this over the next few years, because it’s gotten past the point of just muscling through it. But I’m sharing my story because it’s change a lot about how I’ve thought about moving for different professional or personal opportunities. It’s made me have a greater appreciation of how things outside of family can tie you to a place, and how even in our highly online world, place-based connections are powerful and matter. So do field/industry connections, and leaving both behind at once without putting in the work to rebuild was brutal. Seven years later, I think I still would have an easier time getting a school district or state department job doing data analysis and research than continuing to be a product manager or start up manager/executive, even though it&rsquo;s further from my current experiences and isn&rsquo;t greatest skillset. It’s also not what I want. So it’s time to put in some work.</p>\n\n<p>How I might weigh staying somewhere versus chasing an opportunity in a new city has evolved. There&rsquo;s a lot of work that happens outside the office when you go somewhere new, and I screwed up by not doing it.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:success\">Both of these things happened. I should also be clear, I moved when I moved for other personal reasons. A family emergency coinciding with Elsa leaving her job meant we needed more space at home and fast and that there were advantages to being in a different job market. Although I had considered moving to Baltimore, from &ldquo;serious conversations&rdquo; to &ldquo;we&rsquo;re here&rdquo; it was about seven days.\n <a class=\"footnote-return\" href=\"#fnref:success\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "I recently realized how disruptive it was to my personal relationships and professional networks to change fields and then move 375 miles away. I think moving from working in government and research academia, where my work was largely in the open and I could largely discuss the details in public, to the private sector, where I often cannot discuss the details of my work, made this even more difficult.\n\nI don’t regret this shift; it was 100% the right thing for me and has been an incredible opportunity. But I don’t think I ever realized the strain I have felt because of it. I still don’t have a strong “startup” network. I have no product management network. My Baltimore network is minuscule; it’s virtually non-existent if you remove direct colleagues. These things are my own fault. \n\nI came to this position having left a community I built by happenstance in the easiest way. I went to college and graduate school in the same city, then I worked in that city, in both city and state in government. I interacted with former classmates or professionals who attended the same undergraduate or graduate program in my daily work and around town. This became a tight network for me. When I started to feel limited by \"only\" knowing Providence and Rhode Island folks, I left my role at the state to go back to work at my university (in collaboration with the city school district) through a national fellowship. That fellowship tied me to similar practitioners across the country, and I already knew many people within that network because they were former classmates or colleagues. I basically went to school and did my job and stayed connected to the people I met along the way as they spread out into new cities and new opportunities, none too distant from my own work. \n\nMy friends were mostly folks who I went to school with that stayed around town or folks I interacted with tangentially through work. Staying in Providence for a decade gave me a huge leg up when it came to building a personal and professional network. \n\nWhen I moved to Baltimore, I wasn’t a part of any kind of group experience or challenge that allowed me to meet new people. I wasn't in a cohort of \"founders\" connected me to the tech community. I wasn't coming together regularly with people who were product managers. I had abandoned government data analysis and leadership, and now, I was working at an early stage start up doing product management. I fell into a new career in a very different industry and after a couple of years left what had become my home city to reduce my own travel and improve my chances at moving up at work [^success]. As an adult, I lacked the kind of community building that happens when you go to school together, or are trained in a group to work a new role together. The sort of school/job orientation of likeminded folks is not a thing that happens very often around 30. And although I worked for a startup, I joined 1 year in and moved to Baltimore 2.5 years later. So perhaps the most likely analogs like an incubator or subsidized office space with other early stage companies had long passed. The easy(ish) mode version of building a network had passed. Add to this to my ferocious sense of imposter syndrome and general lack of confidence and frankly, I’ve floundered a bit. \n\nI’m going to be working on all this over the next few years, because it’s gotten past the point of just muscling through it. But I’m sharing my story because it’s change a lot about how I’ve thought about moving for different professional or personal opportunities. It’s made me have a greater appreciation of how things outside of family can tie you to a place, and how even in our highly online world, place-based connections are powerful and matter. So do field/industry connections, and leaving both behind at once without putting in the work to rebuild was brutal. Seven years later, I think I still would have an easier time getting a school district or state department job doing data analysis and research than continuing to be a product manager or start up manager/executive, even though it's further from my current experiences and isn't greatest skillset. It’s also not what I want. So it’s time to put in some work. \n\nHow I might weigh staying somewhere versus chasing an opportunity in a new city has evolved. There's a lot of work that happens outside the office when you go somewhere new, and I screwed up by not doing it.\n\n[^success]: Both of these things happened. I should also be clear, I moved when I moved for other personal reasons. A family emergency coinciding with Elsa leaving her job meant we needed more space at home and fast and that there were advantages to being in a different job market. Although I had considered moving to Baltimore, from \"serious conversations\" to \"we're here\" it was about seven days.\n",
+				"date_published": "2021-07-31T21:16:12-04:00",
+				"url": "https://json.blog/2021/07/31/i-recenly-realized.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/31/if-you-work.html",
+				
+				"content_html": "<p>If you work at a foundation or have access to capital, you should fund Alon Levy and his group’s work <a href=\"https://pedestrianobservations.com/2021/07/31/how-to-build-high-speed-rail-with-money-the-united-states-has/\">looking into transit costs and high speed rail</a> in the US. I don’t think there’s a more impactful, timely investment to make.</p>\n",
+				"content_text": "If you work at a foundation or have access to capital, you should fund Alon Levy and his group’s work [looking into transit costs and high speed rail](https://pedestrianobservations.com/2021/07/31/how-to-build-high-speed-rail-with-money-the-united-states-has/) in the US. I don’t think there’s a more impactful, timely investment to make.\n",
+				"date_published": "2021-07-31T21:09:43-04:00",
+				"url": "https://json.blog/2021/07/31/if-you-work.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/31/hi-papas.html",
+				"title": "Hi Papas!",
+				"content_html": "<a href=\"https://json.blog/uploads/2021/c3929a7eb8.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img \n        src = \"https://json.blog/uploads/2021/c3929a7eb8.jpg\" style=\"max-width: 100%\"\n     \n     \n        alt=\"Gracie, my dog, looking back at me with her tongue out.\" \n     \n      />\n</a>\n\n",
+				"content_text": "\n{{< glightbox src=\"https://json.blog/uploads/2021/c3929a7eb8.jpg\" alt=\"Gracie, my dog, looking back at me with her tongue out.\" >}}\n",
+				"date_published": "2021-07-31T19:57:48-04:00",
+				"url": "https://json.blog/2021/07/31/hi-papas.html",
+				"tags": ["photoblogging","dogs"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/31/oh-damn.html",
+				
+				"content_html": "<p>Oh damn.</p>\n\n<a href=\"https://json.blog/uploads/2021/8e209f2fa9.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img \n        src = \"https://json.blog/uploads/2021/8e209f2fa9.jpg\" style=\"max-width: 100%\"\n     \n     \n        alt=\"Stillwater Artisanal Imperial Chocolate Stout\" \n     \n      />\n</a>\n\n",
+				"content_text": "Oh damn. \n\n{{< glightbox src=\"https://json.blog/uploads/2021/8e209f2fa9.jpg\" alt=\"Stillwater Artisanal Imperial Chocolate Stout\" >}}\n",
+				"date_published": "2021-07-31T18:11:53-04:00",
+				"url": "https://json.blog/2021/07/31/oh-damn.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/31/has-america-ever.html",
+				
+				"content_html": "<p>Has America ever faced a crisis where less was asked and less required than getting a free, safe, effective, miracle vaccine to save us all?</p>\n",
+				"content_text": "Has America ever faced a crisis where less was asked and less required than getting a free, safe, effective, miracle vaccine to save us all?\n",
+				"date_published": "2021-07-31T14:53:35-04:00",
+				"url": "https://json.blog/2021/07/31/has-america-ever.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/31/i-will-feel.html",
+				
+				"content_html": "<blockquote>\n<p>I will feel bad for you in a similar way I felt bad for the guy I once saw who decided to self inject methamphetamine and then shoot a firecracker up right up his ass. &ldquo;Sorry you exploded your colon sir, but umm- that was fucking dumb.&rdquo;</p>\n</blockquote>\n\n<p>From: <a href=\"http://unortho-docs.com/if-you-are-an-unvaccinated-adult-and-get-covid-now-no-one-in-health-care-has-any-sympathy-for-you/\">If you are an unvaccinated adult and get COVID now, no one in health care has any sympathy for you</a></p>\n",
+				"content_text": "> I will feel bad for you in a similar way I felt bad for the guy I once saw who decided to self inject methamphetamine and then shoot a firecracker up right up his ass. \"Sorry you exploded your colon sir, but umm- that was fucking dumb.\"\n\nFrom: <a href=\"http://unortho-docs.com/if-you-are-an-unvaccinated-adult-and-get-covid-now-no-one-in-health-care-has-any-sympathy-for-you/\">If you are an unvaccinated adult and get COVID now, no one in health care has any sympathy for you</a>\n",
+				"date_published": "2021-07-31T14:29:44-04:00",
+				"url": "https://json.blog/2021/07/31/i-will-feel.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/31/im-in-the.html",
+				
+				"content_html": "<p>I’m in the “I cannot believe my taxes are this high for such shitty government, and I hate how people use this to argue for low taxes and actively make government worse so I want lower taxes instead of fixing the fucking government so it works well” tax/education bracket.</p>\n",
+				"content_text": "I’m in the “I cannot believe my taxes are this high for such shitty government, and I hate how people use this to argue for low taxes and actively make government worse so I want lower taxes instead of fixing the fucking government so it works well” tax/education bracket.\n",
+				"date_published": "2021-07-31T13:29:14-04:00",
+				"url": "https://json.blog/2021/07/31/im-in-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/30/oh-shit-im.html",
+				
+				"content_html": "<p>Oh shit, I’m not joking. I just realized it’s Friday. Like, I think I <em>knew</em> it was Friday, but I just <em>understood</em> it was Friday.</p>\n",
+				"content_text": "Oh shit, I’m not joking. I just realized it’s Friday. Like, I think I _knew_ it was Friday, but I just _understood_ it was Friday.\n",
+				"date_published": "2021-07-30T21:26:01-04:00",
+				"url": "https://json.blog/2021/07/30/oh-shit-im.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/30/incredible-photography-project.html",
+				
+				"content_html": "<p>Incredible photography project— <a href=\"https://www.designboom.com/architecture/ken-ohyama-cutouts-japanese-urban-buildings-dollhouses-02-17-2021/\">cut outs of Japanese buildings</a>.</p>\n",
+				"content_text": "Incredible photography project— [cut outs of Japanese buildings](https://www.designboom.com/architecture/ken-ohyama-cutouts-japanese-urban-buildings-dollhouses-02-17-2021/).\n",
+				"date_published": "2021-07-30T18:39:40-04:00",
+				"url": "https://json.blog/2021/07/30/incredible-photography-project.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/30/evidence-for-how.html",
+				
+				"content_html": "<p>Evidence for how shitty Google Docs is as a product. I am being actively @ mentioned in a document to make some adjustments that was shared with me. That document is nowhere to be found going to the front page of Google Docs.</p>\n",
+				"content_text": "Evidence for how shitty Google Docs is as a product. I am being actively @ mentioned in a document to make some adjustments that was shared with me. That document is nowhere to be found going to the front page of Google Docs.\n",
+				"date_published": "2021-07-30T11:31:44-04:00",
+				"url": "https://json.blog/2021/07/30/evidence-for-how.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/30/it-turns-out.html",
+				
+				"content_html": "<p>It turns out my concerns about the internet today compared to the internet of the past mirrors elite panic from the early 20th century. As Gurri writes, “the masses had buried alive the public”, and now I find myself missing our online Republic of Letters.</p>\n",
+				"content_text": "It turns out my concerns about the internet today compared to the internet of the past mirrors elite panic from the early 20th century. As Gurri writes, “the masses had buried alive the public”, and now I find myself missing our online Republic of Letters.\n",
+				"date_published": "2021-07-30T11:08:54-04:00",
+				"url": "https://json.blog/2021/07/30/it-turns-out.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/30/finally-reading-after.html",
+				
+				"content_html": "<p>Finally reading, after frequently recommending, The Revolt of the Public, and damn if the discussion about the difference between the people and the public and assertions of the public’s sovereignty doesn’t perfectly encapsulate my own feelings about small d democracy.</p>\n",
+				"content_text": "Finally reading, after frequently recommending, The Revolt of the Public, and damn if the discussion about the difference between the people and the public and assertions of the public’s sovereignty doesn’t perfectly encapsulate my own feelings about small d democracy.\n",
+				"date_published": "2021-07-30T10:57:21-04:00",
+				"url": "https://json.blog/2021/07/30/finally-reading-after.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/30/i-cannot-go.html",
+				
+				"content_html": "<p>I cannot go back to losing third spaces.</p>\n\n<a href=\"https://json.blog/uploads/2021/ec3e3c5678.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img \n        src = \"https://json.blog/uploads/2021/ec3e3c5678.jpg\" style=\"max-width: 100%\"\n     \n     \n        alt=\"Lox and radish on labneh and sourdough, with a sprinkle of various seeds on top.\" \n     \n      />\n</a>\n\n",
+				"content_text": "I cannot go back to losing third spaces.\n\n{{< glightbox src=\"https://json.blog/uploads/2021/ec3e3c5678.jpg\" alt=\"Lox and radish on labneh and sourdough, with a sprinkle of various seeds on top.\" >}}\n",
+				"date_published": "2021-07-30T10:44:08-04:00",
+				"url": "https://json.blog/2021/07/30/i-cannot-go.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/29/i-know-that.html",
+				
+				"content_html": "<p>I know that <em>every</em> product has a well of complexity that is unknowable from the outside, but I can&rsquo;t help but look at some products that are very successful businesses and wonder, &ldquo;Why am I not more interested in solving simple problems?&rdquo;</p>\n",
+				"content_text": "I know that _every_ product has a well of complexity that is unknowable from the outside, but I can't help but look at some products that are very successful businesses and wonder, \"Why am I not more interested in solving simple problems?\"\n",
+				"date_published": "2021-07-29T21:03:16-04:00",
+				"url": "https://json.blog/2021/07/29/i-know-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/07/29/i-just-want.html",
+				
+				"content_html": "<p>I just want to see Dune in theaters. Please don’t fuck this up for me.</p>\n",
+				"content_text": "I just want to see Dune in theaters. Please don’t fuck this up for me.\n",
+				"date_published": "2021-07-29T18:20:11-04:00",
+				"url": "https://json.blog/2021/07/29/i-just-want.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/07/28/today-in-your.html",
 				"title": "Today in, \"Your taste can exceed your talent.\"",
 				"content_html": "<p>I was being driven crazy by the sound of my guitar. What&rsquo;s wrong? The tuner says I&rsquo;m fine. Am I going out of tune because I&rsquo;m pressing too hard on the strings? Why do octaves all sound good? Is that a rattle/hum/buzz?</p>\n\n<p>After 15 minutes, I realized what it was the interaction between the note I was playing and the sound of my ceiling fan being just slightly different such that I could hear the subtle beats of notes in unison out of tune. Turn off the fan, wait for it to stop. Play. Everything sounds fine.</p>\n\n<p><em>Fuck</em>.</p>\n",
