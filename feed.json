@@ -7,11 +7,93 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/10/19/i-will-never.html",
+				
+				"content_html": "<p>I will never stop being mad when I see that ActiveRecord didn’t make a proper foreign key relationship in the database.</p>\n",
+				"content_text": "I will never stop being mad when I see that ActiveRecord didn’t make a proper foreign key relationship in the database.\n",
+				"date_published": "2021-10-19T19:25:02-04:00",
+				"url": "https://json.blog/2021/10/19/i-will-never.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/18/personality-tests-are.html",
+				
+				"content_html": "<p>Personality tests are total pseudoscience bullshit, humans are all unique, but also just read about enneagram 5s if you want to know my deepest self.</p>\n",
+				"content_text": "Personality tests are total pseudoscience bullshit, humans are all unique, but also just read about enneagram 5s if you want to know my deepest self.\n",
+				"date_published": "2021-10-18T23:14:59-04:00",
+				"url": "https://json.blog/2021/10/18/personality-tests-are.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/18/hill-i-will.html",
+				
+				"content_html": "<p>Hill I will die on: your &ldquo;deck&rdquo; would be better as a memo.</p>\n",
+				"content_text": "Hill I will die on: your \"deck\" would be better as a memo.\n",
+				"date_published": "2021-10-18T21:32:05-04:00",
+				"url": "https://json.blog/2021/10/18/hill-i-will.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/17/coming-soon.html",
+				
+				"content_html": "<p>Coming Soon</p>\n\n<a href=\"https://json.blog/uploads/2021/1ed6d9526b.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/1ed6d9526b.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Ten hot sauces from Hot Ones lined up side-by-side.\" \n     \n      />\n</a>\n\n",
+				"content_text": "Coming Soon\n\n{{< glightbox src=\"https://json.blog/uploads/2021/1ed6d9526b.jpg\" alt=\"Ten hot sauces from Hot Ones lined up side-by-side.\" >}}\n",
+				"date_published": "2021-10-17T16:44:57-04:00",
+				"url": "https://json.blog/2021/10/17/coming-soon.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/17/every-time-i.html",
+				
+				"content_html": "<p>Every time I see people complain about SQL formatting standards, I just think, “pgFormatter exists, it’s available everywhere, and it’s <em>fine</em>.”</p>\n",
+				"content_text": "Every time I see people complain about SQL formatting standards, I just think, “pgFormatter exists, it’s available everywhere, and it’s _fine_.”\n",
+				"date_published": "2021-10-17T13:28:33-04:00",
+				"url": "https://json.blog/2021/10/17/every-time-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/17/like-humans-canada.html",
+				
+				"content_html": "<blockquote>\n<p>“Like humans, Canada geese usually mate for life, although sometimes unhappily.”</p>\n</blockquote>\n\n<p>— John Green, <em>The Anthropocene Reviewed</em></p>\n",
+				"content_text": "> “Like humans, Canada geese usually mate for life, although sometimes unhappily.”\n\n— John Green, *The Anthropocene Reviewed*\n",
+				"date_published": "2021-10-17T13:12:00-04:00",
+				"url": "https://json.blog/2021/10/17/like-humans-canada.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/16/i-had-a.html",
+				
+				"content_html": "<p>I had a weird thought in Walgreens today about looking forward to being able to take off my mask. I didn’t even do that during the few weeks without a mandate in Baltimore. It’s clear I’m feeling fatigue— I’ve never compulsively thought that this whole time.</p>\n",
+				"content_text": "I had a weird thought in Walgreens today about looking forward to being able to take off my mask. I didn’t even do that during the few weeks without a mandate in Baltimore. It’s clear I’m feeling fatigue— I’ve never compulsively thought that this whole time.\n",
+				"date_published": "2021-10-16T22:04:21-04:00",
+				"url": "https://json.blog/2021/10/16/i-had-a.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/16/i-find-these.html",
+				
+				"content_html": "<p>I find <a href=\"https://jabberwocking.com/the-economy-doesnt-appear-to-be-on-the-verge-of-overheating/\">these posts looking at a broad set of indicators on where the economy is</a> to be both interesting and persuasive— sure looks like we’re spending money we have catching up to where we would have been.</p>\n",
+				"content_text": "I find [these posts looking at a broad set of indicators on where the economy is](https://jabberwocking.com/the-economy-doesnt-appear-to-be-on-the-verge-of-overheating/) to be both interesting and persuasive— sure looks like we’re spending money we have catching up to where we would have been.\n",
+				"date_published": "2021-10-16T17:33:36-04:00",
+				"url": "https://json.blog/2021/10/16/i-find-these.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/16/murderbot-may-have.html",
+				
+				"content_html": "<p>Murderbot may have killed my average page count, but catching up kicked my reading into gear this year.</p>\n",
+				"content_text": "Murderbot may have killed my average page count, but catching up kicked my reading into gear this year.\n",
+				"date_published": "2021-10-16T16:54:09-04:00",
+				"url": "https://json.blog/2021/10/16/murderbot-may-have.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/16/having-hard-conversations.html",
+				
+				"content_html": "<p>Having hard conversations has not become easy, but I feel more equipped to have them because of the work I&rsquo;ve put in with my therapist, my partner, my manager, my mentor, and my coach, among others. And I feel no anxiety about long term impacts of necessary, direct confrontation.</p>\n",
+				"content_text": "Having hard conversations has not become easy, but I feel more equipped to have them because of the work I've put in with my therapist, my partner, my manager, my mentor, and my coach, among others. And I feel no anxiety about long term impacts of necessary, direct confrontation.\n",
+				"date_published": "2021-10-16T16:53:10-04:00",
+				"url": "https://json.blog/2021/10/16/having-hard-conversations.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/10/12/ebikes-that-go.html",
 				
 				"content_html": "<p>e-bikes that go <a href=\"https://www.theverge.com/22722099/vanmoof-v-electric-bike-price-specs-date-preorder\">37 mph seem pretty revolutionary</a>, though I think it’s quite reasonable to be concerned about safety. Bet it’s a hell of a ride.</p>\n",
 				"content_text": "e-bikes that go [37 mph seem pretty revolutionary](https://www.theverge.com/22722099/vanmoof-v-electric-bike-price-specs-date-preorder), though I think it’s quite reasonable to be concerned about safety. Bet it’s a hell of a ride.\n",
-				"date_published": "2021-10-12T14:50:39-05:00",
+				"date_published": "2021-10-12T15:50:39-04:00",
 				"url": "https://json.blog/2021/10/12/ebikes-that-go.html"
 			},
 			{
@@ -19,7 +101,7 @@
 				
 				"content_html": "<p>Sometimes you wake up and have a song in your head and can’t quite remember what song or what group it is, you just have that one guitar part caught in your head.</p>\n\n<p>This morning I was able to <a href=\"https://open.spotify.com/track/0mHVE5B2CiCsepRqCKsVV5?si=8474a0a6d19449af\">find my ear worm</a>, and it’s as good as it was in my mind.</p>\n",
 				"content_text": "Sometimes you wake up and have a song in your head and can’t quite remember what song or what group it is, you just have that one guitar part caught in your head.\n\nThis morning I was able to [find my ear worm](https://open.spotify.com/track/0mHVE5B2CiCsepRqCKsVV5?si=8474a0a6d19449af), and it’s as good as it was in my mind.\n",
-				"date_published": "2021-10-11T08:31:29-05:00",
+				"date_published": "2021-10-11T09:31:29-04:00",
 				"url": "https://json.blog/2021/10/11/sometimes-you-wake.html"
 			},
 			{
@@ -27,7 +109,7 @@
 				
 				"content_html": "<p>I’m sure that it’s just super hard to do, but I wish more SFF authors took the lesson of Murderbot and Gideon the Ninth— make your narrators dark, sarcastic, and hilarious and I will devour your books no matter what.</p>\n",
 				"content_text": "I’m sure that it’s just super hard to do, but I wish more SFF authors took the lesson of Murderbot and Gideon the Ninth— make your narrators dark, sarcastic, and hilarious and I will devour your books no matter what.\n",
-				"date_published": "2021-10-10T17:54:10-05:00",
+				"date_published": "2021-10-10T18:54:10-04:00",
 				"url": "https://json.blog/2021/10/10/im-sure-that.html"
 			},
 			{
@@ -35,7 +117,7 @@
 				"title": "In Response to The Why of Newsletters",
 				"content_html": "<p>I finally read <a href=\"https://www.robinrendle.com/essays/newsletters/\">The Why of Newsletters</a> by Robin Rendle. A great, quick, and beautiful read. You should click on the link and spend a few minutes and then come back, but if I were to summarize the piece:</p>\n\n<ol>\n<li>Newsletters are easy to write.</li>\n<li>They have an automatic notification system.</li>\n<li>They have a built in payment mechanism.</li>\n</ol>\n\n<p>Websites are missing all three, but that is a choice. There are solutions to (1) that could be popularized. We all know RSS is great for (2), but maybe it needs to be built into a place we already go, like the browser, to have the same advantages of email. But I think (3) is trickier and the solutions further off&ndash;for some reason, we&rsquo;re perfectly ok with an email model where folks can and do forward paid newsletters all the time (and often have a weblink that only offers security through obscurity to read a copy of a newsletter), but afraid to have website payment structures that are as easy to circumvent.</p>\n\n<p>The unspoken part of all this is the impact of Google Reader. I still know very smart people who loved Google Reader and have refused or bounced off of other RSS-based reading systems. That includes folks who are not using social media as an RSS replacement. I don&rsquo;t know that solving (2) and (3) in Google Reader would have worked, but it sure feels like mainstream weight behind RSS in the form of Google Reader had power. I have often wondered if Firefox had kept marketshare and used Pocket less as a &ldquo;save this part of the web&rdquo; and more as a &ldquo;read the web better in a stream&rdquo; if that may have helped.</p>\n\n<p>I&rsquo;m frustrated by the rise of newsletters. I&rsquo;m thrilled to be able to read great content and follow an author <sup class=\"footnote-ref\" id=\"fnref:authorfirst\"><a href=\"#fn:authorfirst\">1</a></sup>. But I really don&rsquo;t want your writing in my email inbox. The design of all newsletters is very same-y and lacking in personality, although at least they all tend to have an ok reading experience. The length of newsletters feels all wrong&ndash;I feel as though many paid newsletters feel the need to write significantly longer pieces to justify their cost. I&rsquo;d prefer shorter pieces, even if it meant more of them. My own blog is chronological within a day, because I think of my writing here as an ongoing journey within a day of what I&rsquo;m dong and thinking (a&hellip; web log, if you&rsquo;ll indulge me), and I&rsquo;d rather read a few ordered 250-500 word thoughts than once a week be hit with your 3000 word news magazine think-piece that would never be bought by a news magazine. And lastly, I can&rsquo;t say that I think any of the common middleware providers here, mostly Substack, are places I want to spend a lot of money. I&rsquo;m disappointed more people aren&rsquo;t using solutions like Ghost. I hope that Automattic would do some cool stuff with Tumblr in this direction.</p>\n\n<p>I guess it doesn&rsquo;t really matter to me in the end&ndash;I use a funky email address provided by <a href=\"https://feedbin.com/\">Feedbin</a>, which gets all those newsletters into my RSS reader of choice (<a href=\"https://apps.apple.com/us/app/reeder-5/id1529448980?mt=12\">Reeder</a>), and I get to enjoy more writing from people I&rsquo;m interested in following. But it is bizarre to see the writing revolution happening from within closed, centralized platforms using a weird open platform (email) for distribution while the web is sitting <em>right there</em>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:authorfirst\">It drives me nuts that most publications don&rsquo;t have author-based feeds or authors themselves don&rsquo;t construct them because I very often want to read everything a particular person writes and not the bundled publication. It used to be common to have author feeds or topic/tag feeds. One of the earliest signs that we&rsquo;re &ldquo;post-blog&rdquo; and fully buying into &ldquo;online publications&rdquo; was the removal of such features.\n <a class=\"footnote-return\" href=\"#fnref:authorfirst\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
 				"content_text": "I finally read [The Why of Newsletters](https://www.robinrendle.com/essays/newsletters/) by Robin Rendle. A great, quick, and beautiful read. You should click on the link and spend a few minutes and then come back, but if I were to summarize the piece:\n\n1. Newsletters are easy to write.\n2. They have an automatic notification system.\n3. They have a built in payment mechanism.\n\nWebsites are missing all three, but that is a choice. There are solutions to (1) that could be popularized. We all know RSS is great for (2), but maybe it needs to be built into a place we already go, like the browser, to have the same advantages of email. But I think (3) is trickier and the solutions further off--for some reason, we're perfectly ok with an email model where folks can and do forward paid newsletters all the time (and often have a weblink that only offers security through obscurity to read a copy of a newsletter), but afraid to have website payment structures that are as easy to circumvent.\n\nThe unspoken part of all this is the impact of Google Reader. I still know very smart people who loved Google Reader and have refused or bounced off of other RSS-based reading systems. That includes folks who are not using social media as an RSS replacement. I don't know that solving (2) and (3) in Google Reader would have worked, but it sure feels like mainstream weight behind RSS in the form of Google Reader had power. I have often wondered if Firefox had kept marketshare and used Pocket less as a \"save this part of the web\" and more as a \"read the web better in a stream\" if that may have helped.\n\nI'm frustrated by the rise of newsletters. I'm thrilled to be able to read great content and follow an author [^authorfirst]. But I really don't want your writing in my email inbox. The design of all newsletters is very same-y and lacking in personality, although at least they all tend to have an ok reading experience. The length of newsletters feels all wrong--I feel as though many paid newsletters feel the need to write significantly longer pieces to justify their cost. I'd prefer shorter pieces, even if it meant more of them. My own blog is chronological within a day, because I think of my writing here as an ongoing journey within a day of what I'm dong and thinking (a... web log, if you'll indulge me), and I'd rather read a few ordered 250-500 word thoughts than once a week be hit with your 3000 word news magazine think-piece that would never be bought by a news magazine. And lastly, I can't say that I think any of the common middleware providers here, mostly Substack, are places I want to spend a lot of money. I'm disappointed more people aren't using solutions like Ghost. I hope that Automattic would do some cool stuff with Tumblr in this direction.\n\nI guess it doesn't really matter to me in the end--I use a funky email address provided by [Feedbin](https://feedbin.com/), which gets all those newsletters into my RSS reader of choice ([Reeder](https://apps.apple.com/us/app/reeder-5/id1529448980?mt=12)), and I get to enjoy more writing from people I'm interested in following. But it is bizarre to see the writing revolution happening from within closed, centralized platforms using a weird open platform (email) for distribution while the web is sitting _right there_.\n\n[^authorfirst]: It drives me nuts that most publications don't have author-based feeds or authors themselves don't construct them because I very often want to read everything a particular person writes and not the bundled publication. It used to be common to have author feeds or topic/tag feeds. One of the earliest signs that we're \"post-blog\" and fully buying into \"online publications\" was the removal of such features.\n",
-				"date_published": "2021-10-10T11:16:07-05:00",
+				"date_published": "2021-10-10T12:16:07-04:00",
 				"url": "https://json.blog/2021/10/10/in-response-to.html",
 				"tags": ["macro"]
 			},
@@ -44,7 +126,7 @@
 				
 				"content_html": "<p>I got a Ring doorbell, cheap, before the “Ring is actually evil,” shit came out. I want to replace it, but need a doorbell that:</p>\n\n<ol>\n<li>Can use existing power and not battery and integrates with my chime.</li>\n<li>Has digital chime you can add (we have four floors)</li>\n<li>Is HomeKit compatible</li>\n</ol>\n\n<p>Help?</p>\n",
 				"content_text": "I got a Ring doorbell, cheap, before the “Ring is actually evil,” shit came out. I want to replace it, but need a doorbell that:\n\n1. Can use existing power and not battery and integrates with my chime.\n2. Has digital chime you can add (we have four floors)\n3. Is HomeKit compatible\n\nHelp?\n",
-				"date_published": "2021-10-09T09:27:38-05:00",
+				"date_published": "2021-10-09T10:27:38-04:00",
 				"url": "https://json.blog/2021/10/09/i-got-a.html"
 			},
 			{
@@ -68,7 +150,7 @@
 				"title": "Some time in Vail",
 				"content_html": "<p>After presenting at the annual conference of the Colorado Association of School Business Officials (on equity-based budgeting), I got to stick around for a weekend in Vail about a week post peak foliage. No complaints about being back on the road for work.</p>\n\n<div class=\"img-gallery\">\n<a href=\"https://json.blog/uploads/2021/8ebebb33f4.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/8ebebb33f4.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/3e8574101b.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/3e8574101b.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/c56a8f471f.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/c56a8f471f.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/f8718d24ff.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/f8718d24ff.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/d376e4e274.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/d376e4e274.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/ce0064ac9e.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/ce0064ac9e.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/179d282f13.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/179d282f13.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/4387415dd0.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/4387415dd0.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/55f0fdf340.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/55f0fdf340.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/77df71a40f.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"vailgal\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/77df71a40f.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n</div>\n",
 				"content_text": "After presenting at the annual conference of the Colorado Association of School Business Officials (on equity-based budgeting), I got to stick around for a weekend in Vail about a week post peak foliage. No complaints about being back on the road for work.\n\n<div class=\"img-gallery\">\n{{< glightbox src=\"https://json.blog/uploads/2021/8ebebb33f4.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/3e8574101b.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/c56a8f471f.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/f8718d24ff.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/d376e4e274.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/ce0064ac9e.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/179d282f13.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/4387415dd0.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/55f0fdf340.jpg\" gallery=\"vailgal\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/77df71a40f.jpg\" gallery=\"vailgal\" >}}\n</div>\n",
-				"date_published": "2021-10-04T22:31:37-05:00",
+				"date_published": "2021-10-04T23:31:37-04:00",
 				"url": "https://json.blog/2021/10/04/some-time-in.html",
 				"tags": ["photoblogging","macro"]
 			},
@@ -190,7 +272,7 @@
 				"title": "Sunday morning walk outside",
 				"content_html": "<div class=\"img-gallery\">\n\n\n<a href=\"https://json.blog/uploads/2021/6f9bae6413.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"lochraven\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/6f9bae6413.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"A path surrounded by lush trees.\" \n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/b50ad6ed29.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"lochraven\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/b50ad6ed29.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"A view of sparkling water.\" \n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/83589c6f94.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"lochraven\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/83589c6f94.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Uprooted tree with the reservoir behind it.\" \n     \n      />\n</a>\n\n</div>\n",
 				"content_text": "<div class=\"img-gallery\">\n\n\n{{< glightbox src=\"https://json.blog/uploads/2021/6f9bae6413.jpg\" alt=\"A path surrounded by lush trees.\" gallery=\"lochraven\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/b50ad6ed29.jpg\" alt=\"A view of sparkling water.\" gallery=\"lochraven\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/83589c6f94.jpg\" alt=\"Uprooted tree with the reservoir behind it.\" gallery=\"lochraven\" >}}\n</div>\n",
-				"date_published": "2021-09-26T19:13:13-05:00",
+				"date_published": "2021-09-26T20:13:13-04:00",
 				"url": "https://json.blog/2021/09/26/sunday-morning-walk.html",
 				"tags": ["photoblogging","macro"]
 			},
@@ -280,7 +362,7 @@
 				
 				"content_html": "<p>New Jamaican spot in Baltimore— we will return.</p>\n\n<div class='img-gallery'>\n<a href=\"https://json.blog/uploads/2021/a3ee377079.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"jamaican\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/a3ee377079.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Curry chicken, rice, and veggies.\" \n     \n      />\n</a>\n\n<a href=\"https://json.blog/uploads/2021/5af9b2abaf.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"jamaican\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/5af9b2abaf.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Red snapper escoveitch, bammies, and festival\" \n     \n      />\n</a>\n\n</div>\n",
 				"content_text": "New Jamaican spot in Baltimore— we will return.\n\n<div class='img-gallery'>\n{{< glightbox src=\"https://json.blog/uploads/2021/a3ee377079.jpg\" alt=\"Curry chicken, rice, and veggies.\" gallery=\"jamaican\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2021/5af9b2abaf.jpg\" alt=\"Red snapper escoveitch, bammies, and festival\" gallery=\"jamaican\" >}}\n</div>\n",
-				"date_published": "2021-09-20T09:24:45-05:00",
+				"date_published": "2021-09-20T10:24:45-04:00",
 				"url": "https://json.blog/2021/09/20/new-jamaican-spot.html",
 				"tags": ["photoblogging","baltimore"]
 			},
@@ -289,7 +371,7 @@
 				
 				"content_html": "<p>Weekend flowers</p>\n\n<a href=\"https://json.blog/uploads/2021/b48ac17345.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/b48ac17345.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Flowers in a light blue vase on a black table with a window and bar in the background.\" \n     \n      />\n</a>\n\n",
 				"content_text": "Weekend flowers\n\n{{< glightbox src=\"https://json.blog/uploads/2021/b48ac17345.jpg\" alt=\"Flowers in a light blue vase on a black table with a window and bar in the background.\" >}}\n",
-				"date_published": "2021-09-20T09:23:23-05:00",
+				"date_published": "2021-09-20T10:23:23-04:00",
 				"url": "https://json.blog/2021/09/20/weekend-flowers.html",
 				"tags": ["photoblogging"]
 			},
@@ -331,7 +413,7 @@
 				
 				"content_html": "<p>Busy morning</p>\n\n<a href=\"https://json.blog/uploads/2021/962d5ef3f1.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/962d5ef3f1.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"A collection of 6 kettlebells and a dumbell on the gym mat.\" \n     \n      />\n</a>\n\n",
 				"content_text": "Busy morning \n\n{{< glightbox src=\"https://json.blog/uploads/2021/962d5ef3f1.jpg\" alt=\"A collection of 6 kettlebells and a dumbell on the gym mat.\" >}}\n",
-				"date_published": "2021-09-18T10:57:34-05:00",
+				"date_published": "2021-09-18T11:57:34-04:00",
 				"url": "https://json.blog/2021/09/18/busy-morning.html",
 				"tags": ["photoblogging"]
 			},
