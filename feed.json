@@ -7,6 +7,272 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/11/02/nice-piece-on.html",
+				
+				"content_html": "<p><a href=\"https://gizmodo.com/carrie-was-about-the-horrific-cost-of-living-in-someone-1847966401\">Nice piece on a classic</a>— really captures what makes Carrie special.</p>\n",
+				"content_text": "[Nice piece on a classic](https://gizmodo.com/carrie-was-about-the-horrific-cost-of-living-in-someone-1847966401)— really captures what makes Carrie special.\n",
+				"date_published": "2021-11-02T20:40:19-04:00",
+				"url": "https://json.blog/2021/11/02/nice-piece-on.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/02/recalibrating-is-never.html",
+				
+				"content_html": "<p>Recalibrating is never easy, but often necessary.</p>\n",
+				"content_text": "Recalibrating is never easy, but often necessary.\n",
+				"date_published": "2021-11-02T07:49:18-04:00",
+				"url": "https://json.blog/2021/11/02/recalibrating-is-never.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/01/the-colors-this.html",
+				
+				"content_html": "<p>The colors this morning.</p>\n\n<p><img src=\"uploads/2021/49c4b386a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The colors this morning.\n\n<img src=\"uploads/2021/49c4b386a1.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-01T17:08:25-04:00",
+				"url": "https://json.blog/2021/11/01/the-colors-this.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/i-just-saw.html",
+				
+				"content_html": "<p>I just saw a dining room chair I like.</p>\n\n<p>It costs $3000.</p>\n",
+				"content_text": "I just saw a dining room chair I like.\n\nIt costs $3000.\n",
+				"date_published": "2021-10-31T21:50:25-04:00",
+				"url": "https://json.blog/2021/10/31/i-just-saw.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/we-still-get.html",
+				
+				"content_html": "<p>We still get very few trick or treaters, but every Halloween our neighbors get together outside to hang out for a bit and it’s really quite nice. It’s only become more fun as the number of kids grew from like 2 to 12.</p>\n",
+				"content_text": "We still get very few trick or treaters, but every Halloween our neighbors get together outside to hang out for a bit and it’s really quite nice. It’s only become more fun as the number of kids grew from like 2 to 12.\n",
+				"date_published": "2021-10-31T19:26:29-04:00",
+				"url": "https://json.blog/2021/10/31/we-still-get.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/shortcuts-doesnt-have.html",
+				
+				"content_html": "<p>Shortcuts doesn&rsquo;t have the ability to open a Safari window in a specific tab group? That&rsquo;s crumby.</p>\n",
+				"content_text": "Shortcuts doesn't have the ability to open a Safari window in a specific tab group? That's crumby.\n",
+				"date_published": "2021-10-31T13:31:36-04:00",
+				"url": "https://json.blog/2021/10/31/shortcuts-doesnt-have.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/was-thinking-of.html",
+				
+				"content_html": "<p>Was thinking of reintroducing <a href=\"https://www.paprikaapp.com\">Paprika</a> in our lives, but disappointed that it doesn&rsquo;t do anything to help with calorie tracking, despite having great structured data on ingredients.</p>\n",
+				"content_text": "Was thinking of reintroducing [Paprika](https://www.paprikaapp.com) in our lives, but disappointed that it doesn't do anything to help with calorie tracking, despite having great structured data on ingredients.\n",
+				"date_published": "2021-10-31T12:46:10-04:00",
+				"url": "https://json.blog/2021/10/31/was-thinking-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/a-good-piece.html",
+				
+				"content_html": "<p>A good piece on why the likely inevitable <em>Metaverse</em> is <a href=\"https://hypertext.monster/2021/10/30/i-dont-want.html\">concerning and should probably be rejected</a>.</p>\n",
+				"content_text": "A good piece on why the likely inevitable _Metaverse_ is [concerning and should probably be rejected](https://hypertext.monster/2021/10/30/i-dont-want.html).\n",
+				"date_published": "2021-10-31T12:26:34-04:00",
+				"url": "https://json.blog/2021/10/31/a-good-piece.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/fried-rice-with.html",
+				
+				"content_html": "<p>Fried rice with a couple of eggs is a highly underrated breakfast food in the US.</p>\n",
+				"content_text": "Fried rice with a couple of eggs is a highly underrated breakfast food in the US.\n",
+				"date_published": "2021-10-31T10:53:49-04:00",
+				"url": "https://json.blog/2021/10/31/fried-rice-with.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/four-years-ago.html",
+				
+				"content_html": "<p>Four years ago today, Elsa and I moved into our current house. We always liked it, but the transition to both of us fully working from home and the experience of living through COVID was so much more possible because of this home. Feeling grateful.</p>\n",
+				"content_text": "Four years ago today, Elsa and I moved into our current house. We always liked it, but the transition to both of us fully working from home and the experience of living through COVID was so much more possible because of this home. Feeling grateful.\n",
+				"date_published": "2021-10-31T10:05:55-04:00",
+				"url": "https://json.blog/2021/10/31/four-years-ago.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/i-thought-my.html",
+				
+				"content_html": "<p>I thought my laptop would make it before my next trip, but it seems like it’s just sitting in ZhengZhou. Sigh.</p>\n",
+				"content_text": "I thought my laptop would make it before my next trip, but it seems like it’s just sitting in ZhengZhou. Sigh.\n",
+				"date_published": "2021-10-31T09:48:19-04:00",
+				"url": "https://json.blog/2021/10/31/i-thought-my.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/31/frequent-and-extensive.html",
+				
+				"content_html": "<p>Frequent and extensive &gt;&gt;&gt;&gt;&gt;&gt; free when it comes to public transit.</p>\n",
+				"content_text": "Frequent and extensive >>>>>> free when it comes to public transit.\n",
+				"date_published": "2021-10-31T09:12:53-04:00",
+				"url": "https://json.blog/2021/10/31/frequent-and-extensive.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/30/i-was-so.html",
+				
+				"content_html": "<p>I was so mad while traveling this week. Where was that improved code I knew I wrote for a repetitive task we do? I assumed I was a moron and never checked it into version control so it didn&rsquo;t exist on my laptop.</p>\n\n<p>I forgot I wrote a whole internal R package for this use case.🤦‍♂️</p>\n",
+				"content_text": "I was so mad while traveling this week. Where was that improved code I knew I wrote for a repetitive task we do? I assumed I was a moron and never checked it into version control so it didn't exist on my laptop.\n\nI forgot I wrote a whole internal R package for this use case.🤦‍♂️\n",
+				"date_published": "2021-10-30T19:44:24-04:00",
+				"url": "https://json.blog/2021/10/30/i-was-so.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/28/i-need-my.html",
+				
+				"content_html": "<p>I need my friends to tell me to stop talking and start writing when I’m having a meltdown. I don’t know why I forget this about myself.</p>\n",
+				"content_text": "I need my friends to tell me to stop talking and start writing when I’m having a meltdown. I don’t know why I forget this about myself.\n",
+				"date_published": "2021-10-28T22:18:28-04:00",
+				"url": "https://json.blog/2021/10/28/i-need-my.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/28/how-cool-the.html",
+				
+				"content_html": "<p>How cool! The <a href=\"https://arstechnica.com/?p=1807727\">borosilicate glass was an important catalyst</a> in the Miller-Urey experiments. No worries&ndash; silicates are quite common on a primordial, rocky Earth.</p>\n",
+				"content_text": "How cool! The [borosilicate glass was an important catalyst](https://arstechnica.com/?p=1807727) in the Miller-Urey experiments. No worries-- silicates are quite common on a primordial, rocky Earth.\n",
+				"date_published": "2021-10-28T17:15:01-04:00",
+				"url": "https://json.blog/2021/10/28/how-cool-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/27/traveling-is-a.html",
+				
+				"content_html": "<p>Traveling is a solid reminder that in many parts of the US salad implies lots of mayonnaise and is entirely neutral on the question of vegetables.</p>\n",
+				"content_text": "Traveling is a solid reminder that in many parts of the US salad implies lots of mayonnaise and is entirely neutral on the question of vegetables.\n",
+				"date_published": "2021-10-27T13:36:29-04:00",
+				"url": "https://json.blog/2021/10/27/traveling-is-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/27/i-have-a.html",
+				
+				"content_html": "<p>I have a month left until vacation. I could use a little jump start to get me through. What’s your favorite way to reset for a push?</p>\n",
+				"content_text": "I have a month left until vacation. I could use a little jump start to get me through. What’s your favorite way to reset for a push?\n",
+				"date_published": "2021-10-27T10:04:43-04:00",
+				"url": "https://json.blog/2021/10/27/i-have-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/26/forgot-business-cards.html",
+				
+				"content_html": "<p>Forgot business cards again, surprising no one.</p>\n",
+				"content_text": "Forgot business cards again, surprising no one.\n",
+				"date_published": "2021-10-26T23:52:30-04:00",
+				"url": "https://json.blog/2021/10/26/forgot-business-cards.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/26/every-single-survey.html",
+				
+				"content_html": "<p>Every single survey or poll gets the same critique.</p>\n\n<p>“They only sampled X people!” where X is literally any number less than more people than have ever lived.</p>\n",
+				"content_text": "Every single survey or poll gets the same critique. \n\n“They only sampled X people!” where X is literally any number less than more people than have ever lived.\n",
+				"date_published": "2021-10-26T19:50:55-04:00",
+				"url": "https://json.blog/2021/10/26/every-single-survey.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/26/on-my-third.html",
+				
+				"content_html": "<p>On my third meditation of the day. Some weeks are just like that.</p>\n",
+				"content_text": "On my third meditation of the day. Some weeks are just like that.\n",
+				"date_published": "2021-10-26T19:41:48-04:00",
+				"url": "https://json.blog/2021/10/26/on-my-third.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/24/a-fun-thing.html",
+				
+				"content_html": "<p>A fun thing about our personalities&ndash; Elsa seems far more friendly and outgoing, but is a total introvert. The idea of socializing twice in a weekend is exhausting. I am perfectly comfortable spending time with people every single day, but I can be quite the wallflower.</p>\n",
+				"content_text": "A fun thing about our personalities-- Elsa seems far more friendly and outgoing, but is a total introvert. The idea of socializing twice in a weekend is exhausting. I am perfectly comfortable spending time with people every single day, but I can be quite the wallflower.\n",
+				"date_published": "2021-10-24T23:16:53-04:00",
+				"url": "https://json.blog/2021/10/24/a-fun-thing.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/24/men-will-literally.html",
+				
+				"content_html": "<p>Men will literally rewatch Dune to avoid packing.</p>\n\n<p>Me. I am Men.</p>\n",
+				"content_text": "Men will literally rewatch Dune to avoid packing.\n\nMe. I am Men.\n",
+				"date_published": "2021-10-24T20:19:49-04:00",
+				"url": "https://json.blog/2021/10/24/men-will-literally.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/24/im-watching-dune.html",
+				
+				"content_html": "<p>I’m watching Dune again, this time at home, and any one with complaints about the pacing has very different taste in movies than I do.</p>\n",
+				"content_text": "I’m watching Dune again, this time at home, and any one with complaints about the pacing has very different taste in movies than I do.\n",
+				"date_published": "2021-10-24T18:56:02-04:00",
+				"url": "https://json.blog/2021/10/24/im-watching-dune.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/23/dune-its-good.html",
+				
+				"content_html": "<p>Dune: it’s good. Watch it on the biggest screen with the best sound where you can safely do so.</p>\n",
+				"content_text": "Dune: it’s good. Watch it on the biggest screen with the best sound where you can safely do so.\n",
+				"date_published": "2021-10-23T22:28:18-04:00",
+				"url": "https://json.blog/2021/10/23/dune-its-good.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/22/i-think-i.html",
+				
+				"content_html": "<p>I think I just summarized the so-called pro-family, pro-natalist agenda of the American right.</p>\n\n<p>Jiminy Cricket.</p>\n",
+				"content_text": "I think I just summarized the so-called pro-family, pro-natalist agenda of the American right.\n\nJiminy Cricket.\n",
+				"date_published": "2021-10-22T10:30:41-04:00",
+				"url": "https://json.blog/2021/10/22/i-think-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/22/also-children-born.html",
+				
+				"content_html": "<p>Also, children born to rich parents should be guaranteed the ability to inherit all the wealth and advantages of their parents. Anything else would be immoral.</p>\n",
+				"content_text": "Also, children born to rich parents should be guaranteed the ability to inherit all the wealth and advantages of their parents. Anything else would be immoral.\n",
+				"date_published": "2021-10-22T10:29:09-04:00",
+				"url": "https://json.blog/2021/10/22/also-children-born.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/22/you-should-not.html",
+				
+				"content_html": "<p>You should not be able to avoid pregnancy if you engage in sex. You should not be able to avoid parenthood if you become pregnant. You should receive no assistance raising a child. The child is fully responsible for their lot in life, regardless of circumstance of their birth.</p>\n",
+				"content_text": "You should not be able to avoid pregnancy if you engage in sex. You should not be able to avoid parenthood if you become pregnant. You should receive no assistance raising a child. The child is fully responsible for their lot in life, regardless of circumstance of their birth.\n",
+				"date_published": "2021-10-22T10:28:37-04:00",
+				"url": "https://json.blog/2021/10/22/you-should-not.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/21/some-how-i.html",
+				
+				"content_html": "<p>Some how I forgot about the song Digging My Own Grave by Thrice, and I may have a new favorite song to sing and play acoustic. Oozing soul.</p>\n",
+				"content_text": "Some how I forgot about the song Digging My Own Grave by Thrice, and I may have a new favorite song to sing and play acoustic. Oozing soul.\n",
+				"date_published": "2021-10-21T20:31:59-04:00",
+				"url": "https://json.blog/2021/10/21/some-how-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/20/very-excited-to.html",
+				
+				"content_html": "<p>Very excited to be on a panel, “Examining Child Poverty, Equity and School Finance in Baltimore” tonight. But also, damn I’m hungry.</p>\n",
+				"content_text": "Very excited to be on a panel, “Examining Child Poverty, Equity and School Finance in Baltimore” tonight. But also, damn I’m hungry.\n",
+				"date_published": "2021-10-20T19:01:22-04:00",
+				"url": "https://json.blog/2021/10/20/very-excited-to.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/20/what-should-young.html",
+				
+				"content_html": "<blockquote>\n<p>“What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.”</p>\n</blockquote>\n\n<p>– Kurt Vonnegut</p>\n\n<p>Found in John Green’s <em>The Anthropocene Reviewed</em>, haunting me.</p>\n",
+				"content_text": "> “What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.” \n\n– Kurt Vonnegut\n\nFound in John Green’s _The Anthropocene Reviewed_, haunting me.\n",
+				"date_published": "2021-10-20T11:32:46-04:00",
+				"url": "https://json.blog/2021/10/20/what-should-young.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/19/as-for-this.html",
+				
+				"content_html": "<p>As for this &ldquo;<code>metaverse</code>&rdquo;, I sure am struggling to believe now is the time. It feels like folks have been jazzed about how VR was going to change everything (again) for a decade (this most recent time), and yet, it remains incredibly niche.</p>\n",
+				"content_text": "As for this \"`metaverse`\", I sure am struggling to believe now is the time. It feels like folks have been jazzed about how VR was going to change everything (again) for a decade (this most recent time), and yet, it remains incredibly niche.\n",
+				"date_published": "2021-10-19T22:43:38-04:00",
+				"url": "https://json.blog/2021/10/19/as-for-this.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/19/facebook-is-planning.html",
+				
+				"content_html": "<p>Facebook is <a href=\"https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse\">planning to rebrand the company</a>, because we all know that Alphabet was a success and the public doesn&rsquo;t just keep calling you whatever it believes your name is.</p>\n",
+				"content_text": "Facebook is [planning to rebrand the company](https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse), because we all know that Alphabet was a success and the public doesn't just keep calling you whatever it believes your name is.\n",
+				"date_published": "2021-10-19T22:41:47-04:00",
+				"url": "https://json.blog/2021/10/19/facebook-is-planning.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/10/19/i-am-the.html",
+				
+				"content_html": "<p>I am the age where I can’t tell if TV shows are fumbling, inelegantly and awkwardly only kind of correctly using slang, or if I’m just completely out of touch.</p>\n",
+				"content_text": "I am the age where I can’t tell if TV shows are fumbling, inelegantly and awkwardly only kind of correctly using slang, or if I’m just completely out of touch.\n",
+				"date_published": "2021-10-19T21:26:42-04:00",
+				"url": "https://json.blog/2021/10/19/i-am-the.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/10/19/i-will-never.html",
 				
 				"content_html": "<p>I will never stop being mad when I see that ActiveRecord didn’t make a proper foreign key relationship in the database.</p>\n",
@@ -3595,8 +3861,8 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2021/04/26/on-politics-at.html",
 				"title": "On Politics at Work",
-				"content_html": "\n\n<h3 id=\"what-happens-when-you-can-t-have-a-political-conversation-at-work\">What happens when you can’t have a political conversation at work?</h3>\n\n<p>Political conversation continues at work, between coworkers. If these are conversations that people were having when it was “ok”, they are going to keep having them in “unsanctioned” ways. The politics now just become a little less visible.</p>\n\n<h3 id=\"what-happens-when-you-can-t-have-a-political-conversation-at-work-1\">What happens when you can’t have a political conversation at work?</h3>\n\n<p>By making people feel unsafe discussing anything “political” at work will result in screwing up. All of our work is to build systems and processes that other people have to interact with. Bias, unfairness, and unintended consequences are always built in. If employees cannot object on “political” grounds, you will miss the ways that your system/process/product gets it wrong.</p>\n\n<h3 id=\"what-happens-when-you-can-t-have-a-political-conversation-at-work-2\">What happens when you can’t have a political conversation at work?</h3>\n\n<p>People who have power in your company will continue to voice opinions that they don’t even acknowledge or recognize as politics. Power and privilege is all about a shallow understanding of how your own actions are not apolitical, they are just aligned with existing power.</p>\n\n<h3 id=\"politics-at-work\">Politics at work</h3>\n\n<p>Politics at work does not mean campaigning or soliciting for campaigns. It does not mean an endless battle royale of cable news level debate among coworkers in a Slack all day long. Politics at work looks like</p>\n\n<ul>\n<li>Are we paying women and men the same for doing the same job?</li>\n<li>Are our recruiting and hiring practices leading to a non-diverse workforce and missing out on great people who should work here?</li>\n<li>What problems does our company solve and for whom?\n\n<ul>\n<li>How do we solve those problems?</li>\n</ul></li>\n<li>How can we make sure our employees are safe at work, but also feel safe when the various things in the world, out of their control makes them so unsafe? This is not because safe workers are productive workers, although they are. This is because we give a fuck.</li>\n</ul>\n\n<p>Workers don’t choose their work any more than their family. Some people have highly desirable skills that lets them choose wherever they work and change on a whim, but most people need their jobs, took the offer at the only job that gave them one, and don’t have the safety to just exit. But employers do choose their employees, and this asymmetry is critical to remember. The power that gives employers is considerable. So employees do limit their speech for fear, and that’s totally understandable. That power also means that employers need to take seriously their responsibility to care for their employees. We chose them, we want them here, we need them, and we have too much power to not bend to care.</p>\n",
-				"content_text": "### What happens when you can’t have a political conversation at work? \n\nPolitical conversation continues at work, between coworkers. If these are conversations that people were having when it was “ok”, they are going to keep having them in “unsanctioned” ways. The politics now just become a little less visible.\n\n### What happens when you can’t have a political conversation at work?\n\nBy making people feel unsafe discussing anything “political” at work will result in screwing up. All of our work is to build systems and processes that other people have to interact with. Bias, unfairness, and unintended consequences are always built in. If employees cannot object on “political” grounds, you will miss the ways that your system/process/product gets it wrong.\n\n### What happens when you can’t have a political conversation at work?\n\nPeople who have power in your company will continue to voice opinions that they don’t even acknowledge or recognize as politics. Power and privilege is all about a shallow understanding of how your own actions are not apolitical, they are just aligned with existing power.\n\n### Politics at work\n\nPolitics at work does not mean campaigning or soliciting for campaigns. It does not mean an endless battle royale of cable news level debate among coworkers in a Slack all day long. Politics at work looks like\n\n* Are we paying women and men the same for doing the same job?\n* Are our recruiting and hiring practices leading to a non-diverse workforce and missing out on great people who should work here?\n* What problems does our company solve and for whom?\n\t* How do we solve those problems?\n* How can we make sure our employees are safe at work, but also feel safe when the various things in the world, out of their control makes them so unsafe? This is not because safe workers are productive workers, although they are. This is because we give a fuck.\n\nWorkers don’t choose their work any more than their family. Some people have highly desirable skills that lets them choose wherever they work and change on a whim, but most people need their jobs, took the offer at the only job that gave them one, and don’t have the safety to just exit. But employers do choose their employees, and this asymmetry is critical to remember. The power that gives employers is considerable. So employees do limit their speech for fear, and that’s totally understandable. That power also means that employers need to take seriously their responsibility to care for their employees. We chose them, we want them here, we need them, and we have too much power to not bend to care.\n",
+				"content_html": "\n\n<h3 id=\"what-happens-when-you-can-t-have-a-political-conversation-at-work\">What happens when you can’t have a political conversation at work?</h3>\n\n<p>Political conversation continues at work, between coworkers. If these are conversations that people were having when it was “ok”, they are going to keep having them in “unsanctioned” ways. The politics now just become a little less visible.</p>\n\n<h3 id=\"what-happens-when-you-can-t-have-a-political-conversation-at-work-1\">What happens when you can’t have a political conversation at work?</h3>\n\n<p>By making people feel unsafe discussing anything “political” at work will result in screwing up. All of our work is to build systems and processes that other people have to interact with. Bias, unfairness, and unintended consequences are always built in. If employees cannot object on “political” grounds, you will miss the ways that your system/process/product gets it wrong.</p>\n\n<h3 id=\"what-happens-when-you-can-t-have-a-political-conversation-at-work-2\">What happens when you can’t have a political conversation at work?</h3>\n\n<p>People who have power in your company will continue to voice opinions that they don’t even acknowledge or recognize as politics. Power and privilege is all about a shallow understanding of how your own actions are not apolitical, they are just aligned with existing power.</p>\n\n<h3 id=\"politics-at-work\">Politics at work</h3>\n\n<p>Politics at work does not mean campaigning or soliciting for campaigns. It does not mean an endless battle royale of cable news level debate among coworkers in a Slack all day long. Politics at work looks like:</p>\n\n<ul>\n<li>Are we paying women and men the same for doing the same job?</li>\n<li>Are our recruiting and hiring practices leading to a non-diverse workforce and missing out on great people who should work here?</li>\n<li>What problems does our company solve and for whom?\n\n<ul>\n<li>How do we solve those problems?</li>\n</ul></li>\n<li>How can we make sure our employees are safe at work, but also feel safe when the various things in the world, out of their control makes them so unsafe? This is not because safe workers are productive workers, although they are. This is because we give a fuck.</li>\n</ul>\n\n<p>Workers don’t choose their work any more than their family. Some people have highly desirable skills that lets them choose wherever they work and change on a whim, but most people need their jobs, took the offer at the only job that gave them one, and don’t have the safety to just exit. But employers do choose their employees, and this asymmetry is critical to remember. The power that gives employers is considerable. So employees do limit their speech for fear, and that’s totally understandable. That power also means that employers need to take seriously their responsibility to care for their employees. We chose them, we want them here, we need them, and we have too much power to not bend to care.</p>\n",
+				"content_text": "### What happens when you can’t have a political conversation at work? \n\nPolitical conversation continues at work, between coworkers. If these are conversations that people were having when it was “ok”, they are going to keep having them in “unsanctioned” ways. The politics now just become a little less visible.\n\n### What happens when you can’t have a political conversation at work?\n\nBy making people feel unsafe discussing anything “political” at work will result in screwing up. All of our work is to build systems and processes that other people have to interact with. Bias, unfairness, and unintended consequences are always built in. If employees cannot object on “political” grounds, you will miss the ways that your system/process/product gets it wrong.\n\n### What happens when you can’t have a political conversation at work?\n\nPeople who have power in your company will continue to voice opinions that they don’t even acknowledge or recognize as politics. Power and privilege is all about a shallow understanding of how your own actions are not apolitical, they are just aligned with existing power.\n\n### Politics at work\n\nPolitics at work does not mean campaigning or soliciting for campaigns. It does not mean an endless battle royale of cable news level debate among coworkers in a Slack all day long. Politics at work looks like:\n\n* Are we paying women and men the same for doing the same job?\n* Are our recruiting and hiring practices leading to a non-diverse workforce and missing out on great people who should work here?\n* What problems does our company solve and for whom?\n\t* How do we solve those problems?\n* How can we make sure our employees are safe at work, but also feel safe when the various things in the world, out of their control makes them so unsafe? This is not because safe workers are productive workers, although they are. This is because we give a fuck.\n\nWorkers don’t choose their work any more than their family. Some people have highly desirable skills that lets them choose wherever they work and change on a whim, but most people need their jobs, took the offer at the only job that gave them one, and don’t have the safety to just exit. But employers do choose their employees, and this asymmetry is critical to remember. The power that gives employers is considerable. So employees do limit their speech for fear, and that’s totally understandable. That power also means that employers need to take seriously their responsibility to care for their employees. We chose them, we want them here, we need them, and we have too much power to not bend to care.\n",
 				"date_published": "2021-04-26T19:23:07-04:00",
 				"url": "https://json.blog/2021/04/26/on-politics-at.html",
 				"tags": ["macro"]
