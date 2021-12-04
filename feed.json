@@ -7,6 +7,106 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2021/12/04/what-is-even.html",
+				
+				"content_html": "<p>What is even the point of using less than a head of garlic in your recipe?</p>\n",
+				"content_text": "What is even the point of using less than a head of garlic in your recipe?\n",
+				"date_published": "2021-12-04T12:33:47-05:00",
+				"url": "https://json.blog/2021/12/04/what-is-even.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/30/i-had-no.html",
+				
+				"content_html": "<p>I had no idea, but I have THREE new The Invisible Library books to read this month. 😱</p>\n",
+				"content_text": "I had no idea, but I have THREE new The Invisible Library books to read this month. 😱\n",
+				"date_published": "2021-11-30T17:46:26-05:00",
+				"url": "https://json.blog/2021/11/30/i-had-no.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/28/i-am-fairly.html",
+				
+				"content_html": "<p>I am fairly convinced 50 minutes is the right length for a lecture or podcast that is asking you to think deeply or learn about a thing.</p>\n",
+				"content_text": "I am fairly convinced 50 minutes is the right length for a lecture or podcast that is asking you to think deeply or learn about a thing.\n",
+				"date_published": "2021-11-28T17:06:42-05:00",
+				"url": "https://json.blog/2021/11/28/i-am-fairly.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/28/165719.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/9da0008f15.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/9da0008f15.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-28T16:57:19-05:00",
+				"url": "https://json.blog/2021/11/28/165719.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/28/tonight-begins-my.html",
+				
+				"content_html": "<p>Tonight begins my annual, &ldquo;Do I have candles? Do the stores in my neighborhood know they should have candles?&rdquo; panic. !חַג שָׂמֵחַ</p>\n",
+				"content_text": "Tonight begins my annual, \"Do I have candles? Do the stores in my neighborhood know they should have candles?\" panic. !חַג שָׂמֵחַ\n",
+				"date_published": "2021-11-28T12:41:57-05:00",
+				"url": "https://json.blog/2021/11/28/tonight-begins-my.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/28/if-you-write.html",
+				
+				"content_html": "<p>If you write an article about rising home prices and displacement of people of color in a city and don’t dedicate the text to the restrictions on constructing new homes where middle class and up white people live, you have failed.</p>\n",
+				"content_text": "If you write an article about rising home prices and displacement of people of color in a city and don’t dedicate the text to the restrictions on constructing new homes where middle class and up white people live, you have failed.\n",
+				"date_published": "2021-11-28T08:09:33-05:00",
+				"url": "https://json.blog/2021/11/28/if-you-write.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/27/i-guess-she.html",
+				
+				"content_html": "<p>I guess she had too much to eat this holiday.</p>\n\n<p><img src=\"uploads/2021/bd00cb3df7.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I guess she had too much to eat this holiday.\n\n<img src=\"uploads/2021/bd00cb3df7.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-27T13:37:07-05:00",
+				"url": "https://json.blog/2021/11/27/i-guess-she.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/26/never-heard-of.html",
+				
+				"content_html": "<p>Never heard of Begin Again, but enjoyed it. Guess I’m just a sucker for a music movie, even if a lot of details annoyed me.</p>\n",
+				"content_text": "Never heard of Begin Again, but enjoyed it. Guess I’m just a sucker for a music movie, even if a lot of details annoyed me.\n",
+				"date_published": "2021-11-26T21:08:33-05:00",
+				"url": "https://json.blog/2021/11/26/never-heard-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/25/home-again.html",
+				
+				"content_html": "<p>Home again</p>\n\n<a href=\"https://json.blog/uploads/2021/914aa58689.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/914aa58689.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Gracie and Brandy snuggling on the couch\" \n     \n      />\n</a>\n\n",
+				"content_text": "Home again\n\n{{< glightbox src=\"https://json.blog/uploads/2021/914aa58689.jpg\" alt=\"Gracie and Brandy snuggling on the couch\" >}}\n",
+				"date_published": "2021-11-25T20:03:00-05:00",
+				"url": "https://json.blog/2021/11/25/home-again.html",
+				"tags": ["photoblogging","dogs"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/25/i-will-often.html",
+				
+				"content_html": "<p>I will often tell people asking me for advice to “just go to The Wirecutter”. Not this weekend. The staff is on strike, and you should avoid The Wirecutter entirely for now.</p>\n",
+				"content_text": "I will often tell people asking me for advice to “just go to The Wirecutter”. Not this weekend. The staff is on strike, and you should avoid The Wirecutter entirely for now.\n",
+				"date_published": "2021-11-25T19:07:12-05:00",
+				"url": "https://json.blog/2021/11/25/i-will-often.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/25/this-years-plate.html",
+				"title": "This year’s plate",
+				"content_html": "<a href=\"https://json.blog/uploads/2021/c5367e7487.jpg\" \n   class=\"glightbox\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2021/c5367e7487.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Turkey and gravy, sweet potato, cranberry, and broccoli.\" \n     \n      />\n</a>\n\n",
+				"content_text": "\n\n{{< glightbox src=\"https://json.blog/uploads/2021/c5367e7487.jpg\" width=\"599\" height=\"600\" alt=\"Turkey and gravy, sweet potato, cranberry, and broccoli.\" >}}\n",
+				"date_published": "2021-11-25T18:30:00-05:00",
+				"url": "https://json.blog/2021/11/25/this-years-plate.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2021/11/25/my-opinion-on.html",
+				
+				"content_html": "<p>My opinion on Thanksgiving food is turkey is delicious. People just suck at roasting, because they don’t do it often and don’t use thermometers.</p>\n",
+				"content_text": "My opinion on Thanksgiving food is turkey is delicious. People just suck at roasting, because they don’t do it often and don’t use thermometers.\n",
+				"date_published": "2021-11-25T11:43:40-05:00",
+				"url": "https://json.blog/2021/11/25/my-opinion-on.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2021/11/24/i-am-the.html",
 				
 				"content_html": "<p>I am the worst kind of tired. I read two pages and feel like I’m falling asleep. I close my book and my eyes, and within thirty seconds I’m wide awake.</p>\n",
