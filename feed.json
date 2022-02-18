@@ -7,6 +7,164 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/02/17/days-until-vacation.html",
+				
+				"content_html": "<p>17 days until vacation. I cannot wait to be unreachable to everyone everywhere.</p>\n",
+				"content_text": "17 days until vacation. I cannot wait to be unreachable to everyone everywhere.\n",
+				"date_published": "2022-02-17T22:07:44-05:00",
+				"url": "https://json.blog/2022/02/17/days-until-vacation.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/15/how-do-i.html",
+				
+				"content_html": "<p>How do I know that the <code>tidyverse</code> has been a &ldquo;<a href=\"https://engineering.rice.edu/news/hadley-wickham-identifies-good-design-data-science\">pit of success</a>&rdquo; for the whole community? <!-- raw HTML omitted --><!-- raw HTML omitted --> I am reviewing performance tasks for our next Senior Data Analyst, and there&rsquo;s no way this much could have been accomplished in 90 mins when I started writing R 12+ years ago.</p>\n",
+				"content_text": "How do I know that the `tidyverse` has been a \"[pit of success](https://engineering.rice.edu/news/hadley-wickham-identifies-good-design-data-science)\" for the whole community? </br></br> I am reviewing performance tasks for our next Senior Data Analyst, and there's no way this much could have been accomplished in 90 mins when I started writing R 12+ years ago.\n",
+				"date_published": "2022-02-15T10:33:09-05:00",
+				"url": "https://json.blog/2022/02/15/how-do-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/14/after-years-of.html",
+				"title": "Abandoning Control",
+				"content_html": "<p>After years of trying to get my emotions more under control, the most successful thing I’ve ever done professionally is verbally acknowledge and annotate.</p>\n<p>“I feel like I sound angry right now, but I’m not.”</p>\n<p>“If I seem frustrated, I think it’s because I didn’t sleep well.”</p>\n<p>“I understand I’m being reactive right now and may feel differently later.”</p>\n<p>If I could somehow recognize the\nemotion, reset, and talk and respond a different way in the first place, that would be amazing. But meditation, therapy, and all kinds of trying never got me there.</p>\n<p>What I have learned is how to feel when it&rsquo;s happening and correct afterwards.</p>\n",
+				"content_text": "After years of trying to get my emotions more under control, the most successful thing I’ve ever done professionally is verbally acknowledge and annotate. \n\n“I feel like I sound angry right now, but I’m not.” \n\n“If I seem frustrated, I think it’s because I didn’t sleep well.” \n\n“I understand I’m being reactive right now and may feel differently later.”\n\nIf I could somehow recognize the\nemotion, reset, and talk and respond a different way in the first place, that would be amazing. But meditation, therapy, and all kinds of trying never got me there. \n\nWhat I have learned is how to feel when it's happening and correct afterwards.\n",
+				"date_published": "2022-02-14T21:57:44-05:00",
+				"url": "https://json.blog/2022/02/14/after-years-of.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/14/the-situation-in.html",
+				
+				"content_html": "<p>The situation in Ukraine is terrifying, and if this is the new international response, Taiwan’s days are seriously numbered.</p>\n",
+				"content_text": "The situation in Ukraine is terrifying, and if this is the new international response, Taiwan’s days are seriously numbered.\n",
+				"date_published": "2022-02-14T17:35:05-05:00",
+				"url": "https://json.blog/2022/02/14/the-situation-in.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/i-looked-across.html",
+				
+				"content_html": "<p>I looked across the aisle and see Elsa watching Dune. ♥️</p>\n",
+				"content_text": "I looked across the aisle and see Elsa watching Dune. ♥️\n",
+				"date_published": "2022-02-13T19:33:26-05:00",
+				"url": "https://json.blog/2022/02/13/i-looked-across.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/someone-made-an.html",
+				
+				"content_html": "<p>Someone made an offhand comment this weekend that they hadn’t used RSS since Google Reader went away. The main reason was the complexity of getting setup again on RSS and finding a good tool and workflow. Kind of mind blowing to me, considering the quality of <a href=\"https://feedbin.com\">Feedbin</a>.</p>\n",
+				"content_text": "Someone made an offhand comment this weekend that they hadn’t used RSS since Google Reader went away. The main reason was the complexity of getting setup again on RSS and finding a good tool and workflow. Kind of mind blowing to me, considering the quality of [Feedbin](https://feedbin.com).\n",
+				"date_published": "2022-02-13T18:55:21-05:00",
+				"url": "https://json.blog/2022/02/13/someone-made-an.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/i-read-this.html",
+				
+				"content_html": "<p>I read <a href=\"https://www.theatlantic.com/magazine/archive/2022/03/why-we-lose-friends-aging-happiness/621305/\">this piece in The Atlantic</a> on friendship five hours ago and I’m still thinking about it. A combination of my age and the pandemic has had me thinking a lot of friendship this year, and this resonated strongly.</p>\n",
+				"content_text": "I read [this piece in The Atlantic](https://www.theatlantic.com/magazine/archive/2022/03/why-we-lose-friends-aging-happiness/621305/) on friendship five hours ago and I’m still thinking about it. A combination of my age and the pandemic has had me thinking a lot of friendship this year, and this resonated strongly.\n",
+				"date_published": "2022-02-13T18:41:26-05:00",
+				"url": "https://json.blog/2022/02/13/i-read-this.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/maybe-i-should.html",
+				
+				"content_html": "<p>Maybe I should have worked from here for the week…</p>\n<a href=\"https://json.blog/uploads/2022/8f95d4241a.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"f3ad2c2ad07e6777818e12f0769e3654\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2022/8f95d4241a.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n      />\n</a>\n\n",
+				"content_text": "Maybe I should have worked from here for the week…\n\n{{< glightbox src=\"https://json.blog/uploads/2022/8f95d4241a.jpg\" >}}\n",
+				"date_published": "2022-02-13T13:51:06-05:00",
+				"url": "https://json.blog/2022/02/13/maybe-i-should.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/its-not-the.html",
+				"title": "It’s not the COVID cautious preventing you from “normalcy”",
+				"content_html": "<p>I sent my proof of vaccine to Puerto Rico before entering. Without my QR code, they would not have allowed me to leave the airport.</p>\n<p>At nearly every restaurant or indoor store, I’m asked to present proof of vaccination. Hand sanitizer is still common and requested upon entry places.</p>\n<p>Masking compliance is universal among those who live on the island, even outdoors (at least in tourist areas in San Juan).</p>\n<p>I’ve spent this trip comfortably dining indoors and out, in and out of boutiques and galleries, and by the pool and the beach. <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<p>None of these measures feel meaningful restrictive. All of these things fade into the background. Were they all necessary for safety? Maybe— masking outdoors seems like the least meaningful of these measures.</p>\n<p>Really this whole experience reminds me that all of the fabricated outrage over simple public health measures has created far more inconvenience and disruption than the measures themselves. Fear of the anti-vax, anti-mask crowd showing up and getting rude and violent with retail and food services workers has halted any attempt to protect public safety in favor of self-imposed restrictions that are far more severe.</p>\n<p>I can’t help but believe that it is not the COVID cautious who have changed normalcy, but the COVID denialists who have led us to an extended pandemic, with no public health interventions being acceptable.</p>\n<p>I haven’t been restricted from doing anything at all in months… maybe more than a year? But I have also been to places with very different COVID responses and know how much safer some places feel. And guess what? When I feel safer, I do more.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>While I wasn’t working, at least. Most of my time was at a conference, whose organizers nailed the hotel, location, and agenda. We’ve been outdoors a bunch, with some nice blocks of a few hours here and there to enjoy our surroundings.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "I sent my proof of vaccine to Puerto Rico before entering. Without my QR code, they would not have allowed me to leave the airport. \n\nAt nearly every restaurant or indoor store, I’m asked to present proof of vaccination. Hand sanitizer is still common and requested upon entry places. \n\nMasking compliance is universal among those who live on the island, even outdoors (at least in tourist areas in San Juan).\n\nI’ve spent this trip comfortably dining indoors and out, in and out of boutiques and galleries, and by the pool and the beach. [^working]\n\nNone of these measures feel meaningful restrictive. All of these things fade into the background. Were they all necessary for safety? Maybe— masking outdoors seems like the least meaningful of these measures. \n\nReally this whole experience reminds me that all of the fabricated outrage over simple public health measures has created far more inconvenience and disruption than the measures themselves. Fear of the anti-vax, anti-mask crowd showing up and getting rude and violent with retail and food services workers has halted any attempt to protect public safety in favor of self-imposed restrictions that are far more severe.\n\nI can’t help but believe that it is not the COVID cautious who have changed normalcy, but the COVID denialists who have led us to an extended pandemic, with no public health interventions being acceptable.\n\nI haven’t been restricted from doing anything at all in months… maybe more than a year? But I have also been to places with very different COVID responses and know how much safer some places feel. And guess what? When I feel safer, I do more.\n\n[^working]: While I wasn’t working, at least. Most of my time was at a conference, whose organizers nailed the hotel, location, and agenda. We’ve been outdoors a bunch, with some nice blocks of a few hours here and there to enjoy our surroundings.\n",
+				"date_published": "2022-02-13T12:45:37-05:00",
+				"url": "https://json.blog/2022/02/13/its-not-the.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/routine-siphons-vitality.html",
+				"title": "Routine siphons vitality",
+				"content_html": "<p>I was thinking earlier about what it would be like to rearrange my life around monthly travel when it suddenly dawned on me that monthly travel would be a decline from my pre-pandemic lifestyle.</p>\n<p>Of all the things I’m hoping for, a return to travel has got to be the top of my list. Even when it’s for work, even if I can just tack on a day or half day, the refresh I get from a change in environment is so important.</p>\n<p>Routine siphons vitality.</p>\n<p>That’s true for me even when the routine has not become a grind. But the pandemic has made all routine a grind, and getting out and about is fixing something inside me.</p>\n",
+				"content_text": "I was thinking earlier about what it would be like to rearrange my life around monthly travel when it suddenly dawned on me that monthly travel would be a decline from my pre-pandemic lifestyle.\n\nOf all the things I’m hoping for, a return to travel has got to be the top of my list. Even when it’s for work, even if I can just tack on a day or half day, the refresh I get from a change in environment is so important. \n\nRoutine siphons vitality. \n\nThat’s true for me even when the routine has not become a grind. But the pandemic has made all routine a grind, and getting out and about is fixing something inside me.\n",
+				"date_published": "2022-02-13T11:23:16-05:00",
+				"url": "https://json.blog/2022/02/13/routine-siphons-vitality.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/my-greatest-struggle.html",
+				
+				"content_html": "<p>My greatest struggle as a product manager is not writing down precisely what I think the next 4 years of work looks like while also not leaving my team, company, and customers in the dark. We have to have optionality and learn along the way, but also there are clear paths.</p>\n",
+				"content_text": "My greatest struggle as a product manager is not writing down precisely what I think the next 4 years of work looks like while also not leaving my team, company, and customers in the dark. We have to have optionality and learn along the way, but also there are clear paths.\n",
+				"date_published": "2022-02-13T08:35:28-05:00",
+				"url": "https://json.blog/2022/02/13/my-greatest-struggle.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/13/galazy-brain-by.html",
+				
+				"content_html": "<p>Galazy Brain by Charlie Warzel is one of my favorite newsletters, but I’m not sure I can forgive him for puncturing my internet bubble and making me aware of the latest set of bad ideas coming out of California— <a href=\"https://newsletters.theatlantic.com/galaxy-brain/62008eb7dc551a002085e298/wordcel-vs-rotator-brainworms/\">Wordcels v. Rotators</a>.</p>\n",
+				"content_text": "Galazy Brain by Charlie Warzel is one of my favorite newsletters, but I’m not sure I can forgive him for puncturing my internet bubble and making me aware of the latest set of bad ideas coming out of California— [Wordcels v. Rotators](https://newsletters.theatlantic.com/galaxy-brain/62008eb7dc551a002085e298/wordcel-vs-rotator-brainworms/).\n",
+				"date_published": "2022-02-13T08:32:15-05:00",
+				"url": "https://json.blog/2022/02/13/galazy-brain-by.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/12/peak-tv-i.html",
+				
+				"content_html": "<p>Peak TV I abandoned after several seasons:</p>\n<ul>\n<li>Mad Men</li>\n<li>Breaking Bad</li>\n<li>The Wire</li>\n<li>The Good Place</li>\n<li>The Americans (didn’t quite finish season 1, actually)</li>\n</ul>\n",
+				"content_text": "Peak TV I abandoned after several seasons:\n\n* Mad Men\n* Breaking Bad\n* The Wire\n* The Good Place\n* The Americans (didn’t quite finish season 1, actually)\n",
+				"date_published": "2022-02-12T20:34:22-05:00",
+				"url": "https://json.blog/2022/02/12/peak-tv-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/12/bladerunner-im-not.html",
+				
+				"content_html": "<p><a href=\"https://gizmodo.com/blade-runner-2099-amazon-tv-series-ridley-scott-1848523235\">Bladerunner 2099</a> — I’m not sure I want this.</p>\n",
+				"content_text": "[Bladerunner 2099](https://gizmodo.com/blade-runner-2099-amazon-tv-series-ridley-scott-1848523235) — I’m not sure I want this.\n",
+				"date_published": "2022-02-12T19:52:46-05:00",
+				"url": "https://json.blog/2022/02/12/bladerunner-im-not.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/12/viejo-san-juan.html",
+				"title": "Viejo San Juan",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"img-gallery\">\n{{< glightbox src=\"https://json.blog/uploads/2022/fc553caa2a.jpg\" alt=\"Stone turret\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/504261a681.jpg\" alt=\"Trees overhanging walkway along the water.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/965e318677.jpg\" alt=\"Stone walls and walkway along the water by the main gate to San Juan\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/b8c4678167.jpg\" alt=\"Statue of a peguin in front of trees in square in Viejo San Juan.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/c33ce2abab.jpg\" alt=\"Ceviche in front of the water.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/baba9526b9.jpg\" alt=\"Fried red snapper in front of the ocean.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/fbedb78d02.jpg\" alt=\"Molfungo in front of the ocean\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/ccd27cc8ae.jpg\" alt=\"Street chickens\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/4d63fd1697.jpg\" alt=\"Balcony with olive trees, white flowers, and orange flowers.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/756bb0a5b8.jpg\" alt=\"Streets lined with tropical plants.\" >}}\n</div>\n",
+				"date_published": "2022-02-12T14:50:00-05:00",
+				"url": "https://json.blog/2022/02/12/viejo-san-juan.html",
+				"tags": ["photoblogging","macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/12/lunch-views.html",
+				
+				"content_html": "<p>Lunch views</p>\n<a href=\"https://json.blog/uploads/2022/046ae5c95f.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"cb5a9a53c7457ceb66523abbf6ecaf76\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2022/046ae5c95f.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"Margarita overlooking the beach.\" \n     \n      />\n</a>\n\n",
+				"content_text": "Lunch views\n\n{{< glightbox src=\"https://json.blog/uploads/2022/046ae5c95f.jpg\" alt=\"Margarita overlooking the beach.\" >}}\n",
+				"date_published": "2022-02-12T11:52:53-05:00",
+				"url": "https://json.blog/2022/02/12/lunch-views.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/11/not-the-worst.html",
+				"title": "Not the Worst: Puerto Rico in February",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"img-gallery\">\n{{< glightbox src=\"https://json.blog/uploads/2022/eb3c8ea05d.jpg\" alt=\"Rocks on the beach looking out to the ocean.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/6cbbf0aa50.jpg\" alt=\"Patterns in the sand from the surf.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/535fb88221.jpg\" alt=\"Foam from the surf\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/1d6953d5de.jpg\" alt=\"Puerto Rican flag on the beach\" >}}\n</div>\n",
+				"date_published": "2022-02-11T21:03:53-05:00",
+				"url": "https://json.blog/2022/02/11/not-the-worst.html",
+				"tags": ["photoblogging","macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/10/i-thought-i.html",
+				
+				"content_html": "<p>I thought I was totally disinterested in more <em>Jurassic *</em> properties, but these bastards know <a href=\"https://gizmodo.com/jurassic-world-dominion-trailer-sam-neil-laura-dern-jef-1848513939\">how to bring out the nostalgia rush in me</a>.</p>\n",
+				"content_text": "I thought I was totally disinterested in more _Jurassic *_ properties, but these bastards know [how to bring out the nostalgia rush in me](https://gizmodo.com/jurassic-world-dominion-trailer-sam-neil-laura-dern-jef-1848513939).\n",
+				"date_published": "2022-02-10T10:55:33-05:00",
+				"url": "https://json.blog/2022/02/10/i-thought-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/10/i-have-been.html",
+				
+				"content_html": "<p>I have been generally cognizant of the growing narrative that folks are both living and working longer and that this has blocked younger folks from position of power and influence, but <a href=\"https://jabberwocking.com/raw-data-the-age-of-law-school-faculty-has-skyrocketed/\">this chart</a> really hammers it home.</p>\n",
+				"content_text": "I have been generally cognizant of the growing narrative that folks are both living and working longer and that this has blocked younger folks from position of power and influence, but [this chart](https://jabberwocking.com/raw-data-the-age-of-law-school-faculty-has-skyrocketed/) really hammers it home.\n",
+				"date_published": "2022-02-10T10:09:38-05:00",
+				"url": "https://json.blog/2022/02/10/i-have-been.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/02/10/if-your-song.html",
 				
 				"content_html": "<p>If your song has recordings from a street preacher, it’s a good song. I don’t make the rules.</p>\n",
