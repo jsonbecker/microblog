@@ -7,6 +7,177 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/03/04/sometime-early-in.html",
+				
+				"content_html": "<p>Sometime early in college I changed my online identity from some very 90s/early2k-styled handles to my name. About ten years ago, I adjusted slightly to the shortened <code>jsonbecker</code>. But increasingly, I&rsquo;m considering whether I should retreat to using one or more handles again.</p>\n",
+				"content_text": "Sometime early in college I changed my online identity from some very 90s/early2k-styled handles to my name. About ten years ago, I adjusted slightly to the shortened `jsonbecker`. But increasingly, I'm considering whether I should retreat to using one or more handles again.\n",
+				"date_published": "2022-03-04T18:00:28-05:00",
+				"url": "https://json.blog/2022/03/04/sometime-early-in.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/04/i-just-used.html",
+				
+				"content_html": "<p>I just used <code>/giphy the cheat rave</code> in Slack. So now you know the kind of day it is.</p>\n",
+				"content_text": "I just used `/giphy the cheat rave` in Slack. So now you know the kind of day it is.\n",
+				"date_published": "2022-03-04T11:45:50-05:00",
+				"url": "https://json.blog/2022/03/04/i-just-used.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/03/my-body-type.html",
+				
+				"content_html": "<p>My body type is, “causes the outfield to take a step back, but seems unlikely to beat out a grounder at first during corporate softball”.</p>\n",
+				"content_text": "My body type is, “causes the outfield to take a step back, but seems unlikely to beat out a grounder at first during corporate softball”.\n",
+				"date_published": "2022-03-03T09:15:48-05:00",
+				"url": "https://json.blog/2022/03/03/my-body-type.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/03/i-was-having.html",
+				
+				"content_html": "<p>I was having trouble sleeping last night like I often do after a long, stressful day. After tossing and turning, I picked up my phone. Within a millisecond, Elsa, who I thought was sleeping, says, “Back on your bullshit?” and I can’t tell if that was a ruthless attack or love.</p>\n",
+				"content_text": "I was having trouble sleeping last night like I often do after a long, stressful day. After tossing and turning, I picked up my phone. Within a millisecond, Elsa, who I thought was sleeping, says, “Back on your bullshit?” and I can’t tell if that was a ruthless attack or love.\n",
+				"date_published": "2022-03-03T09:09:10-05:00",
+				"url": "https://json.blog/2022/03/03/i-was-having.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/02/i-am-already.html",
+				
+				"content_html": "<p>I am already embarrassingly bad at not having my phone out when I’m out and about. QR code menus make it that much easier to be drawn to the device and not the people I want to spend time with.</p>\n",
+				"content_text": "I am already embarrassingly bad at not having my phone out when I’m out and about. QR code menus make it that much easier to be drawn to the device and not the people I want to spend time with.\n",
+				"date_published": "2022-03-02T23:42:25-05:00",
+				"url": "https://json.blog/2022/03/02/i-am-already.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/02/i-just-spent.html",
+				
+				"content_html": "<p>I just spent ten minutes trying to figure out where my clean (or maybe dirty?) clothes were.</p>\n<p>Ten minutes before I checked the dryer.</p>\n",
+				"content_text": "I just spent ten minutes trying to figure out where my clean (or maybe dirty?) clothes were.\n\nTen minutes before I checked the dryer.\n",
+				"date_published": "2022-03-02T23:06:54-05:00",
+				"url": "https://json.blog/2022/03/02/i-just-spent.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/01/a-warning-to.html",
+				
+				"content_html": "<p>A warning to all of us 📚book people in this post: <a href=\"https://www.somebits.com/weblog/tech/bad/goodreads-lost-all-my-data.html\">Goodreads lost all of my reviews</a>.</p>\n",
+				"content_text": "A warning to all of us 📚book people in this post: [Goodreads lost all of my reviews](https://www.somebits.com/weblog/tech/bad/goodreads-lost-all-my-data.html).\n",
+				"date_published": "2022-03-01T12:15:26-05:00",
+				"url": "https://json.blog/2022/03/01/a-warning-to.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/01/everything-is-bad.html",
+				
+				"content_html": "<p>Everything is bad. Apple could do me a solid right now and release a less ridiculously priced high DPI display, or maybe even a 27” iMac I actually want so I can waste money and get that sweet, consumerist dopamine hit.</p>\n",
+				"content_text": "Everything is bad. Apple could do me a solid right now and release a less ridiculously priced high DPI display, or maybe even a 27” iMac I actually want so I can waste money and get that sweet, consumerist dopamine hit.\n",
+				"date_published": "2022-03-01T08:08:38-05:00",
+				"url": "https://json.blog/2022/03/01/everything-is-bad.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/28/observing-elsa-and.html",
+				
+				"content_html": "<p>Observing Elsa and her mom watching white people make Mexican food on YouTube is the best.</p>\n",
+				"content_text": "Observing Elsa and her mom watching white people make Mexican food on YouTube is the best.\n",
+				"date_published": "2022-02-28T21:50:25-05:00",
+				"url": "https://json.blog/2022/02/28/observing-elsa-and.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/28/anyway-john-oliver.html",
+				
+				"content_html": "<p>Anyway, John Oliver is incredibly funny and a master at what he does and helps me to laugh at things I spend most of the rest of the week crying about.</p>\n",
+				"content_text": "Anyway, John Oliver is incredibly funny and a master at what he does and helps me to laugh at things I spend most of the rest of the week crying about.\n",
+				"date_published": "2022-02-28T20:52:38-05:00",
+				"url": "https://json.blog/2022/02/28/anyway-john-oliver.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/28/as-someone-who.html",
+				
+				"content_html": "<p>As someone who actually took course work on critical race theory from a scholar that identified themselves as a critical race theorist (more than 10 years ago 😳), literally everything about our current conversation is surreal.</p>\n",
+				"content_text": "As someone who actually took course work on critical race theory from a scholar that identified themselves as a critical race theorist (more than 10 years ago 😳), literally everything about our current conversation is surreal.\n",
+				"date_published": "2022-02-28T20:50:08-05:00",
+				"url": "https://json.blog/2022/02/28/as-someone-who.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/27/my-cordless-waterproof.html",
+				
+				"content_html": "<p>My cordless, waterproof beard trimmer died. Anyone have good recommendations? Waterproof is a must— if I don’t use this thing in the shower the hair gets everywhere.</p>\n",
+				"content_text": "My cordless, waterproof beard trimmer died. Anyone have good recommendations? Waterproof is a must— if I don’t use this thing in the shower the hair gets everywhere.\n",
+				"date_published": "2022-02-27T16:44:16-05:00",
+				"url": "https://json.blog/2022/02/27/my-cordless-waterproof.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/27/i-just-learned.html",
+				"title": "Peach 🍑 or Coconut 🥥",
+				"content_html": "<p>I just learned about the idea of “peach” 🍑 versus “coconut” 🥥 cultures. Peach cultures make it easy to get to know someone at first, but with a hard center that’s difficult to get through. Coconut cultures make it very hard to initiate, but once you crack it, you’re in.</p>\n<p>Because America 🇺🇸, I experience this mostly as an individualized phenomenon than cultural. Thinking about who in my life falls into each. I am for sure, a super peachy person.</p>\n",
+				"content_text": "I just learned about the idea of “peach” 🍑 versus “coconut” 🥥 cultures. Peach cultures make it easy to get to know someone at first, but with a hard center that’s difficult to get through. Coconut cultures make it very hard to initiate, but once you crack it, you’re in.\n\nBecause America 🇺🇸, I experience this mostly as an individualized phenomenon than cultural. Thinking about who in my life falls into each. I am for sure, a super peachy person.\n",
+				"date_published": "2022-02-27T13:45:16-05:00",
+				"url": "https://json.blog/2022/02/27/i-just-learned.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/27/you-like-garlic.html",
+				
+				"content_html": "<p>You like garlic bread? How about when I add some roast beef and pepper jack?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "You like garlic bread? How about when I add some roast beef and pepper jack?\n\n<div class=\"img-gallery\">\n{{< glightbox src=\"https://json.blog/uploads/2022/d77678bfbc.jpg\" alt=\"Garlic bread on a red and beige sil pad and quarter sheet.\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/41f4a55770.jpg\" alt=\"Melted cheese and roast beef on prior garlic bread.\" >}}\n</div>\n",
+				"date_published": "2022-02-27T13:31:32-05:00",
+				"url": "https://json.blog/2022/02/27/you-like-garlic.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/27/most-of-my.html",
+				
+				"content_html": "<p>Most of my days involve being hungry, eating breakfast, still feeling hungry and wondering for hours, &ldquo;When is it late enough to eat lunch so that I won&rsquo;t mess up my whole day?&rdquo; This is what trying to be healthier looks like.</p>\n",
+				"content_text": "Most of my days involve being hungry, eating breakfast, still feeling hungry and wondering for hours, \"When is it late enough to eat lunch so that I won't mess up my whole day?\" This is what trying to be healthier looks like.\n",
+				"date_published": "2022-02-27T13:02:23-05:00",
+				"url": "https://json.blog/2022/02/27/most-of-my.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/26/what-are-the.html",
+				
+				"content_html": "<p>What are the names of some of the stories in your life? The ones a couple of friends or your partner or family know as soon as you give them the name. For example, one of mine is “The Time You Had Chocolate Cake”.</p>\n",
+				"content_text": "What are the names of some of the stories in your life? The ones a couple of friends or your partner or family know as soon as you give them the name. For example, one of mine is “The Time You Had Chocolate Cake”.\n",
+				"date_published": "2022-02-26T18:42:44-05:00",
+				"url": "https://json.blog/2022/02/26/what-are-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/26/there-are-a.html",
+				
+				"content_html": "<p>There are a lot of places in Baltimore I’ve just forgotten about during the pandemic. Someone just mentioned Wet City on Reddit, and I can’t believe I haven’t even thought of this great spot in years.</p>\n",
+				"content_text": "There are a lot of places in Baltimore I’ve just forgotten about during the pandemic. Someone just mentioned Wet City on Reddit, and I can’t believe I haven’t even thought of this great spot in years.\n",
+				"date_published": "2022-02-26T15:33:24-05:00",
+				"url": "https://json.blog/2022/02/26/there-are-a.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/26/i-thought-that.html",
+				
+				"content_html": "<p>I thought that looking now for our trip to Mexico March 6-13th would be plenty of time to book a chef’s table/omakase/tasting menu situation somewhere, but everywhere in CDMX is booked like two months ahead.</p>\n",
+				"content_text": "I thought that looking now for our trip to Mexico March 6-13th would be plenty of time to book a chef’s table/omakase/tasting menu situation somewhere, but everywhere in CDMX is booked like two months ahead.\n",
+				"date_published": "2022-02-26T15:02:47-05:00",
+				"url": "https://json.blog/2022/02/26/i-thought-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/26/ah-yes-that.html",
+				
+				"content_html": "<p>Ah yes, that time of year that requires I keep out every jacket I own and switch between them multiple times a day.</p>\n",
+				"content_text": "Ah yes, that time of year that requires I keep out every jacket I own and switch between them multiple times a day.\n",
+				"date_published": "2022-02-26T08:51:55-05:00",
+				"url": "https://json.blog/2022/02/26/ah-yes-that.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/25/my-song-of.html",
+				
+				"content_html": "<p>My song of the week is from way back in 2001. <a href=\"https://song.link/i/1368827800\">Riverwest Creeps - The Benjamins</a></p>\n",
+				"content_text": "My song of the week is from way back in 2001. [Riverwest Creeps - The Benjamins](https://song.link/i/1368827800)\n",
+				"date_published": "2022-02-25T13:27:03-05:00",
+				"url": "https://json.blog/2022/02/25/my-song-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/02/25/im-avoiding-abbott.html",
+				
+				"content_html": "<p>I&rsquo;m avoiding Abbott Elementary because I&rsquo;m a flawed human who has a very hard time liking things as they have a meteoric rise in popularity.</p>\n",
+				"content_text": "I'm avoiding Abbott Elementary because I'm a flawed human who has a very hard time liking things as they have a meteoric rise in popularity.\n",
+				"date_published": "2022-02-25T13:06:29-05:00",
+				"url": "https://json.blog/2022/02/25/im-avoiding-abbott.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/02/25/what-radicalized-you.html",
 				
 				"content_html": "<p>&ldquo;What radicalized you?&rdquo; <!-- raw HTML omitted --><!-- raw HTML omitted -->\n&ldquo;95% of our support tickets are about log in issues.&rdquo;</p>\n",
