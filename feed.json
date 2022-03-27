@@ -7,10 +7,123 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/03/26/watching-a-movie.html",
+				
+				"content_html": "<p>Watching a movie on cable, edited for language and content, endlessly interrupted by commercials, is such a horrible experience.</p>\n",
+				"content_text": "Watching a movie on cable, edited for language and content, endlessly interrupted by commercials, is such a horrible experience.\n",
+				"date_published": "2022-03-26T19:29:55-04:00",
+				"url": "https://json.blog/2022/03/26/watching-a-movie.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/26/zorns-in-bellmore.html",
+				
+				"content_html": "<p>Zorn’s in Bellmore is closing tomorrow. My father’s family has been going to Zorn’s since he grew up around the corner from the Bethpage one back in the 60s. Crazy.</p>\n",
+				"content_text": "Zorn’s in Bellmore is closing tomorrow. My father’s family has been going to Zorn’s since he grew up around the corner from the Bethpage one back in the 60s. Crazy.\n",
+				"date_published": "2022-03-26T18:26:40-04:00",
+				"url": "https://json.blog/2022/03/26/zorns-in-bellmore.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/24/i-dont-know.html",
+				
+				"content_html": "<p>I don’t know where the very online landed on this, but I really like Natalie Wynn, and I hope she puts out another video.</p>\n",
+				"content_text": "I don’t know where the very online landed on this, but I really like Natalie Wynn, and I hope she puts out another video.\n",
+				"date_published": "2022-03-24T23:44:53-04:00",
+				"url": "https://json.blog/2022/03/24/i-dont-know.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/24/essential-reading-on.html",
+				
+				"content_html": "<p><a href=\"https://www.thenation.com/article/politics/ketanji-brown-jackson-pause/\">Essential reading</a> on the racism on display in the Senate confirmation hearings for Ketanji Brown Jackson.</p>\n",
+				"content_text": "[Essential reading](https://www.thenation.com/article/politics/ketanji-brown-jackson-pause/) on the racism on display in the Senate confirmation hearings for Ketanji Brown Jackson.\n",
+				"date_published": "2022-03-24T22:07:55-04:00",
+				"url": "https://json.blog/2022/03/24/essential-reading-on.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/24/me-pausing-the.html",
+				
+				"content_html": "<p>Me pausing the TV and turning to Elsa, &ldquo;Can we talk for a second?&rdquo;</p>\n<p>Elsa (@edure): &ldquo;Never a &lsquo;we&rsquo;.&rdquo;</p>\n<p>Me: &ldquo;Thank you, it&rsquo;s so weird!&rdquo;</p>\n<p>(This was in reference to couples saying &ldquo;We got pregnant.&quot;)</p>\n",
+				"content_text": "Me pausing the TV and turning to Elsa, \"Can we talk for a second?\"\n\nElsa (@edure): \"Never a 'we'.\"\n\nMe: \"Thank you, it's so weird!\"\n\n(This was in reference to couples saying \"We got pregnant.\")\n",
+				"date_published": "2022-03-24T21:54:56-04:00",
+				"url": "https://json.blog/2022/03/24/me-pausing-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/24/its-so-powerfully.html",
+				
+				"content_html": "<p>It’s so powerfully normalizing to have five trips queued in Southwest right now.</p>\n",
+				"content_text": "It’s so powerfully normalizing to have five trips queued in Southwest right now.\n",
+				"date_published": "2022-03-24T19:45:22-04:00",
+				"url": "https://json.blog/2022/03/24/its-so-powerfully.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/24/ive-had-a.html",
+				
+				"content_html": "<p>I’ve had a craving for oysters for weeks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve had a craving for oysters for weeks.\n\n<img src=\"https://json.blog/uploads/2022/09a9d78a8c.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-24T18:53:14-04:00",
+				"url": "https://json.blog/2022/03/24/ive-had-a.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/23/you-are-no.html",
+				
+				"content_html": "<p>You are no friend of mine if you&rsquo;re voting Republican. The ridiculous questioning on child pornography and critical race theory is easy to wrongly dismiss, but the <a href=\"https://slate.com/news-and-politics/2022/03/ketanji-brown-jackson-hearings-obergefell-roe.html\">clear assault on same sex marriage</a> the GOP is gearing up for post overturning <em>Roe</em> is disgusting.</p>\n",
+				"content_text": "You are no friend of mine if you're voting Republican. The ridiculous questioning on child pornography and critical race theory is easy to wrongly dismiss, but the [clear assault on same sex marriage](https://slate.com/news-and-politics/2022/03/ketanji-brown-jackson-hearings-obergefell-roe.html) the GOP is gearing up for post overturning *Roe* is disgusting.\n",
+				"date_published": "2022-03-23T23:04:40-04:00",
+				"url": "https://json.blog/2022/03/23/you-are-no.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/23/will-i-know.html",
+				
+				"content_html": "<p>Will I know the gender of fiancé versus fiancée by the time I’m married? Seems unlikely.</p>\n",
+				"content_text": "Will I know the gender of fiancé versus fiancée by the time I’m married? Seems unlikely.\n",
+				"date_published": "2022-03-23T10:21:59-04:00",
+				"url": "https://json.blog/2022/03/23/will-i-know.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/22/justin-has-been.html",
+				
+				"content_html": "<p>Justin has been one of those “can’t believe I knew this guy way back when” lately. <a href=\"https://proteanmag.com/2022/03/22/motivated-reasoning-emily-osters-covid-narratives-and-the-attack-on-public-education/\">Here he is</a>, with Abigail Cartus, with a pretty good piece on the US pandemic response and schools. There’s stuff I’d quibble with, but I largely agree with the conclusions.</p>\n",
+				"content_text": "Justin has been one of those “can’t believe I knew this guy way back when” lately. [Here he is](https://proteanmag.com/2022/03/22/motivated-reasoning-emily-osters-covid-narratives-and-the-attack-on-public-education/), with Abigail Cartus, with a pretty good piece on the US pandemic response and schools. There’s stuff I’d quibble with, but I largely agree with the conclusions.\n",
+				"date_published": "2022-03-22T20:11:37-04:00",
+				"url": "https://json.blog/2022/03/22/justin-has-been.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/22/surprise-josh-hawley.html",
+				
+				"content_html": "<p>Surprise! <a href=\"https://www.washingtonpost.com/politics/2022/03/19/sen-hawleys-misleading-attack-judge-jacksons-sentencing-child-porn-offenders/\">Josh Hawley is a lying sack of shit</a>.</p>\n",
+				"content_text": "Surprise! [Josh Hawley is a lying sack of shit](https://www.washingtonpost.com/politics/2022/03/19/sen-hawleys-misleading-attack-judge-jacksons-sentencing-child-porn-offenders/).\n",
+				"date_published": "2022-03-22T16:00:30-04:00",
+				"url": "https://json.blog/2022/03/22/surprise-josh-hawley.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/22/my-sleep-has.html",
+				
+				"content_html": "<p>My sleep has been a mess for a couple of weeks and it&rsquo;s just killing my body. It&rsquo;s such a bummer, because I can have months with no problem, followed by weeks of a mess.</p>\n",
+				"content_text": "My sleep has been a mess for a couple of weeks and it's just killing my body. It's such a bummer, because I can have months with no problem, followed by weeks of a mess.\n",
+				"date_published": "2022-03-22T15:11:07-04:00",
+				"url": "https://json.blog/2022/03/22/my-sleep-has.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/21/jason-snell-with.html",
+				
+				"content_html": "<p>Jason Snell with <a href=\"https://sixcolors.com/member/2022/03/a-cowboy-roping-an-imac-stop-the-presses/\">the hilarious story</a> of the time MacWorld pissed off Apple by&hellip; mistakenly having a silly cover that scooped the Flower Power (and kind of even Dalmatian) iMacs.</p>\n",
+				"content_text": "Jason Snell with [the hilarious story](https://sixcolors.com/member/2022/03/a-cowboy-roping-an-imac-stop-the-presses/) of the time MacWorld pissed off Apple by... mistakenly having a silly cover that scooped the Flower Power (and kind of even Dalmatian) iMacs.\n",
+				"date_published": "2022-03-21T22:39:08-04:00",
+				"url": "https://json.blog/2022/03/21/jason-snell-with.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/21/the-music-in.html",
+				
+				"content_html": "<p>The music in Dear Evan Hansen is so good, but the story is such trash.</p>\n",
+				"content_text": "The music in Dear Evan Hansen is so good, but the story is such trash.\n",
+				"date_published": "2022-03-21T00:22:25-04:00",
+				"url": "https://json.blog/2022/03/21/the-music-in.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/03/20/some-thoughts-on.html",
 				"title": "Some thoughts on The Batman",
-				"content_html": "<p>It’s nice to see a <em>Batman</em> movie spend it’s time with Batman doing Batman things. Almost every other Batman movie wants to spend it’s time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.</p>\n<p>They succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).</p>\n<p>Pattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.</p>\n<p>As shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.</p>\n<p>This whole movie gave me a very Seven/Fincher vibe.</p>\n<p>I think it might be the best Batman movie.</p>\n",
-				"content_text": "It’s nice to see a _Batman_ movie spend it’s time with Batman doing Batman things. Almost every other Batman movie wants to spend it’s time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.\n\nThey succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).\n\nPattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.\n\nAs shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.\n\nThis whole movie gave me a very Seven/Fincher vibe. \n\nI think it might be the best Batman movie.\n",
+				"content_html": "<p>It’s nice to see a <em>Batman</em> movie spend it’s time with Batman doing Batman things. Almost every other Batman movie wants to spend it’s time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.</p>\n<p>They succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).</p>\n<p>Pattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.</p>\n<p>As shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.</p>\n<p>This whole movie gave me a very Seven/Fincher vibe.</p>\n<p>I think it might be the best Batman movie.</p>\n<p>The car was dumb.</p>\n",
+				"content_text": "It’s nice to see a _Batman_ movie spend it’s time with Batman doing Batman things. Almost every other Batman movie wants to spend it’s time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.\n\nThey succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).\n\nPattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.\n\nAs shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.\n\nThis whole movie gave me a very Seven/Fincher vibe. \n\nI think it might be the best Batman movie.\n\nThe car was dumb.\n",
 				"date_published": "2022-03-20T01:19:20-04:00",
 				"url": "https://json.blog/2022/03/20/some-thoughts-on.html",
 				"tags": ["macro"]
