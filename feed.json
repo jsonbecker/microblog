@@ -7,6 +7,111 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/04/03/i-just-got.html",
+				
+				"content_html": "<p>I just got a sweater that I love and I won’t get to wear it for 6 months.</p>\n",
+				"content_text": "I just got a sweater that I love and I won’t get to wear it for 6 months.\n",
+				"date_published": "2022-04-03T12:14:47-04:00",
+				"url": "https://json.blog/2022/04/03/i-just-got.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/02/dinner-was-fine.html",
+				
+				"content_html": "<p>Dinner was fine.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Dinner was fine.\n\n<img src=\"uploads/2022/868b84a0d8.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7ce4cc4d34.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/a53273569f.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-02T22:43:18-04:00",
+				"url": "https://json.blog/2022/04/02/dinner-was-fine.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/02/one-of-the.html",
+				
+				"content_html": "<p>One of the things I find the most difficult about being a friend is accepting that what others need is not the same as what I would need, and tragically, not always the same as what I can give.</p>\n",
+				"content_text": "One of the things I find the most difficult about being a friend is accepting that what others need is not the same as what I would need, and tragically, not always the same as what I can give.\n",
+				"date_published": "2022-04-02T22:31:27-04:00",
+				"url": "https://json.blog/2022/04/02/one-of-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/01/im-rewatching-scrubs.html",
+				
+				"content_html": "<p>I’m rewatching Scrubs for the first time since I went back to the start in 2005-2006 to survive freshman year of college and the music being changed is killing me. That’s how embedded it is in my brain.</p>\n",
+				"content_text": "I’m rewatching Scrubs for the first time since I went back to the start in 2005-2006 to survive freshman year of college and the music being changed is killing me. That’s how embedded it is in my brain.\n",
+				"date_published": "2022-04-01T22:27:24-04:00",
+				"url": "https://json.blog/2022/04/01/im-rewatching-scrubs.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/01/home-alone-watching.html",
+				
+				"content_html": "<p>Home alone, watching deliberately paced British spy shit, as you do.</p>\n",
+				"content_text": "Home alone, watching deliberately paced British spy shit, as you do.\n",
+				"date_published": "2022-04-01T20:49:48-04:00",
+				"url": "https://json.blog/2022/04/01/home-alone-watching.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/01/feels-great-to.html",
+				
+				"content_html": "<p>Feels great to be drinking a Guinness and ordering a burger at the pub.</p>\n",
+				"content_text": "Feels great to be drinking a Guinness and ordering a burger at the pub.\n",
+				"date_published": "2022-04-01T18:46:30-04:00",
+				"url": "https://json.blog/2022/04/01/feels-great-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/31/leaked-internal-report.html",
+				
+				"content_html": "<p><a href=\"https://pxlnv.com/linklog/facebook-bug-misinformation/\">Leaked internal report</a> shows that Facebook promoted misinformation on the newsfeed instead of reducing it due to a whoopsy-doo.</p>\n<p>I do not miss Facebook at all.</p>\n",
+				"content_text": "[Leaked internal report](https://pxlnv.com/linklog/facebook-bug-misinformation/) shows that Facebook promoted misinformation on the newsfeed instead of reducing it due to a whoopsy-doo. \n\nI do not miss Facebook at all. \n",
+				"date_published": "2022-03-31T22:37:17-04:00",
+				"url": "https://json.blog/2022/03/31/leaked-internal-report.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/30/can-you-be.html",
+				
+				"content_html": "<p>Can you be proud of someone you do not know at all? I am so damn proud of <a href=\"http://hypercritical.co/2022/03/30/independence-day\">Siracusa going independent</a>. I hope he says, &ldquo;Yes&rdquo; only a little bit more, and gets to enjoy some of his newly open schedule.</p>\n",
+				"content_text": "Can you be proud of someone you do not know at all? I am so damn proud of [Siracusa going independent](http://hypercritical.co/2022/03/30/independence-day). I hope he says, \"Yes\" only a little bit more, and gets to enjoy some of his newly open schedule.\n",
+				"date_published": "2022-03-30T22:24:36-04:00",
+				"url": "https://json.blog/2022/03/30/can-you-be.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/29/i-agree-with.html",
+				
+				"content_html": "<p><a href=\"https://gregmorris.co.uk/blog/interoperability-should-be-simple/\">I agree with Greg Morris</a>&ndash; make no mistake, messaging interoperability is a way to look like you&rsquo;re fighting &ldquo;big tech&rdquo; with consumer interest in mind, but is actually about ending encrypted communication.</p>\n",
+				"content_text": "[I agree with Greg Morris](https://gregmorris.co.uk/blog/interoperability-should-be-simple/)-- make no mistake, messaging interoperability is a way to look like you're fighting \"big tech\" with consumer interest in mind, but is actually about ending encrypted communication.\n",
+				"date_published": "2022-03-29T10:09:28-04:00",
+				"url": "https://json.blog/2022/03/29/i-agree-with.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/28/having-my-dogs.html",
+				
+				"content_html": "<p>Having my dogs with me in the office again after a few weeks is so nice.</p>\n",
+				"content_text": "Having my dogs with me in the office again after a few weeks is so nice.\n",
+				"date_published": "2022-03-28T11:57:20-04:00",
+				"url": "https://json.blog/2022/03/28/having-my-dogs.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/27/it-feels-good.html",
+				
+				"content_html": "<p>It feels good to laugh uncontrollably. I keep a few shows in my pocket when it’s been a while that always help me howl with abandon.</p>\n",
+				"content_text": "It feels good to laugh uncontrollably. I keep a few shows in my pocket when it’s been a while that always help me howl with abandon.\n",
+				"date_published": "2022-03-27T21:39:09-04:00",
+				"url": "https://json.blog/2022/03/27/it-feels-good.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/27/andrew-sullivan-on.html",
+				
+				"content_html": "<p>Andrew Sullivan on The Problem with Jon Stewart is deeply embarrassing.</p>\n",
+				"content_text": "Andrew Sullivan on The Problem with Jon Stewart is deeply embarrassing.\n",
+				"date_published": "2022-03-27T21:04:12-04:00",
+				"url": "https://json.blog/2022/03/27/andrew-sullivan-on.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/03/27/i-need-to.html",
+				
+				"content_html": "<p>I need to decide this week if I’m going to save a lot of money on a car I barely use or spend a lot of money on a car I want but will barely use.</p>\n",
+				"content_text": "I need to decide this week if I’m going to save a lot of money on a car I barely use or spend a lot of money on a car I want but will barely use.\n",
+				"date_published": "2022-03-27T14:56:50-04:00",
+				"url": "https://json.blog/2022/03/27/i-need-to.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/03/26/watching-a-movie.html",
 				
 				"content_html": "<p>Watching a movie on cable, edited for language and content, endlessly interrupted by commercials, is such a horrible experience.</p>\n",
@@ -57,8 +162,8 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2022/03/24/ive-had-a.html",
 				
-				"content_html": "<p>I’ve had a craving for oysters for weeks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’ve had a craving for oysters for weeks.\n\n<img src=\"https://json.blog/uploads/2022/09a9d78a8c.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I’ve had a craving for oysters for weeks.</p>\n<a href=\"https://json.blog/uploads/2022/09a9d78a8c.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"1dbf8ba3f3fc805108a80dd0249af4dc\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2022/09a9d78a8c.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"A dozen raw oysters on ice.\" \n     \n      />\n</a>\n\n",
+				"content_text": "I’ve had a craving for oysters for weeks.\n\n{{< glightbox src=\"https://json.blog/uploads/2022/09a9d78a8c.jpg\" alt=\"A dozen raw oysters on ice.\" >}}\n",
 				"date_published": "2022-03-24T18:53:14-04:00",
 				"url": "https://json.blog/2022/03/24/ive-had-a.html",
 				"tags": ["photoblogging"]
@@ -131,8 +236,8 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2022/03/19/early-signs-of.html",
 				
-				"content_html": "<p>Early signs of spring from the front yard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Early signs of spring from the front yard.\n\n<img src=\"uploads/2022/f2eaaf5c23.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Early signs of spring from the front yard.</p>\n<a href=\"https://json.blog/uploads/2022/f2eaaf5c23.jpg\" \n   class=\"glightbox\"\n   \n     data-gallery=\"dff1728c65b62510c9bb8310d09d8745\"\n   \n   \n>\n<img src = \"https://json.blog/uploads/2022/f2eaaf5c23.jpg\" style=\"border-radius: 5px; max-width: 100%\"\n     \n        alt=\"A few flower buds begining to open on a bare tree in my yard.\" \n     \n      />\n</a>\n\n",
+				"content_text": "Early signs of spring from the front yard.\n\n{{< glightbox src=\"https://json.blog/uploads/2022/f2eaaf5c23.jpg\" alt=\"A few flower buds begining to open on a bare tree in my yard.\" >}}\n",
 				"date_published": "2022-03-19T17:52:13-04:00",
 				"url": "https://json.blog/2022/03/19/early-signs-of.html",
 				"tags": ["photoblogging"]
