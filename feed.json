@@ -7,6 +7,79 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/04/10/because-the-studio.html",
+				
+				"content_html": "<p>Because the Studio Display is better looking aesthetically and has slimmer bezels, I, for the first time, think I could use a 30&quot; or 32&quot; monitor successfully. Uh oh.</p>\n",
+				"content_text": "Because the Studio Display is better looking aesthetically and has slimmer bezels, I, for the first time, think I could use a 30\" or 32\" monitor successfully. Uh oh.\n",
+				"date_published": "2022-04-10T11:35:52-04:00",
+				"url": "https://json.blog/2022/04/10/because-the-studio.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/09/someone-recommended-go.html",
+				
+				"content_html": "<p>Someone recommended, “Go start your own startup!” to someone on the internet who is feeling burnt out by product management.</p>\n<p>“Be a founder” is not a fucking job you just pick up. Only do that if you find a problem you <em>have</em> to solve. Maybe. And probably not then either.</p>\n",
+				"content_text": "Someone recommended, “Go start your own startup!” to someone on the internet who is feeling burnt out by product management.\n\n“Be a founder” is not a fucking job you just pick up. Only do that if you find a problem you _have_ to solve. Maybe. And probably not then either.\n",
+				"date_published": "2022-04-09T22:13:45-04:00",
+				"url": "https://json.blog/2022/04/09/someone-recommended-go.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/09/my-side-by.html",
+				
+				"content_html": "<p>My side by side of the Logitech Brio and the new Studio Display camera&ndash; Center Stage is actually quite nice, but it&rsquo;s pretty clear that you&rsquo;re getting a really tight digital crop that does a little bit more of naturalistic job with color and lighting adjustments.</p>\n",
+				"content_text": "My side by side of the Logitech Brio and the new Studio Display camera-- Center Stage is actually quite nice, but it's pretty clear that you're getting a really tight digital crop that does a little bit more of naturalistic job with color and lighting adjustments.\n",
+				"date_published": "2022-04-09T15:21:34-04:00",
+				"url": "https://json.blog/2022/04/09/my-side-by.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/09/ive-been-traveling.html",
+				
+				"content_html": "<p>I’ve been traveling and Elsa is away so I’m home on my own until Monday. I just ordered everything I need to eat until then from Trinacria and I’m not sad about it.</p>\n",
+				"content_text": "I’ve been traveling and Elsa is away so I’m home on my own until Monday. I just ordered everything I need to eat until then from Trinacria and I’m not sad about it.\n",
+				"date_published": "2022-04-09T12:53:17-04:00",
+				"url": "https://json.blog/2022/04/09/ive-been-traveling.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/09/i-just-realized.html",
+				
+				"content_html": "<p>I just realized that my life changed have meant I can basically say “I grew up on Long Island. I spent my 20s in Providence. I’m spending my 30s in Baltimore.”</p>\n<p>I wonder where I’ll spend my 40s.</p>\n",
+				"content_text": "I just realized that my life changed have meant I can basically say “I grew up on Long Island. I spent my 20s in Providence. I’m spending my 30s in Baltimore.”\n\nI wonder where I’ll spend my 40s.\n",
+				"date_published": "2022-04-09T11:43:25-04:00",
+				"url": "https://json.blog/2022/04/09/i-just-realized.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/07/literally-every-trip.html",
+				
+				"content_html": "<p>Literally every trip I’ve booked on Southwest this year has had a flight time change (and sometimes dramatically different itinerary) as though I didn’t carefully choose which flight I wanted for good reasons. 😤</p>\n",
+				"content_text": "Literally every trip I’ve booked on Southwest this year has had a flight time change (and sometimes dramatically different itinerary) as though I didn’t carefully choose which flight I wanted for good reasons. 😤\n",
+				"date_published": "2022-04-07T22:15:25-04:00",
+				"url": "https://json.blog/2022/04/07/literally-every-trip.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/07/my-graying-beard.html",
+				
+				"content_html": "<p>My graying beard is really aging me on Zoom.</p>\n",
+				"content_text": "My graying beard is really aging me on Zoom.\n",
+				"date_published": "2022-04-07T17:31:46-04:00",
+				"url": "https://json.blog/2022/04/07/my-graying-beard.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/06/i-recommend-day.html",
+				
+				"content_html": "<p>I recommend Day One as a place to write things you’re not sure you should say to someone else. On This Day is a great way to reassess that later and tell them after time has passed— or not, and realized having an interior self is ok.</p>\n",
+				"content_text": "I recommend Day One as a place to write things you’re not sure you should say to someone else. On This Day is a great way to reassess that later and tell them after time has passed— or not, and realized having an interior self is ok.\n",
+				"date_published": "2022-04-07T00:01:03-04:00",
+				"url": "https://json.blog/2022/04/06/i-recommend-day.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/03/this-discussion-of.html",
+				
+				"content_html": "<p><a href=\"https://buttondown.email/charliejane/archive/a-few-ways-of-thinking-about-cancel-culture/\">This discussion</a> of &ldquo;cancel culture&rdquo; and the general shifts we&rsquo;ve seen lately by Charlie Jane Anders is fantastic.</p>\n",
+				"content_text": "[This discussion](https://buttondown.email/charliejane/archive/a-few-ways-of-thinking-about-cancel-culture/) of \"cancel culture\" and the general shifts we've seen lately by Charlie Jane Anders is fantastic.\n",
+				"date_published": "2022-04-03T19:12:35-04:00",
+				"url": "https://json.blog/2022/04/03/this-discussion-of.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/04/03/i-just-got.html",
 				
 				"content_html": "<p>I just got a sweater that I love and I won’t get to wear it for 6 months.</p>\n",
@@ -16,9 +89,9 @@
 			},
 			{
 				"id": "http://jsonbecker.micro.blog/2022/04/02/dinner-was-fine.html",
-				
-				"content_html": "<p>Dinner was fine.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Dinner was fine.\n\n<img src=\"uploads/2022/868b84a0d8.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/7ce4cc4d34.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/a53273569f.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"title": "Dinner was fine -- Cosima with Dad",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"img-gallery\">\n{{< glightbox src=\"https://json.blog/uploads/2022/868b84a0d8.jpg\" gallery=\"cosima\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/7ce4cc4d34.jpg\" gallery=\"cosima\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/a53273569f.jpg\" gallery=\"cosima\" >}}\n</div>\n",
 				"date_published": "2022-04-02T22:43:18-04:00",
 				"url": "https://json.blog/2022/04/02/dinner-was-fine.html",
 				"tags": ["photoblogging"]
