@@ -7,6 +7,112 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/04/25/until-i-read.html",
+				
+				"content_html": "<p><a href=\"https://www.bonappetit.com/story/history-of-bawls\">Until I read this</a> I had totally forgotten about Bawls, the first energy drink I ever had.</p>\n",
+				"content_text": "[Until I read this](https://www.bonappetit.com/story/history-of-bawls) I had totally forgotten about Bawls, the first energy drink I ever had.\n",
+				"date_published": "2022-04-25T21:24:53-04:00",
+				"url": "https://json.blog/2022/04/25/until-i-read.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/24/sherwood-gardens.html",
+				"title": "Sherwood Gardens",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"img-gallery\">\n{{< glightbox src=\"https://json.blog/uploads/2022/89a3d1730c.jpg\" >}} {{< glightbox src=\"https://json.blog/uploads/2022/5eb841ed54.jpg\" >}}{{< glightbox src=\"https://json.blog/uploads/2022/fd97c33c17.jpg\" >}}{{< glightbox src=\"https://json.blog/uploads/2022/7687ae9c25.jpg\" >}}\n</div>\n",
+				"date_published": "2022-04-24T13:08:52-04:00",
+				"url": "https://json.blog/2022/04/24/sherwood-gardens.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/23/im-enjoying-coda.html",
+				
+				"content_html": "<p>I’m enjoying Coda, but I really wish movies wouldn’t show people swimming where it says, “No swimming.” All I can think is, “Now you have E. coli”.</p>\n",
+				"content_text": "I’m enjoying Coda, but I really wish movies wouldn’t show people swimming where it says, “No swimming.” All I can think is, “Now you have E. coli”.\n",
+				"date_published": "2022-04-23T20:13:10-04:00",
+				"url": "https://json.blog/2022/04/23/im-enjoying-coda.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/23/i-often-wonder.html",
+				
+				"content_html": "<p>I often wonder what would have happened if I went to get my PhD. Mostly I conclude that I’d be living in some random small town trying to make it on 20K a year as an adjunct or doing what I do now but with a huge amount of debt.</p>\n",
+				"content_text": "I often wonder what would have happened if I went to get my PhD. Mostly I conclude that I’d be living in some random small town trying to make it on 20K a year as an adjunct or doing what I do now but with a huge amount of debt.\n",
+				"date_published": "2022-04-23T20:07:25-04:00",
+				"url": "https://json.blog/2022/04/23/i-often-wonder.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/23/this-morning-i.html",
+				
+				"content_html": "<p>This morning I worked alongside one of my trainers (because he was training new staff). We started with upper body, and though I am not as strong as the trainer, I realized “I could be that strong!”</p>\n<p>Then we did legs.</p>\n<p>I could not be that strong.</p>\n",
+				"content_text": "This morning I worked alongside one of my trainers (because he was training new staff). We started with upper body, and though I am not as strong as the trainer, I realized “I could be that strong!”\n\nThen we did legs.\n\nI could not be that strong. \n",
+				"date_published": "2022-04-23T10:57:47-04:00",
+				"url": "https://json.blog/2022/04/23/this-morning-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/22/holy-shit-severance.html",
+				
+				"content_html": "<p>Holy shit, Severance.</p>\n",
+				"content_text": "Holy shit, Severance.\n",
+				"date_published": "2022-04-22T21:54:49-04:00",
+				"url": "https://json.blog/2022/04/22/holy-shit-severance.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/22/ive-been-with.html",
+				
+				"content_html": "<p>I’ve been with Elsa 12 years. I’ve been at my job 8 years. I have never soft launched or been soft launched. I’ve never had “personal news to share”. Feels like I’m more Gen X on social media as a result.</p>\n",
+				"content_text": "I’ve been with Elsa 12 years. I’ve been at my job 8 years. I have never soft launched or been soft launched. I’ve never had “personal news to share”. Feels like I’m more Gen X on social media as a result.\n",
+				"date_published": "2022-04-22T08:16:29-04:00",
+				"url": "https://json.blog/2022/04/22/ive-been-with.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/21/i-was-about.html",
+				
+				"content_html": "<p>“I was about to leave the house and realized my shirt was covered in stains: the life story of a slob” by me.</p>\n",
+				"content_text": "“I was about to leave the house and realized my shirt was covered in stains: the life story of a slob” by me.\n",
+				"date_published": "2022-04-21T11:20:05-04:00",
+				"url": "https://json.blog/2022/04/21/i-was-about.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/20/four-years-ago.html",
+				
+				"content_html": "<p>Four years ago today, we were in Taiwan having an incredible vacation. It was the first time I had disconnected in years, and it felt like a return to the travel that Elsa and I loved.</p>\n<p>Coming home from that vacation started one of the most challenging and dark times I’ve faced.</p>\n",
+				"content_text": "Four years ago today, we were in Taiwan having an incredible vacation. It was the first time I had disconnected in years, and it felt like a return to the travel that Elsa and I loved.\n\nComing home from that vacation started one of the most challenging and dark times I’ve faced.\n",
+				"date_published": "2022-04-20T23:20:54-04:00",
+				"url": "https://json.blog/2022/04/20/four-years-ago.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/20/baltimore-weather-lately.html",
+				
+				"content_html": "<p>Baltimore weather lately? 💩💩</p>\n<p>The sun still being out right now? 😎</p>\n",
+				"content_text": "Baltimore weather lately? 💩💩\n\nThe sun still being out right now? 😎\n",
+				"date_published": "2022-04-20T19:34:15-04:00",
+				"url": "https://json.blog/2022/04/20/baltimore-weather-lately.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/18/success-does-not.html",
+				
+				"content_html": "<p><a href=\"https://brightwanderer.tumblr.com/post/681806049845608448/i-think-a-lot-about-how-we-as-a-culture-have\">Success does not mean doing something forever</a>.</p>\n<p>Failure is not forever either.</p>\n<p>We can treasure and remember; we can forgive and grow.</p>\n",
+				"content_text": "[Success does not mean doing something forever](https://brightwanderer.tumblr.com/post/681806049845608448/i-think-a-lot-about-how-we-as-a-culture-have). \n\nFailure is not forever either.\n\nWe can treasure and remember; we can forgive and grow.\n",
+				"date_published": "2022-04-18T18:50:13-04:00",
+				"url": "https://json.blog/2022/04/18/success-does-not.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/17/its-only-night.html",
+				
+				"content_html": "<p>It’s only night three, and I’m already thinking about where I’m going to order pizza from on Saturday.</p>\n",
+				"content_text": "It’s only night three, and I’m already thinking about where I’m going to order pizza from on Saturday.\n",
+				"date_published": "2022-04-17T20:22:07-04:00",
+				"url": "https://json.blog/2022/04/17/its-only-night.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/04/17/i-am-remembering.html",
+				
+				"content_html": "<p>I am remembering that a friend was reading <em>Piranesi</em> and I was excited about it, but I can&rsquo;t remember who and I never got to check back in to see what they thought.</p>\n",
+				"content_text": "I am remembering that a friend was reading _Piranesi_ and I was excited about it, but I can't remember who and I never got to check back in to see what they thought.\n",
+				"date_published": "2022-04-17T14:37:37-04:00",
+				"url": "https://json.blog/2022/04/17/i-am-remembering.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/04/17/historically-we-needed.html",
 				
 				"content_html": "<p>&ldquo;Historically we needed an entire community to feel whole.&rdquo; &ndash; <a href=\"https://www.youtube.com/watch?v=vjms15jYUf8\">Why friendship is just as important as romance</a>. I&rsquo;m glad that I have already organized my life in a way much closer to the world described in this talk.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/vjms15jYUf8\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
@@ -17,8 +123,8 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2022/04/17/watching-why-friendship.html",
 				
-				"content_html": "<p>Watching, &ldquo;Why friendship is just as important as romance&rdquo; and I just knew that the root of our twisted take on love would be homophobia. Just like irrational racism always ends up being about the Jews, irrational social relationships always ends up about the gay community.</p>\n",
-				"content_text": "Watching, \"Why friendship is just as important as romance\" and I just knew that the root of our twisted take on love would be homophobia. Just like irrational racism always ends up being about the Jews, irrational social relationships always ends up about the gay community.\n",
+				"content_html": "<p>Watching, &ldquo;Why friendship is just as important as romance&rdquo; and I just knew that the root of our twisted take on love would be homophobia. Just like irrational prejudice always ends up being about the Jews, irrational social relationships always ends up about the gay community.</p>\n",
+				"content_text": "Watching, \"Why friendship is just as important as romance\" and I just knew that the root of our twisted take on love would be homophobia. Just like irrational prejudice always ends up being about the Jews, irrational social relationships always ends up about the gay community.\n",
 				"date_published": "2022-04-17T14:21:04-04:00",
 				"url": "https://json.blog/2022/04/17/watching-why-friendship.html"
 			},
@@ -406,11 +512,11 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2022/03/20/some-thoughts-on.html",
 				"title": "Some thoughts on The Batman",
-				"content_html": "<p>It’s nice to see a <em>Batman</em> movie spend it’s time with Batman doing Batman things. Almost every other Batman movie wants to spend it’s time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.</p>\n<p>They succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).</p>\n<p>Pattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.</p>\n<p>As shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.</p>\n<p>This whole movie gave me a very Seven/Fincher vibe.</p>\n<p>I think it might be the best Batman movie.</p>\n<p>The car was dumb.</p>\n",
-				"content_text": "It’s nice to see a _Batman_ movie spend it’s time with Batman doing Batman things. Almost every other Batman movie wants to spend it’s time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.\n\nThey succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).\n\nPattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.\n\nAs shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.\n\nThis whole movie gave me a very Seven/Fincher vibe. \n\nI think it might be the best Batman movie.\n\nThe car was dumb.\n",
-				"date_published": "2022-03-20T01:19:20-04:00",
+				"content_html": "<p>It’s nice to see a <em>Batman</em> movie spend its time with Batman doing Batman things. Almost every other Batman movie wants to spend its time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.</p>\n<p>They succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).</p>\n<p>Pattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.</p>\n<p>As shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.</p>\n<p>This whole movie gave me a very Seven/Fincher vibe.</p>\n<p>I think it might be the best Batman movie.</p>\n<p>The car was dumb.</p>\n",
+				"content_text": "It’s nice to see a _Batman_ movie spend its time with Batman doing Batman things. Almost every other Batman movie wants to spend its time with the villains or show Bruce Wayne at a charity gala. I was worried we’d get the same given how many characters are in this film. But instead we spend most of our time with Batman moving through one coherent (though expansive) crime story.\n\nThey succeeded at telling a coherent, balanced story with an ensemble cast. Despite having four well-known Batman villains—Penguin, Catwoman, Falcone, and Riddler— everyone was in the same movie telling the same story. This is rare in Batman (and the superhero/comic book genre generally).\n\nPattinson was possibly the least well cast actor, but that’s only because the rest of the cast was that great. He’s totally fine, but being a movie that spends its time with Batman and not Bruce, I’m not sure it’s a big deal who is behind the mask so long as they have the physicality to perform the action scenes.\n\nAs shot, it’s hard to point to things I would cut in the movie even though it’s too long. If I were reviewing the script, I’d probably remove either Falcone or Penguin (their roles for this story can be collapsed). This will be blasphemous to those who rightfully love Zoë Kravitz as Catwoman, but I also suspect you could cut this movie significantly by removing her. It’s not that she wasn’t great or didn’t pull together a lot of plot— she was far better integrated than I feared— it’s just that I think they could have saved Catwoman and write an equally effective story without it.\n\nThis whole movie gave me a very Seven/Fincher vibe. \n\nI think it might be the best Batman movie.\n\nThe car was dumb.\n",
+				"date_published": "2022-03-20T01:19:00-04:00",
 				"url": "https://json.blog/2022/03/20/some-thoughts-on.html",
-				"tags": ["macro"]
+				"tags": ["movies","macro"]
 			},
 			{
 				"id": "http://jsonbecker.micro.blog/2022/03/19/early-signs-of.html",
