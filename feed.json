@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/07/26/zen-and-the.html",
+				
+				"content_html": "<p>Zen and the Art of Refactoring someone else&rsquo;s code to remove tons of tasks from a slow inner loop and parallelizing all the things.</p>\n",
+				"content_text": "Zen and the Art of Refactoring someone else's code to remove tons of tasks from a slow inner loop and parallelizing all the things.\n",
+				"date_published": "2022-07-26T23:20:44-04:00",
+				"url": "https://json.blog/2022/07/26/zen-and-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/07/25/i-have-a.html",
+				
+				"content_html": "<p>I have a strong bias against all op-eds that are, “In my elite circles, we are sharing anecdotes about a thing happening that’s bad for existing elites,” without a paragraph from editors stating clearly there’s no evidence this anecdote is real or represents a broad trend.</p>\n",
+				"content_text": "I have a strong bias against all op-eds that are, “In my elite circles, we are sharing anecdotes about a thing happening that’s bad for existing elites,” without a paragraph from editors stating clearly there’s no evidence this anecdote is real or represents a broad trend.\n",
+				"date_published": "2022-07-25T13:45:48-04:00",
+				"url": "https://json.blog/2022/07/25/i-have-a.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/07/22/its-friday-and.html",
+				
+				"content_html": "<p>It&rsquo;s Friday and I just wrote &ldquo;vroom vroom motherfuckers&rdquo; in a PR.</p>\n",
+				"content_text": "It's Friday and I just wrote \"vroom vroom motherfuckers\" in a PR.\n",
+				"date_published": "2022-07-22T13:31:34-04:00",
+				"url": "https://json.blog/2022/07/22/its-friday-and.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/07/20/note-to-self.html",
+				
+				"content_html": "<p>Note to self: at the end of a big push, going back to the &ldquo;normal&rdquo; flow of things is not possible. It&rsquo;s ok to need a small break to refresh and reset.</p>\n",
+				"content_text": "Note to self: at the end of a big push, going back to the \"normal\" flow of things is not possible. It's ok to need a small break to refresh and reset.\n",
+				"date_published": "2022-07-20T14:00:33-04:00",
+				"url": "https://json.blog/2022/07/20/note-to-self.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/07/19/i-smell-like.html",
 				"title": "I smell like lobster and I'm not mad about it",
 				"content_html": "<p><a href=\"https://json.blog/uploads/2022/6308aa7571.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"cd4d1dec7ed59a47cd9470a6e5993eaa\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/6308aa7571.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://json.blog/uploads/2022/9888d330cb.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"cd4d1dec7ed59a47cd9470a6e5993eaa\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/9888d330cb.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
@@ -570,7 +602,7 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2022/06/10/this-is-the.html",
 				
-				"content_html": "<p>This is the worst thing I have ever read. I don&rsquo;t think I&rsquo;ve ever felt this heartbroken.</p>\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Fourth-grade survivor of Uvalde massacre suffers &#39;cardiac arrest&#39; has to be rushed to hospital. Illiana Treviño, 11 was hospitalized moments after visiting the memorial of her best friend Amerie Jo Garza 10. Garza protected Illiana from school bullies.</p>&mdash; Frank-STOP-Christian-Nationalist-Fascism-Schaeffer (@Frank_Schaeffer) <a href=\"https://twitter.com/Frank_Schaeffer/status/1535321465884655623?ref_src=twsrc%5Etfw\">June 10, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "<p>This is the worst thing I have ever read. I don&rsquo;t think I&rsquo;ve ever felt this heartbroken.</p>\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Fourth-grade survivor of Uvalde massacre suffers &#39;cardiac arrest&#39; has to be rushed to hospital. Illiana Treviño, 11 was hospitalized moments after visiting the memorial of her best friend Amerie Jo Garza 10. Garza protected Illiana from school bullies.</p>&mdash; Frank-STOP-Christian-Nationalists-Schaeffer (@Frank_Schaeffer) <a href=\"https://twitter.com/Frank_Schaeffer/status/1535321465884655623?ref_src=twsrc%5Etfw\">June 10, 2022</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
 				"content_text": "This is the worst thing I have ever read. I don't think I've ever felt this heartbroken. \n\n\n{{< tweet user=\"frank_schaeffer\"  id=\"1535321465884655623\" >}}\n",
 				"date_published": "2022-06-10T20:42:46-04:00",
 				"url": "https://json.blog/2022/06/10/this-is-the.html"
