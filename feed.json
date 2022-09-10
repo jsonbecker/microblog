@@ -7,11 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/09/10/i-have-drastically.html",
+				
+				"content_html": "<p>I have drastically underestimated the number of women who get their hair colored.</p>\n",
+				"content_text": "I have drastically underestimated the number of women who get their hair colored.\n",
+				"date_published": "2022-09-10T16:48:32-05:00",
+				"url": "https://json.blog/2022/09/10/i-have-drastically.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/10/me-my-mom.html",
+				
+				"content_html": "<p>Me: “My mom used to buy only Red Delicious or Granny Smith apples pretty much exclusively.” <!-- raw HTML omitted -->\nElsa: “Your mom was fucking chaotic.”</p>\n",
+				"content_text": "Me: “My mom used to buy only Red Delicious or Granny Smith apples pretty much exclusively.” <br>\nElsa: “Your mom was fucking chaotic.”\n",
+				"date_published": "2022-09-10T10:05:09-05:00",
+				"url": "https://json.blog/2022/09/10/me-my-mom.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/10/i-have-been.html",
+				
+				"content_html": "<p>I have been telling the story of how getting my booster and getting on a plane, driving two hours, and staying at high altitude was a bad idea.</p>\n<p>This morning I learned that’s bullshit. The booster just knocks me on my ass.</p>\n",
+				"content_text": "I have been telling the story of how getting my booster and getting on a plane, driving two hours, and staying at high altitude was a bad idea.\n\nThis morning I learned that’s bullshit. The booster just knocks me on my ass.\n",
+				"date_published": "2022-09-10T07:31:47-05:00",
+				"url": "https://json.blog/2022/09/10/i-have-been.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/04/can-someone-tell.html",
+				
+				"content_html": "<p><a href=\"https://www.texastribune.org/2022/09/03/emergency-contraception-access-rape-victim-abbott/\">Can someone tell me how poor families are meant to survive in Texas</a>?</p>\n<blockquote>\n<p>”A single parent with three children would have to earn less than $400 a month to qualify for Medicaid.”</p>\n</blockquote>\n",
+				"content_text": "[Can someone tell me how poor families are meant to survive in Texas](https://www.texastribune.org/2022/09/03/emergency-contraception-access-rape-victim-abbott/)?\n\n>”A single parent with three children would have to earn less than $400 a month to qualify for Medicaid.”\n",
+				"date_published": "2022-09-04T10:53:38-05:00",
+				"url": "https://json.blog/2022/09/04/can-someone-tell.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/03/mens-skincare-products.html",
+				"title": "Men’s skincare products",
+				"content_html": "<p>I had this great product that was a face moisturizer with SPF30 that was designed to be rubbed into your beard as well. It was discontinued, and I still can’t find a solid replacement.</p>\n<p>Even with what feels like an increase in men’s skincare products in recent years, we’re still well behind what’s marketed to women.</p>\n<p>Look, I think there’s a huge pink tax that’s at least 50% bullshit products that shouldn’t be sold to anyone. There’s also no reason to gender 95% of these things. But there should be protective skin products that are designed to work with and for facial hair.</p>\n",
+				"content_text": "I had this great product that was a face moisturizer with SPF30 that was designed to be rubbed into your beard as well. It was discontinued, and I still can’t find a solid replacement.\n\nEven with what feels like an increase in men’s skincare products in recent years, we’re still well behind what’s marketed to women. \n\nLook, I think there’s a huge pink tax that’s at least 50% bullshit products that shouldn’t be sold to anyone. There’s also no reason to gender 95% of these things. But there should be protective skin products that are designed to work with and for facial hair.\n",
+				"date_published": "2022-09-03T17:50:58-05:00",
+				"url": "https://json.blog/2022/09/03/mens-skincare-products.html",
+				"tags": ["macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/03/its-another-new.html",
+				
+				"content_html": "<p>It’s another new <a href=\"https://sfbags.com\">Waterfield Designs</a> day, and boy do I love it.</p>\n",
+				"content_text": "It’s another new [Waterfield Designs](https://sfbags.com) day, and boy do I love it.\n",
+				"date_published": "2022-09-03T15:14:25-05:00",
+				"url": "https://json.blog/2022/09/03/its-another-new.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/03/pittsburgh-throwback.html",
+				
+				"content_html": "<p>Pittsburgh throwback <a href=\"https://json.blog/uploads/2022/49c95f3262.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"d0c1bdabf13cccdfff3ee50b7eb11983\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/49c95f3262.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Pittsburgh throwback ![](https://json.blog/uploads/2022/49c95f3262.jpg)\n",
+				"date_published": "2022-09-03T12:34:21-05:00",
+				"url": "https://json.blog/2022/09/03/pittsburgh-throwback.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/03/fridays-afternoon-cocktail.html",
+				
+				"content_html": "<p>Friday’s afternoon cocktail (not pictured: lemon)</p>\n<p><a href=\"https://json.blog/uploads/2022/2e05c9e83d.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"91f22c8f611184ac400befac1be2c75e\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/2e05c9e83d.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n\n<a href=\"https://json.blog/uploads/2022/18c3ff6355.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"91f22c8f611184ac400befac1be2c75e\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/18c3ff6355.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Friday’s afternoon cocktail (not pictured: lemon)\n\n![](https://json.blog/uploads/2022/2e05c9e83d.jpg)\n![](https://json.blog/uploads/2022/18c3ff6355.jpg)\n",
+				"date_published": "2022-09-03T11:55:48-05:00",
+				"url": "https://json.blog/2022/09/03/fridays-afternoon-cocktail.html",
+				"tags": ["photoblogging"]
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/09/03/if-they-didnt.html",
 				
 				"content_html": "<p>If they didn&rsquo;t drop two episodes of Rings of Power I probably would have been out after the first. I&rsquo;m still slightly skeptical, but in for the ride.</p>\n",
 				"content_text": "If they didn't drop two episodes of Rings of Power I probably would have been out after the first. I'm still slightly skeptical, but in for the ride.\n",
-				"date_published": "2022-09-03T12:21:22-04:00",
+				"date_published": "2022-09-03T11:21:22-05:00",
 				"url": "https://json.blog/2022/09/03/if-they-didnt.html"
 			},
 			{
@@ -19,7 +86,7 @@
 				
 				"content_html": "<p>Booster booked. I chose not to do my flu shot along with it because it&rsquo;s so early in the year, and I&rsquo;d rather get protection closer to flu season. I&rsquo;ll head back for that one in 6-8 weeks.</p>\n",
 				"content_text": "Booster booked. I chose not to do my flu shot along with it because it's so early in the year, and I'd rather get protection closer to flu season. I'll head back for that one in 6-8 weeks.\n",
-				"date_published": "2022-09-02T18:31:31-04:00",
+				"date_published": "2022-09-02T17:31:31-05:00",
 				"url": "https://json.blog/2022/09/02/booster-booked-i.html"
 			},
 			{
@@ -27,7 +94,7 @@
 				
 				"content_html": "<p><a href=\"https://arstechnica.com/?p=1877686\">USB naming</a> is basically comic book villain level insanity.</p>\n",
 				"content_text": "[USB naming](https://arstechnica.com/?p=1877686) is basically comic book villain level insanity.\n",
-				"date_published": "2022-09-01T19:15:18-04:00",
+				"date_published": "2022-09-01T18:15:18-05:00",
 				"url": "https://json.blog/2022/09/01/usb-naming-is.html"
 			},
 			{
@@ -35,7 +102,7 @@
 				"title": "The Historical Accuracy of Semi-Fascist",
 				"content_html": "<p>The opening to this piece made it sound like it was just about some argument between two public-ish, intellecutal-ish, journalist-ish people. Blech.</p>\n<p>But I kept reading, and it’s <a href=\"https://johnganz.substack.com/p/performing-punditry?sd=pf\">actually an excellent defense of and argument for the use of “semi-fascist” to describe Trump and his movement</a>.</p>\n<blockquote>\n<p>The fact of the matter is this: Trumpism at its core is a movement fixated on restoring national greatness through the charismatic leadership of a single providential individual who “alone can fix it.” It is obsessed with national decline and attacking internal enemies. Although more loosely organized and weaker than those of the classical Fascisms, MAGA also has paramilitary formations that have tried to carry out this project to the point of attempting the overthrow an elected government. From the very beginning of his political ascent, he attracted the interest and enthusiasm of the extreme right: he was the kind of thing they’d been looking for for a long time. Perhaps now a disappointment, perhaps now a failure, but certainly a step in the right direction as far as they were concerned.</p>\n</blockquote>\n<p>It’s worth the read, even if the opening was a bit insider-baseball cringe.</p>\n<p>Although, for what it’s worth, within the cringe was my first introduction to A.O. Hirschman’s <em>Rhetoric of Reaction</em>. I immediately recognized all three arguments, and I’m quite certain I’ve made some of them myself. I’m definitely going to read Hirschman now, and I’m sure I’ll notice these “theses” all over the internet.</p>\n<blockquote>\n<p>In the construction of his arguments he closely follows something similar to A.O. Hirschman’s famous theses from his Rhetoric of Reaction: the “perversity thesis,” where any action actually result in the opposite of its intent, the “futility thesis,” where any action will actually accomplish nothing, and the “jeopardy thesis,” where any action will threaten some already accomplished social good. These three simple guides provide a template for the pundit for a long career in journalism. They give the appearance of thoughtfulness and counter-intuitive brilliance, when they just methods to generate rote responses.</p>\n</blockquote>\n",
 				"content_text": "The opening to this piece made it sound like it was just about some argument between two public-ish, intellecutal-ish, journalist-ish people. Blech.\n\nBut I kept reading, and it’s [actually an excellent defense of and argument for the use of “semi-fascist” to describe Trump and his movement](https://johnganz.substack.com/p/performing-punditry?sd=pf).\n\n> The fact of the matter is this: Trumpism at its core is a movement fixated on restoring national greatness through the charismatic leadership of a single providential individual who “alone can fix it.” It is obsessed with national decline and attacking internal enemies. Although more loosely organized and weaker than those of the classical Fascisms, MAGA also has paramilitary formations that have tried to carry out this project to the point of attempting the overthrow an elected government. From the very beginning of his political ascent, he attracted the interest and enthusiasm of the extreme right: he was the kind of thing they’d been looking for for a long time. Perhaps now a disappointment, perhaps now a failure, but certainly a step in the right direction as far as they were concerned.\n\nIt’s worth the read, even if the opening was a bit insider-baseball cringe.\n\nAlthough, for what it’s worth, within the cringe was my first introduction to A.O. Hirschman’s _Rhetoric of Reaction_. I immediately recognized all three arguments, and I’m quite certain I’ve made some of them myself. I’m definitely going to read Hirschman now, and I’m sure I’ll notice these “theses” all over the internet. \n\n> In the construction of his arguments he closely follows something similar to A.O. Hirschman’s famous theses from his Rhetoric of Reaction: the “perversity thesis,” where any action actually result in the opposite of its intent, the “futility thesis,” where any action will actually accomplish nothing, and the “jeopardy thesis,” where any action will threaten some already accomplished social good. These three simple guides provide a template for the pundit for a long career in journalism. They give the appearance of thoughtfulness and counter-intuitive brilliance, when they just methods to generate rote responses.\n",
-				"date_published": "2022-08-31T23:07:13-04:00",
+				"date_published": "2022-08-31T22:07:13-05:00",
 				"url": "https://json.blog/2022/08/31/the-historical-accuracy.html",
 				"tags": ["macro"]
 			},
@@ -44,7 +111,7 @@
 				
 				"content_html": "<p>Older Northeastern cities are struggling with <a href=\"https://www.inquirer.com/news/philadelphia-school-district-early-dismissal-air-conditioning-20220831.html\">school buildings not designed for today&rsquo;s summer heat</a>, and grappling with earlier than usual school calendar starts due to national standardized tests being administered in May.</p>\n",
 				"content_text": "Older Northeastern cities are struggling with [school buildings not designed for today's summer heat](https://www.inquirer.com/news/philadelphia-school-district-early-dismissal-air-conditioning-20220831.html), and grappling with earlier than usual school calendar starts due to national standardized tests being administered in May.\n",
-				"date_published": "2022-08-31T20:46:32-04:00",
+				"date_published": "2022-08-31T19:46:32-05:00",
 				"url": "https://json.blog/2022/08/31/older-northeastern-cities.html"
 			},
 			{
@@ -117,7 +184,7 @@
 				
 				"content_html": "<p>Last Night in Soho was ok. Expected something… better.</p>\n",
 				"content_text": "Last Night in Soho was ok. Expected something… better.\n",
-				"date_published": "2022-08-27T22:31:26-04:00",
+				"date_published": "2022-08-27T21:31:26-05:00",
 				"url": "https://json.blog/2022/08/27/last-night-in.html"
 			},
 			{
@@ -125,7 +192,7 @@
 				
 				"content_html": "<p>I&rsquo;m annoyed I have to miss two games, including our first (for FEFS), but I am super excited about my stacked volleyball team for the fall league.</p>\n",
 				"content_text": "I'm annoyed I have to miss two games, including our first (for FEFS), but I am super excited about my stacked volleyball team for the fall league.\n",
-				"date_published": "2022-08-27T16:15:41-04:00",
+				"date_published": "2022-08-27T15:15:41-05:00",
 				"url": "https://json.blog/2022/08/27/im-annoyed-i.html"
 			},
 			{
@@ -133,7 +200,7 @@
 				
 				"content_html": "<p>I don&rsquo;t love the weather. I don&rsquo;t love the transit situation. The politics are not great. However, I am now first name basis, fully recognized at my local coffee place, pizza place, and bookstore. I do not want to have to build these relationships from scratch again.</p>\n",
 				"content_text": "I don't love the weather. I don't love the transit situation. The politics are not great. However, I am now first name basis, fully recognized at my local coffee place, pizza place, and bookstore. I do not want to have to build these relationships from scratch again.\n",
-				"date_published": "2022-08-27T16:05:53-04:00",
+				"date_published": "2022-08-27T15:05:53-05:00",
 				"url": "https://json.blog/2022/08/27/i-dont-love.html"
 			},
 			{
@@ -141,7 +208,7 @@
 				
 				"content_html": "<p>I don&rsquo;t care about the irony of Netflix <a href=\"https://www.avclub.com/melissa-fumero-randall-park-blockbuster-release-netflix-1849463081\">producing a comedy taking place in a Blockbuster</a>. Both Randall Park and Melissa Fumero are on my list people I will try anything they&rsquo;re involved in.</p>\n",
 				"content_text": "I don't care about the irony of Netflix [producing a comedy taking place in a Blockbuster](https://www.avclub.com/melissa-fumero-randall-park-blockbuster-release-netflix-1849463081). Both Randall Park and Melissa Fumero are on my list people I will try anything they're involved in.\n",
-				"date_published": "2022-08-27T16:02:59-04:00",
+				"date_published": "2022-08-27T15:02:59-05:00",
 				"url": "https://json.blog/2022/08/27/i-dont-care.html"
 			},
 			{
@@ -149,7 +216,7 @@
 				
 				"content_html": "<p>Lazy Saturday</p>\n<p><a href=\"https://json.blog/uploads/2022/a8771c2316.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"b8aba8a6eef712ce73cab790746d752f\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/a8771c2316.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Two dogs sleeping on a beige couch with a bookshelf behind them\" \n        \n  />\n</a>\n\n</p>\n",
 				"content_text": "Lazy Saturday\n\n![Two dogs sleeping on a beige couch with a bookshelf behind them](https://json.blog/uploads/2022/a8771c2316.jpg)\n",
-				"date_published": "2022-08-27T16:00:13-04:00",
+				"date_published": "2022-08-27T15:00:13-05:00",
 				"url": "https://json.blog/2022/08/27/lazy-saturday.html",
 				"tags": ["photoblogging","dogs"]
 			},
