@@ -7,6 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/09/23/apple-pie-and.html",
+				
+				"content_html": "<p>Apple Pie and Pumpkin Pie are the best pies and it’s <em>almost</em> time.</p>\n",
+				"content_text": "Apple Pie and Pumpkin Pie are the best pies and it’s _almost_ time.\n",
+				"date_published": "2022-09-23T17:45:06-04:00",
+				"url": "https://json.blog/2022/09/23/apple-pie-and.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/23/a-lot-of.html",
+				
+				"content_html": "<p>A lot of problems on my Mac after my recent upgrade were solved with <code>xcodebuild -runFirstLaunch</code> and <code>xcode-select -switch /Library/Developer/CommandLineTools</code>. This kind of stuff on macOS is just not a good experience.</p>\n",
+				"content_text": "A lot of problems on my Mac after my recent upgrade were solved with `xcodebuild -runFirstLaunch` and `xcode-select -switch /Library/Developer/CommandLineTools`. This kind of stuff on macOS is just not a good experience.\n",
+				"date_published": "2022-09-23T10:22:53-04:00",
+				"url": "https://json.blog/2022/09/23/a-lot-of.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/20/i-am-bump.html",
+				
+				"content_html": "<p>I am &ldquo;bump the text size up on my Watch&rdquo; years old (also, my eyes are just plain shit).</p>\n",
+				"content_text": "I am \"bump the text size up on my Watch\" years old (also, my eyes are just plain shit).\n",
+				"date_published": "2022-09-20T11:52:22-04:00",
+				"url": "https://json.blog/2022/09/20/i-am-bump.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/20/terrifying-to-be.html",
+				
+				"content_html": "<p>Terrifying to be in my 30s and experiencing every day that <a href=\"https://www.nytimes.com/2022/09/20/opinion/sweden-democrats-elections.html\">we are not progressing, but instead, lived in a bubble</a>.</p>\n",
+				"content_text": "Terrifying to be in my 30s and experiencing every day that [we are not progressing, but instead, lived in a bubble](https://www.nytimes.com/2022/09/20/opinion/sweden-democrats-elections.html).\n",
+				"date_published": "2022-09-20T09:55:31-04:00",
+				"url": "https://json.blog/2022/09/20/terrifying-to-be.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/19/denver-is-going.html",
+				
+				"content_html": "<p><a href=\"https://usa.streetsblog.org/2022/09/15/mile-high-city-halts-two-highway-expansions-and-gives-the-money-to-transit-instead/\">Denver is going to save $100M </a> by not disastrously expanding two highways and instead put the money toward transit. More. Like. This.</p>\n",
+				"content_text": "[Denver is going to save $100M ](https://usa.streetsblog.org/2022/09/15/mile-high-city-halts-two-highway-expansions-and-gives-the-money-to-transit-instead/) by not disastrously expanding two highways and instead put the money toward transit. More. Like. This.\n",
+				"date_published": "2022-09-19T23:06:42-04:00",
+				"url": "https://json.blog/2022/09/19/denver-is-going.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/18/i-guess-now.html",
+				
+				"content_html": "<p>I guess now is as good a time as any to share one of my favorite covers of all time. <a href=\"https://song.link/i/291671701\">Don’t Let the Sun Go Down on Me by Me First and the Gimme Gimmes</a></p>\n",
+				"content_text": "I guess now is as good a time as any to share one of my favorite covers of all time. [Don’t Let the Sun Go Down on Me by Me First and the Gimme Gimmes](https://song.link/i/291671701)\n",
+				"date_published": "2022-09-18T22:56:52-04:00",
+				"url": "https://json.blog/2022/09/18/i-guess-now.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/18/i-thought-sure.html",
+				
+				"content_html": "<p>I thought, “Sure, I should get into bed a little early, turn on my lamp, and read my magazine.” Somehow I forgot that I cannot read anything that’s not right up against my face with huge bumped up fonts without my contacts. Sigh.</p>\n",
+				"content_text": "I thought, “Sure, I should get into bed a little early, turn on my lamp, and read my magazine.” Somehow I forgot that I cannot read anything that’s not right up against my face with huge bumped up fonts without my contacts. Sigh.\n",
+				"date_published": "2022-09-18T22:35:46-04:00",
+				"url": "https://json.blog/2022/09/18/i-thought-sure.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/18/updating-my-story.html",
+				"title": "Updating my story",
+				"content_html": "<p>At some point this year, I made it a goal to refresh my resumé by April. I did not do that. I still have not done that.</p>\n<p>My goal wasn&rsquo;t to go seek another job, but instead, to turn this into an exercise of reclaiming my professional narrative. I&rsquo;ve been at the same company for eight years now, but that company, and my role there, has grown dramatically in that time. What has not really evolved is my self-perception or the story I tell about myself to others.</p>\n<p>I failed to meet my goal, and I don&rsquo;t see a new resumé happening any time soon. But the achievement is not a new document, but a change of mindset and understanding of myself. That project remains, as it ever will be, on-going, but I think I&rsquo;ve made some quiet progress on this front.</p>\n<p>I was reminded of this failed goal today when I had to write out a short, four sentence personal biography. I realized there were things I listed confidently I would not have a year ago (volleyball) and things that were missing that would have been there most of my life (anything music related). My self-perception can, has, and needs to evolve regarding my personal life just like my professional life <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>.</p>\n<p>I think I should be asking, &ldquo;Who am I?&rdquo; more often. It&rsquo;s not as though my motivations, emotions, and actions have stopped continually expanding, contracting, or shaping a constantly changing self. We are what we feel and do, whether or not we take notice of it. The conscious, narrative sense-making I engage has a natural tendency to lag reality.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Like most college-educated, white collar millennials, this sentence contains a quaint notions of clear boundaries between the personal and professional that does not exist in my actual life.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "At some point this year, I made it a goal to refresh my resumé by April. I did not do that. I still have not done that.\n\nMy goal wasn't to go seek another job, but instead, to turn this into an exercise of reclaiming my professional narrative. I've been at the same company for eight years now, but that company, and my role there, has grown dramatically in that time. What has not really evolved is my self-perception or the story I tell about myself to others.\n\nI failed to meet my goal, and I don't see a new resumé happening any time soon. But the achievement is not a new document, but a change of mindset and understanding of myself. That project remains, as it ever will be, on-going, but I think I've made some quiet progress on this front.\n\nI was reminded of this failed goal today when I had to write out a short, four sentence personal biography. I realized there were things I listed confidently I would not have a year ago (volleyball) and things that were missing that would have been there most of my life (anything music related). My self-perception can, has, and needs to evolve regarding my personal life just like my professional life [^boundaries].\n\nI think I should be asking, \"Who am I?\" more often. It's not as though my motivations, emotions, and actions have stopped continually expanding, contracting, or shaping a constantly changing self. We are what we feel and do, whether or not we take notice of it. The conscious, narrative sense-making I engage has a natural tendency to lag reality.\n\n[^boundaries]: Like most college-educated, white collar millennials, this sentence contains a quaint notions of clear boundaries between the personal and professional that does not exist in my actual life.\n",
+				"date_published": "2022-09-18T17:53:08-04:00",
+				"url": "https://json.blog/2022/09/18/updating-my-story.html",
+				"tags": ["macro"]
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/09/18/i-watched-two.html",
 				
 				"content_html": "<p>I watched two movies this weekend that confirmed how badly I have missed movies that know that 90-110 minutes is a great run time to tell a story.</p>\n",
@@ -10005,7 +10070,7 @@
 			{
 				"id": "http://jsonbecker.micro.blog/2021/03/24/lenos-heart.html",
 				"title": "Leno's Heart",
-				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">&quot;IN MY HEART I KNEW IT WAS WRONG.&quot; Maaaaan, fuck this. <a href=\"https://t.co/B9hnnri4FN\">https://t.co/B9hnnri4FN</a></p>&mdash; 👁 Phil Yu (@angryasianman) <a href=\"https://twitter.com/angryasianman/status/1374784434096926720?ref_src=twsrc%5Etfw\">March 24, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p>What Leno gets wrong is exactly the headline, &ldquo;In my heart, I knew it was wrong.”</p>\n<p>This quote is more honest:</p>\n<blockquote>\n<p>“At the time I did those jokes, I genuinely thought them to be harmless.”</p>\n</blockquote>\n<p>That&rsquo;s real. What he thought was wrong, and he should have figured out that he was wrong sooner, and today he knows that.</p>\n<p>Forgiveness requires contrition. And I do believe that Leno is contrite, but that&rsquo;s not for me to decide. We&rsquo;re doomed if we cannot find a way to forgive anyone for any transgression in society, but we (largely white men) also need to do a better job. We need to learn faster and better, by listening more often and more closely. Part of that is learning how to apologize.</p>\n<p>Leno said things in the past that he thought were funny. He thought they did not create harm, directly or indirectly. He failed to listen to peoples' pain, and he failed to consider their pain or impact adequately before making these statements to begin with. We all do this at times, especially when we&rsquo;re young, though hopefully not so much by the time we&rsquo;re adult professionals.</p>\n<p>Own it. Be wrong. There was no “In my heart, I knew it was wrong.” You didn&rsquo;t feel anything in your heart at all about it. If you did, it would mean that your empathy was triggered and there&rsquo;s no way you would have made those jokes, or stood behind them when called out.</p>\n<p>I have said terrible things I wish I could forget. But worse, I have said terrible things I have forgotten because in my heart, <em>they meant nothing to me</em>. I feel sadly certain that I will do so again.</p>\n<p>I am sorry. I hope I learn better, faster. But when my heart knows anything at all, it prevents me from making those mistakes. That&rsquo;s its job.</p>\n",
+				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">&quot;IN MY HEART I KNEW IT WAS WRONG.&quot; Maaaaan, fuck this. <a href=\"https://t.co/B9hnnri4FN\">https://t.co/B9hnnri4FN</a></p>&mdash; Phil Yu (@angryasianman) <a href=\"https://twitter.com/angryasianman/status/1374784434096926720?ref_src=twsrc%5Etfw\">March 24, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p>What Leno gets wrong is exactly the headline, &ldquo;In my heart, I knew it was wrong.”</p>\n<p>This quote is more honest:</p>\n<blockquote>\n<p>“At the time I did those jokes, I genuinely thought them to be harmless.”</p>\n</blockquote>\n<p>That&rsquo;s real. What he thought was wrong, and he should have figured out that he was wrong sooner, and today he knows that.</p>\n<p>Forgiveness requires contrition. And I do believe that Leno is contrite, but that&rsquo;s not for me to decide. We&rsquo;re doomed if we cannot find a way to forgive anyone for any transgression in society, but we (largely white men) also need to do a better job. We need to learn faster and better, by listening more often and more closely. Part of that is learning how to apologize.</p>\n<p>Leno said things in the past that he thought were funny. He thought they did not create harm, directly or indirectly. He failed to listen to peoples' pain, and he failed to consider their pain or impact adequately before making these statements to begin with. We all do this at times, especially when we&rsquo;re young, though hopefully not so much by the time we&rsquo;re adult professionals.</p>\n<p>Own it. Be wrong. There was no “In my heart, I knew it was wrong.” You didn&rsquo;t feel anything in your heart at all about it. If you did, it would mean that your empathy was triggered and there&rsquo;s no way you would have made those jokes, or stood behind them when called out.</p>\n<p>I have said terrible things I wish I could forget. But worse, I have said terrible things I have forgotten because in my heart, <em>they meant nothing to me</em>. I feel sadly certain that I will do so again.</p>\n<p>I am sorry. I hope I learn better, faster. But when my heart knows anything at all, it prevents me from making those mistakes. That&rsquo;s its job.</p>\n",
 				"content_text": "{{< tweet 1374784434096926720 >}}\n\nWhat Leno gets wrong is exactly the headline, \"In my heart, I knew it was wrong.”\n\nThis quote is more honest:\n\n> “At the time I did those jokes, I genuinely thought them to be harmless.”\n\nThat's real. What he thought was wrong, and he should have figured out that he was wrong sooner, and today he knows that.\n\nForgiveness requires contrition. And I do believe that Leno is contrite, but that's not for me to decide. We're doomed if we cannot find a way to forgive anyone for any transgression in society, but we (largely white men) also need to do a better job. We need to learn faster and better, by listening more often and more closely. Part of that is learning how to apologize.\n\nLeno said things in the past that he thought were funny. He thought they did not create harm, directly or indirectly. He failed to listen to peoples' pain, and he failed to consider their pain or impact adequately before making these statements to begin with. We all do this at times, especially when we're young, though hopefully not so much by the time we're adult professionals.\n\nOwn it. Be wrong. There was no “In my heart, I knew it was wrong.” You didn't feel anything in your heart at all about it. If you did, it would mean that your empathy was triggered and there's no way you would have made those jokes, or stood behind them when called out.\n\nI have said terrible things I wish I could forget. But worse, I have said terrible things I have forgotten because in my heart, _they meant nothing to me_. I feel sadly certain that I will do so again.\n\nI am sorry. I hope I learn better, faster. But when my heart knows anything at all, it prevents me from making those mistakes. That's its job.\n",
 				"date_published": "2021-03-24T19:06:00-04:00",
 				"url": "https://json.blog/2021/03/24/lenos-heart.html",
