@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/09/28/my-days-have.html",
+				
+				"content_html": "<p>My days have been quite full lately. Not busy, full. In some ways, this is great and what I want. At some times, it’s pretty tiring. I’ve been building a new pace for my life over the last year or so, and I have a lot to learn about how to maintain it.</p>\n",
+				"content_text": "My days have been quite full lately. Not busy, full. In some ways, this is great and what I want. At some times, it’s pretty tiring. I’ve been building a new pace for my life over the last year or so, and I have a lot to learn about how to maintain it.\n",
+				"date_published": "2022-09-28T18:43:20-04:00",
+				"url": "https://json.blog/2022/09/28/my-days-have.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/27/paul-sunhyung-playing.html",
+				
+				"content_html": "<p>Paul Sun-Hyung playing a live action Uncle Iroh fills me up.</p>\n",
+				"content_text": "Paul Sun-Hyung playing a live action Uncle Iroh fills me up.\n",
+				"date_published": "2022-09-27T14:45:32-04:00",
+				"url": "https://json.blog/2022/09/27/paul-sunhyung-playing.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/25/that-sinking-feeling.html",
+				
+				"content_html": "<p>That sinking feeling when there’s 60 miles to go and Maps says it’ll take 2 hrs. Thanks, New York.</p>\n",
+				"content_text": "That sinking feeling when there’s 60 miles to go and Maps says it’ll take 2 hrs. Thanks, New York.\n",
+				"date_published": "2022-09-25T12:00:22-04:00",
+				"url": "https://json.blog/2022/09/25/that-sinking-feeling.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/24/having-roasted-air.html",
+				
+				"content_html": "<p>Having roasted (air fryer) crunch chickpeas was awesome. This process was not.</p>\n<p><a href=\"https://json.blog/uploads/2022/9edc11b1f5.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"f84c5f15adb2a43166b0363da34dbf25\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/9edc11b1f5.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Having roasted (air fryer) crunch chickpeas was awesome. This process was not.\n\n![](https://json.blog/uploads/2022/9edc11b1f5.jpg)\n",
+				"date_published": "2022-09-24T18:48:25-04:00",
+				"url": "https://json.blog/2022/09/24/having-roasted-air.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/24/oysters-should-always.html",
+				
+				"content_html": "<p>Oysters should always come with freshly grated horseradish. Despite that oversight, these were excellent.</p>\n<p><a href=\"https://json.blog/uploads/2022/e71f2af75f.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"180c03bb39cfa348ac260cb5143331a6\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/e71f2af75f.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Oysters should always come with freshly grated horseradish. Despite that oversight, these were excellent.\n\n![](https://json.blog/uploads/2022/e71f2af75f.jpg)\n",
+				"date_published": "2022-09-24T18:30:00-04:00",
+				"url": "https://json.blog/2022/09/24/oysters-should-always.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/24/me-on-instagram.html",
+				
+				"content_html": "<p>Me on Instagram: “oh that’s a cool looking bean bag chair for upwardly mobile millennials who want designed nostalgia…”<!-- raw HTML omitted --><!-- raw HTML omitted -->\n<em>Clicks through</em><!-- raw HTML omitted --><!-- raw HTML omitted -->\nHoly shit $590.</p>\n",
+				"content_text": "Me on Instagram: “oh that’s a cool looking bean bag chair for upwardly mobile millennials who want designed nostalgia…”<br><br>\n_Clicks through_<br><br>\nHoly shit $590.\n",
+				"date_published": "2022-09-24T10:20:52-04:00",
+				"url": "https://json.blog/2022/09/24/me-on-instagram.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/09/23/apple-pie-and.html",
 				
 				"content_html": "<p>Apple Pie and Pumpkin Pie are the best pies and it’s <em>almost</em> time.</p>\n",
@@ -45,6 +95,46 @@
 				"content_text": "[Denver is going to save $100M ](https://usa.streetsblog.org/2022/09/15/mile-high-city-halts-two-highway-expansions-and-gives-the-money-to-transit-instead/) by not disastrously expanding two highways and instead put the money toward transit. More. Like. This.\n",
 				"date_published": "2022-09-19T23:06:42-04:00",
 				"url": "https://json.blog/2022/09/19/denver-is-going.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/19/what-new-bad.html",
+				
+				"content_html": "<p>What new bad habits should I pick up while I&rsquo;m in Mexico City for two months. Right answers only.</p>\n",
+				"content_text": "What new bad habits should I pick up while I'm in Mexico City for two months. Right answers only.\n",
+				"date_published": "2022-09-19T21:44:56-04:00",
+				"url": "https://json.blog/2022/09/19/what-new-bad.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/19/this-week-in.html",
+				
+				"content_html": "<p>This week in “cultural exchanges”— I learned my mother-in-law finds it strange I’ll just go into the fridge and eat a pickle.</p>\n",
+				"content_text": "This week in “cultural exchanges”— I learned my mother-in-law finds it strange I’ll just go into the fridge and eat a pickle.\n",
+				"date_published": "2022-09-19T21:31:01-04:00",
+				"url": "https://json.blog/2022/09/19/this-week-in.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/19/your-mouth-said.html",
+				
+				"content_html": "<p>“Your mouth said it’s ok, but your face says no way.” - me to Elsa.</p>\n",
+				"content_text": "“Your mouth said it’s ok, but your face says no way.” - me to Elsa.\n",
+				"date_published": "2022-09-19T19:38:28-04:00",
+				"url": "https://json.blog/2022/09/19/your-mouth-said.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/19/unrealistic-things-i.html",
+				
+				"content_html": "<p>Unrealistic things I hate on TV— slamming laptop lids shut when you’re done with something. No one does this. Ever. Stop.</p>\n",
+				"content_text": "Unrealistic things I hate on TV— slamming laptop lids shut when you’re done with something. No one does this. Ever. Stop.\n",
+				"date_published": "2022-09-19T19:11:07-04:00",
+				"url": "https://json.blog/2022/09/19/unrealistic-things-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/09/19/my-lowering-resting.html",
+				
+				"content_html": "<p>My lowering resting heart rate is a great non-scale way to track my personal health.</p>\n",
+				"content_text": "My lowering resting heart rate is a great non-scale way to track my personal health. \n",
+				"date_published": "2022-09-19T12:45:14-04:00",
+				"url": "https://json.blog/2022/09/19/my-lowering-resting.html"
 			},
 			{
 				"id": "http://jsonbecker.micro.blog/2022/09/18/i-guess-now.html",
