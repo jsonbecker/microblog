@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/10/21/when-i-finished.html",
+				
+				"content_html": "<p>When I finished episode 6 of Andor, I thought the series was over (and too short). What a nice surprise to see episode 7 when I came home today. This is maybe my favorite episode so far.</p>\n",
+				"content_text": "When I finished episode 6 of Andor, I thought the series was over (and too short). What a nice surprise to see episode 7 when I came home today. This is maybe my favorite episode so far. \n",
+				"date_published": "2022-10-21T19:06:43-04:00",
+				"url": "https://json.blog/2022/10/21/when-i-finished.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/17/calling-it-chair.html",
+				
+				"content_html": "<p>Calling it “chair pose” does not make squat holds less miserable.</p>\n",
+				"content_text": "Calling it “chair pose” does not make squat holds less miserable.\n",
+				"date_published": "2022-10-17T08:40:32-04:00",
+				"url": "https://json.blog/2022/10/17/calling-it-chair.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/16/i-have-once.html",
+				
+				"content_html": "<p>I have once again spent most of the weekend stressed about something that took me less than an hour to get done.</p>\n",
+				"content_text": "I have once again spent most of the weekend stressed about something that took me less than an hour to get done.\n",
+				"date_published": "2022-10-16T20:19:17-04:00",
+				"url": "https://json.blog/2022/10/16/i-have-once.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/16/the-second-stage.html",
+				
+				"content_html": "<p>The Second Stage Turbine Blade is 20 years old.</p>\n",
+				"content_text": "The Second Stage Turbine Blade is 20 years old.\n",
+				"date_published": "2022-10-16T20:16:55-04:00",
+				"url": "https://json.blog/2022/10/16/the-second-stage.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/10/16/i-have-a.html",
 				
 				"content_html": "<p>I have a folder structured like <code>0000000-DistrictName/20XX/data.parquet</code>. I thought that this code would get me virtual columns of &ldquo;district&rdquo; and &ldquo;year&rdquo;, but it doesn&rsquo;t: <code>arrow::open_dataset(fs::dir_ls(recurse=TRUE, regexp = 'data.parquet'), partitioning = c('district', 'year'))</code>.</p>\n",
