@@ -7,6 +7,138 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/11/01/i-just-had.html",
+				
+				"content_html": "<p>I just had a product revelation that may be brilliant. Need to sit on it over night, then possibly have some developers rewrite a lot of code.</p>\n",
+				"content_text": "I just had a product revelation that may be brilliant. Need to sit on it over night, then possibly have some developers rewrite a lot of code.\n",
+				"date_published": "2022-11-01T22:28:10-04:00",
+				"url": "https://json.blog/2022/11/01/i-just-had.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/31/why-is-homebrew.html",
+				
+				"content_html": "<p>Why is Homebrew insisting that I &ldquo;upgrade&rdquo; to Release Candidate versions of XCode and CLI tools? Package management sucks.</p>\n",
+				"content_text": "Why is Homebrew insisting that I \"upgrade\" to Release Candidate versions of XCode and CLI tools? Package management sucks.\n",
+				"date_published": "2022-10-31T20:53:21-04:00",
+				"url": "https://json.blog/2022/10/31/why-is-homebrew.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/30/came-across-this.html",
+				
+				"content_html": "<p>Came across this post I wrote about <a href=\"https://json.blog/2021/08/15/i-have-never.html\">not ever having been a part of a bookclub</a>. Holds up pretty well.</p>\n",
+				"content_text": "Came across this post I wrote about [not ever having been a part of a bookclub](https://json.blog/2021/08/15/i-have-never.html). Holds up pretty well.\n",
+				"date_published": "2022-10-30T23:24:12-04:00",
+				"url": "https://json.blog/2022/10/30/came-across-this.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/30/im-not-sure.html",
+				
+				"content_html": "<p>I’m not sure I think religious institutions should be tax exempt, but I’m positive <a href=\"https://www.texastribune.org/2022/10/30/johnson-amendment-elections-irs\">institutions that back political parties and specific candidates should not be exempt</a>.</p>\n",
+				"content_text": "I’m not sure I think religious institutions should be tax exempt, but I’m positive [institutions that back political parties and specific candidates should not be exempt](https://www.texastribune.org/2022/10/30/johnson-amendment-elections-irs).\n",
+				"date_published": "2022-10-30T18:38:09-04:00",
+				"url": "https://json.blog/2022/10/30/im-not-sure.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/30/i-know-folks.html",
+				
+				"content_html": "<p>I know folks complain about the HBO Max app, but I have never had more problems trying to stream a video than episode 3 of The Peripheral on Amazon.</p>\n",
+				"content_text": "I know folks complain about the HBO Max app, but I have never had more problems trying to stream a video than episode 3 of The Peripheral on Amazon.\n",
+				"date_published": "2022-10-30T14:01:58-04:00",
+				"url": "https://json.blog/2022/10/30/i-know-folks.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/30/elsa-and-i.html",
+				
+				"content_html": "<p>Elsa and I saw &ldquo;Ain&rsquo;t No Mo'&rdquo; at the Woolly Mammoth Theater in DC a few weeks back and thought it was fantastic. Now <a href=\"https://secure.centerstage.org/overview/4094?vgo_ee=4X9hvLyfk4tjrCfUpNBVnvlMy%2BOWWuyaZunZiCXh6gI%3D\">it&rsquo;s come to Center Stage in Baltimore</a>&ndash; definitely go check it out.</p>\n",
+				"content_text": "Elsa and I saw \"Ain't No Mo'\" at the Woolly Mammoth Theater in DC a few weeks back and thought it was fantastic. Now [it's come to Center Stage in Baltimore](https://secure.centerstage.org/overview/4094?vgo_ee=4X9hvLyfk4tjrCfUpNBVnvlMy%2BOWWuyaZunZiCXh6gI%3D)-- definitely go check it out.\n",
+				"date_published": "2022-10-30T12:44:05-04:00",
+				"url": "https://json.blog/2022/10/30/elsa-and-i.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/29/watching-tv-together.html",
+				
+				"content_html": "<p>Watching TV together.</p>\n<p><a href=\"https://json.blog/uploads/2022/69eb3b3e65.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"3b80069103450a7828bf15d8ebee16b5\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/69eb3b3e65.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Watching TV together. \n\n![](https://json.blog/uploads/2022/69eb3b3e65.jpg)\n",
+				"date_published": "2022-10-29T20:34:40-04:00",
+				"url": "https://json.blog/2022/10/29/watching-tv-together.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/29/i-love-getting.html",
+				
+				"content_html": "<p>I love getting photos from the dog walkers.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love getting photos from the dog walkers.\n\n<div class=\"img-gallery\">\n{{< glightbox src=\"https://json.blog/uploads/2022/b695a3d986.jpg\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/8f53d7112f.jpg\" >}}\n{{< glightbox src=\"https://json.blog/uploads/2022/c117cf14ef.jpg\" >}}\n</div>\n",
+				"date_published": "2022-10-29T13:06:13-04:00",
+				"url": "https://json.blog/2022/10/29/i-love-getting.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/28/a-year-ago.html",
+				
+				"content_html": "<p>A year ago today I felt more angry and lost than at just about any other point in my life. It was absolute rock bottom after a tough year. The Day One entry is <em>dark</em>. I’m amazed I got out of that place and arrived where I am today.</p>\n",
+				"content_text": "A year ago today I felt more angry and lost than at just about any other point in my life. It was absolute rock bottom after a tough year. The Day One entry is _dark_. I’m amazed I got out of that place and arrived where I am today.\n",
+				"date_published": "2022-10-28T21:51:59-04:00",
+				"url": "https://json.blog/2022/10/28/a-year-ago.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/28/now.html",
+				"title": "Now 2022-10-28",
+				"content_html": "<p>Last week I had my appendix removed. It was <a href=\"https://json.blog/2022/10/22/all-that-time.html\">not an experience I enjoyed</a>.</p>\n<p>I had to cancel two trips, my volleyball league and pickup games, and my gym membership, but luckily the appendectomy was more than 4 weeks before we plan to head to Mexico City for the winter. The big trip remains on, as scheduled, and I should be mostly recovered by the time we leave. Right now I&rsquo;m mostly fighting late afternoon/early evening fatigue and sudden reminders that I still have holes and stitches in my abdomen.</p>\n<p>I finally gave in on YouTube Premium&ndash; the ads were just too much&ndash; though I wish I could cut something out to reduce my monthly bills. If it weren&rsquo;t for Elsa and her mom, I think Netflix would be top of my chopping block, which is remarkable.</p>\n<p>Lately I&rsquo;ve been itching for a new creative project. I&rsquo;m not sure if it&rsquo;ll be writing or music, tactile or technical. I&rsquo;ve spent the year getting back in touch with the joy of being present in my body and putting in physical effort. Work takes up all the mental space and energy. With an eye toward what I want for 2023, I am starting to consider if there&rsquo;s some way I can bring creativity into my life so that I can have mental joy outside of work the way I&rsquo;ve found physical joy.</p>\n<p>I&rsquo;ve got a domain I&rsquo;m itching to use for something.</p>\n<p>Oh yeah, and we finally went to Cuba, with a trip originally booked for May 2020 as a gift to Elsa&rsquo;s mom for Christmas 2019.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Last week I had my appendix removed. It was [not an experience I enjoyed](https://json.blog/2022/10/22/all-that-time.html).\n\nI had to cancel two trips, my volleyball league and pickup games, and my gym membership, but luckily the appendectomy was more than 4 weeks before we plan to head to Mexico City for the winter. The big trip remains on, as scheduled, and I should be mostly recovered by the time we leave. Right now I'm mostly fighting late afternoon/early evening fatigue and sudden reminders that I still have holes and stitches in my abdomen.\n\t\nI finally gave in on YouTube Premium-- the ads were just too much-- though I wish I could cut something out to reduce my monthly bills. If it weren't for Elsa and her mom, I think Netflix would be top of my chopping block, which is remarkable.\n\nLately I've been itching for a new creative project. I'm not sure if it'll be writing or music, tactile or technical. I've spent the year getting back in touch with the joy of being present in my body and putting in physical effort. Work takes up all the mental space and energy. With an eye toward what I want for 2023, I am starting to consider if there's some way I can bring creativity into my life so that I can have mental joy outside of work the way I've found physical joy. \n\nI've got a domain I'm itching to use for something.\n\nOh yeah, and we finally went to Cuba, with a trip originally booked for May 2020 as a gift to Elsa's mom for Christmas 2019.\n\n<div class=\"img-gallery\">\n {{< glightbox src=\"https://json.blog/uploads/2022/3e385c4ae2.jpg\" gallery=\"cuba\" >}}\n {{< glightbox src=\"https://json.blog/uploads/2022/b68d187caa.jpg\" gallery=\"cuba\" >}}\n {{< glightbox src=\"https://json.blog/uploads/2022/92f5a84073.jpg\" gallery=\"cuba\" >}}\n {{< glightbox src=\"https://json.blog/uploads/2022/ec651273fc.jpg\" gallery=\"cuba\" >}}\n {{< glightbox src=\"https://json.blog/uploads/2022/abb2a807a2.jpg\" gallery=\"cuba\" >}}\n</div>\n",
+				"date_published": "2022-10-28T17:45:48-04:00",
+				"url": "https://json.blog/2022/10/28/now.html",
+				"tags": ["photoblogging","now","macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/28/apples-new-shared.html",
+				
+				"content_html": "<p>Apple&rsquo;s new Shared Photo Library is impressive. I added &ldquo;Moments with Elsa&rdquo; and out of almost 3700 pictures, I only rejected 3 photos as for my personal library only. We&rsquo;ll see how things develop, but so far it has a bit of that magic I rarely get from software these days.</p>\n",
+				"content_text": "Apple's new Shared Photo Library is impressive. I added \"Moments with Elsa\" and out of almost 3700 pictures, I only rejected 3 photos as for my personal library only. We'll see how things develop, but so far it has a bit of that magic I rarely get from software these days.\n",
+				"date_published": "2022-10-28T16:09:37-04:00",
+				"url": "https://json.blog/2022/10/28/apples-new-shared.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/28/elon-wants-to.html",
+				
+				"content_html": "<p>Elon wants to be considered king of the nerds, but he&rsquo;s just the ultimate dweeb.</p>\n",
+				"content_text": "Elon wants to be considered king of the nerds, but he's just the ultimate dweeb.\n",
+				"date_published": "2022-10-28T16:01:35-04:00",
+				"url": "https://json.blog/2022/10/28/elon-wants-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/28/nilays-piece-on.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation\">Nilay’s piece</a> on Elon Musk’s acquisition of Twitter is as good as it gets. There’s a reason everyone is linking to it.</p>\n",
+				"content_text": "[Nilay’s piece](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation) on Elon Musk’s acquisition of Twitter is as good as it gets. There’s a reason everyone is linking to it.\n",
+				"date_published": "2022-10-28T12:30:43-04:00",
+				"url": "https://json.blog/2022/10/28/nilays-piece-on.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/28/when-i-think.html",
+				
+				"content_html": "<p>When I think of the tremendous amount of scaffolding required to learn what I consider &ldquo;basic&rdquo; computer skills it&rsquo;s pretty daunting. It makes teaching what I know a real challenge&ndash; there&rsquo;s no curriculum for &ldquo;grow up in the late 90s and early 2000s messing with computers&rdquo;.</p>\n",
+				"content_text": "When I think of the tremendous amount of scaffolding required to learn what I consider \"basic\" computer skills it's pretty daunting. It makes teaching what I know a real challenge-- there's no curriculum for \"grow up in the late 90s and early 2000s messing with computers\".\n",
+				"date_published": "2022-10-28T10:20:03-04:00",
+				"url": "https://json.blog/2022/10/28/when-i-think.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/27/the-best-person.html",
+				
+				"content_html": "<p>The best person sent me pastrami, corned beef, rye, mustard, coleslaw, pickles, knishes, and rugelach.</p>\n",
+				"content_text": "The best person sent me pastrami, corned beef, rye, mustard, coleslaw, pickles, knishes, and rugelach.\n",
+				"date_published": "2022-10-27T16:36:15-04:00",
+				"url": "https://json.blog/2022/10/27/the-best-person.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/10/27/the-new-icloud.html",
+				
+				"content_html": "<p>The new iCloud Shared Library feature is pretty slick. I was very impressed with the choice of &ldquo;shared moments&rdquo; with another person&ndash; it flagged about 2800 photos for me to share with Elsa, and I only found one &ldquo;false positive&rdquo;.</p>\n",
+				"content_text": "The new iCloud Shared Library feature is pretty slick. I was very impressed with the choice of \"shared moments\" with another person-- it flagged about 2800 photos for me to share with Elsa, and I only found one \"false positive\".\n",
+				"date_published": "2022-10-27T09:44:13-04:00",
+				"url": "https://json.blog/2022/10/27/the-new-icloud.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/10/26/gearing-up-for.html",
 				
 				"content_html": "<p>Gearing up for CDMX in a couple of months and my only thought is “I can’t wait to go to Contramar every weekend for lunch.”</p>\n",
