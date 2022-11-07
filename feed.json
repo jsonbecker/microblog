@@ -7,6 +7,119 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/11/07/i-think-its.html",
+				
+				"content_html": "<p>I think it&rsquo;s somewhat surprising the degree to which all of Big Tech interpreted the effects of the pandemic as setting a new secular trend versus understanding it was likely a one-time shock.</p>\n",
+				"content_text": "I think it's somewhat surprising the degree to which all of Big Tech interpreted the effects of the pandemic as setting a new secular trend versus understanding it was likely a one-time shock.\n",
+				"date_published": "2022-11-07T16:31:41-04:00",
+				"url": "https://json.blog/2022/11/07/i-think-its.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/06/a-birthday-present.html",
+				"title": "A birthday present for Jess",
+				"content_html": "<p>Eight years ago today, 6 months into my Allovue journey, I came down to Baltimore for a party in our small office above a bar. The party started at 6, and Ted and I still hovered over a laptop at 6:15pm. We excitedly called Jess over to show her&ndash; we just fully loaded our first set of general ledger accounts and transactions into Balance. It was, I hope, her favorite birthday present that year.</p>\n<p>I&rsquo;d be lying if I said that I knew that day was a key milestone in a life-defining adventure and partnership. It just seemed like a cool problem we solved.</p>\n<p><a href=\"https://json.blog/uploads/2022/9096eb3a48.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"c7a85f9b4af02acff04104d798b8575c\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/9096eb3a48.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Eight years ago today, 6 months into my Allovue journey, I came down to Baltimore for a party in our small office above a bar. The party started at 6, and Ted and I still hovered over a laptop at 6:15pm. We excitedly called Jess over to show her-- we just fully loaded our first set of general ledger accounts and transactions into Balance. It was, I hope, her favorite birthday present that year.\n\nI'd be lying if I said that I knew that day was a key milestone in a life-defining adventure and partnership. It just seemed like a cool problem we solved.\n\n![](https://json.blog/uploads/2022/9096eb3a48.jpg)\n",
+				"date_published": "2022-11-06T16:34:04-04:00",
+				"url": "https://json.blog/2022/11/06/a-birthday-present.html",
+				"tags": ["photoblogging","baltimore","macro"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/06/in-the-grand.html",
+				
+				"content_html": "<p>In the grand scheme of things, absolutely nothing to complain about. But suddenly just being unable to do all the things I want to do, even if I know it’ll just be a month or two, is so frustrating. Working hard to convert frustration into future gratitude for my health.</p>\n",
+				"content_text": "In the grand scheme of things, absolutely nothing to complain about. But suddenly just being unable to do all the things I want to do, even if I know it’ll just be a month or two, is so frustrating. Working hard to convert frustration into future gratitude for my health.\n",
+				"date_published": "2022-11-06T12:54:28-04:00",
+				"url": "https://json.blog/2022/11/06/in-the-grand.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/05/enola-holmes-is.html",
+				
+				"content_html": "<p>Enola Holmes 2 is a very good time.</p>\n",
+				"content_text": "Enola Holmes 2 is a very good time.\n",
+				"date_published": "2022-11-05T21:48:53-04:00",
+				"url": "https://json.blog/2022/11/05/enola-holmes-is.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/05/bonkers-story-about.html",
+				
+				"content_html": "<p><a href=\"https://arstechnica.com/?p=1895162\">Bonkers story</a> about how Corpus Christi decided to intentionally create an environmental disaster for the people who live there to court companies to further an environmental disaster for the planet.</p>\n",
+				"content_text": "[Bonkers story](https://arstechnica.com/?p=1895162) about how Corpus Christi decided to intentionally create an environmental disaster for the people who live there to court companies to further an environmental disaster for the planet.\n",
+				"date_published": "2022-11-05T15:56:13-04:00",
+				"url": "https://json.blog/2022/11/05/bonkers-story-about.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/05/best-way-to.html",
+				
+				"content_html": "<p>Best way to follow me? RSS feed for json.blog. But I also have <a href=\"https://micro.blog/jsonbecker@json.blog\">@jsonbecker@json.blog</a> for ActivityPub and cross positing to Twitter (@jsonbecker) and Mastodon (<a href=\"mailto:jsonbecker@indieweb.social\">jsonbecker@indieweb.social</a>).</p>\n",
+				"content_text": "Best way to follow me? RSS feed for json.blog. But I also have [@jsonbecker@json.blog](https://micro.blog/jsonbecker@json.blog) for ActivityPub and cross positing to Twitter (@jsonbecker) and Mastodon (jsonbecker@indieweb.social).\n",
+				"date_published": "2022-11-05T14:09:59-04:00",
+				"url": "https://json.blog/2022/11/05/best-way-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/05/i-love-pixelmator.html",
+				
+				"content_html": "<p>I love Pixelmator, but I find the built in Photos tools more intuitive for slight tweaking. But I&rsquo;ve seen comparisons that make it clear Photos doesn&rsquo;t do as well other apps with key controls like exposure. What&rsquo;s great and easy on macOS and iOS for basic adjustments?</p>\n",
+				"content_text": "I love Pixelmator, but I find the built in Photos tools more intuitive for slight tweaking. But I've seen comparisons that make it clear Photos doesn't do as well other apps with key controls like exposure. What's great and easy on macOS and iOS for basic adjustments?\n",
+				"date_published": "2022-11-05T11:51:55-04:00",
+				"url": "https://json.blog/2022/11/05/i-love-pixelmator.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/04/fun-fact-some.html",
+				
+				"content_html": "<p>Fun fact: some weeks actually last a year.</p>\n",
+				"content_text": "Fun fact: some weeks actually last a year.\n",
+				"date_published": "2022-11-04T19:00:30-04:00",
+				"url": "https://json.blog/2022/11/04/fun-fact-some.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/04/my-toxic-trait.html",
+				
+				"content_html": "<p>My toxic trait is believing that if I just keep going today, tomorrow will be easier.</p>\n",
+				"content_text": "My toxic trait is believing that if I just keep going today, tomorrow will be easier.\n",
+				"date_published": "2022-11-04T00:04:00-04:00",
+				"url": "https://json.blog/2022/11/04/my-toxic-trait.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/02/i-really-want.html",
+				
+				"content_html": "<p>I really want to eat my way through Turkey.</p>\n",
+				"content_text": "I really want to eat my way through Turkey.\n",
+				"date_published": "2022-11-02T22:17:55-04:00",
+				"url": "https://json.blog/2022/11/02/i-really-want.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/02/i-had-to.html",
+				
+				"content_html": "<p>I had to cancel two trips because of my surgery. I am one trip short of A-List and Companion Pass for next year. I have 1 week where I am post 4 weeks surgery and cleared to fly before I’m going to Mexico. Should I do a mileage run? Where to?</p>\n",
+				"content_text": "I had to cancel two trips because of my surgery. I am one trip short of A-List and Companion Pass for next year. I have 1 week where I am post 4 weeks surgery and cleared to fly before I’m going to Mexico. Should I do a mileage run? Where to?\n",
+				"date_published": "2022-11-02T21:35:18-04:00",
+				"url": "https://json.blog/2022/11/02/i-had-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/02/i-have-seen.html",
+				
+				"content_html": "<p>I have seen several episodes of Abbott Elementary.</p>\n",
+				"content_text": "I have seen several episodes of Abbott Elementary.\n",
+				"date_published": "2022-11-02T21:22:38-04:00",
+				"url": "https://json.blog/2022/11/02/i-have-seen.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/02/i-dont-think.html",
+				
+				"content_html": "<p>I don&rsquo;t think I&rsquo;ve ever been less interested in a movie I&rsquo;ll probably see anyway than the Avatar sequel.</p>\n",
+				"content_text": "I don't think I've ever been less interested in a movie I'll probably see anyway than the Avatar sequel.\n",
+				"date_published": "2022-11-02T10:18:02-04:00",
+				"url": "https://json.blog/2022/11/02/i-dont-think.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/02/putting-a-year.html",
+				
+				"content_html": "<p>Putting a year value in your accounting string is always the wrong choice.</p>\n",
+				"content_text": "Putting a year value in your accounting string is always the wrong choice.\n",
+				"date_published": "2022-11-02T08:31:38-04:00",
+				"url": "https://json.blog/2022/11/02/putting-a-year.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/11/01/i-just-had.html",
 				
 				"content_html": "<p>I just had a product revelation that may be brilliant. Need to sit on it over night, then possibly have some developers rewrite a lot of code.</p>\n",
