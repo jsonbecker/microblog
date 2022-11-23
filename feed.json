@@ -7,6 +7,193 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/11/23/advertising-from-dc.html",
+				
+				"content_html": "<p>Advertising from D2C blands is my least favorite thing in the world.</p>\n",
+				"content_text": "Advertising from D2C blands is my least favorite thing in the world.\n",
+				"date_published": "2022-11-23T10:01:36-05:00",
+				"url": "https://json.blog/2022/11/23/advertising-from-dc.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/23/dhh-is-really.html",
+				
+				"content_html": "<p>DHH is really going for the King Tech Douche title. Exemplifies what I just love so much about tech work.</p>\n",
+				"content_text": "DHH is really going for the King Tech Douche title. Exemplifies what I just love so much about tech work.\n",
+				"date_published": "2022-11-23T07:09:32-05:00",
+				"url": "https://json.blog/2022/11/23/dhh-is-really.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/22/i-finally-edited.html",
+				
+				"content_html": "<p>I finally edited a friend’s name to their nickname in my Contacts. Yes, the nickname field exists, but so many places default back to the First Name field.</p>\n",
+				"content_text": "I finally edited a friend’s name to their nickname in my Contacts. Yes, the nickname field exists, but so many places default back to the First Name field.\n",
+				"date_published": "2022-11-22T22:14:35-05:00",
+				"url": "https://json.blog/2022/11/22/i-finally-edited.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/22/waiting-for-the.html",
+				
+				"content_html": "<p>Waiting for the Path revival.</p>\n",
+				"content_text": "Waiting for the Path revival.\n",
+				"date_published": "2022-11-22T14:59:08-05:00",
+				"url": "https://json.blog/2022/11/22/waiting-for-the.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/22/the-layoffs-in.html",
+				
+				"content_html": "<p>The layoffs in the Alexa division at Amazon, and general discussion around cost cutting in big tech right now demonstrates the end of a very strange era for public companies, where products (or even divisions!) didn’t need a business model— only companies.</p>\n",
+				"content_text": "The layoffs in the Alexa division at Amazon, and general discussion around cost cutting in big tech right now demonstrates the end of a very strange era for public companies, where products (or even divisions!) didn’t need a business model— only companies.\n",
+				"date_published": "2022-11-22T11:14:01-05:00",
+				"url": "https://json.blog/2022/11/22/the-layoffs-in.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/22/theres-a-long.html",
+				
+				"content_html": "<p>There’s a <a href=\"https://www.theverge.com/2022/11/22/23471842/facebook-hr-block-taxact-taxslayer-info-sharing\">long list of bad actors</a> in this story about how online tax preparers send Meta income and other data, but top of my list is Congress. Tax filing should not be a business.</p>\n",
+				"content_text": "There’s a [long list of bad actors](https://www.theverge.com/2022/11/22/23471842/facebook-hr-block-taxact-taxslayer-info-sharing) in this story about how online tax preparers send Meta income and other data, but top of my list is Congress. Tax filing should not be a business.\n",
+				"date_published": "2022-11-22T11:11:06-05:00",
+				"url": "https://json.blog/2022/11/22/theres-a-long.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/21/ten-minutes-on.html",
+				
+				"content_html": "<p>Ten minutes on the NYC Subway and I already am contemplating murder. (Sir, if you must use TikTok, put on headphones–don’t max your volume.)</p>\n",
+				"content_text": "Ten minutes on the NYC Subway and I already am contemplating murder. (Sir, if you must use TikTok, put on headphones–don’t max your volume.)\n",
+				"date_published": "2022-11-21T15:56:26-05:00",
+				"url": "https://json.blog/2022/11/21/ten-minutes-on.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/21/six-years-in.html",
+				
+				"content_html": "<p>Six years in Baltimore and I still feel weird getting on Amtrak in the Boston direction when heading to my parents for the holidays.</p>\n<p>Also, still furious to see a MARC double-decker, diesel locomotive.</p>\n",
+				"content_text": "Six years in Baltimore and I still feel weird getting on Amtrak in the Boston direction when heading to my parents for the holidays.\n\nAlso, still furious to see a MARC double-decker, diesel locomotive.\n",
+				"date_published": "2022-11-21T13:10:04-05:00",
+				"url": "https://json.blog/2022/11/21/six-years-in.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/21/bonkers-rare-price.html",
+				
+				"content_html": "<p><a href=\"https://www.amazon.com/dp/B09JQSLL92\">Bonkers, rare price drop on the modern 14&quot; MBP</a>. I wonder if the M2 delay has caused a real drying up of demand.</p>\n",
+				"content_text": "[Bonkers, rare price drop on the modern 14\" MBP](https://www.amazon.com/dp/B09JQSLL92). I wonder if the M2 delay has caused a real drying up of demand.\n",
+				"date_published": "2022-11-21T09:26:26-05:00",
+				"url": "https://json.blog/2022/11/21/bonkers-rare-price.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/20/whoa-say-goodbye.html",
+				
+				"content_html": "<p>Whoa. <a href=\"https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/\">Say goodbye to the New Bob, the Old Bob is back</a>.</p>\n<p>I have so many questions.</p>\n",
+				"content_text": "Whoa. [Say goodbye to the New Bob, the Old Bob is back](https://deadline.com/2022/11/disney-bob-iger-returns-ceo-bob-chapek-out-1235178223/).\r\n\r\nI have so many questions.\n",
+				"date_published": "2022-11-20T22:03:44-05:00",
+				"url": "https://json.blog/2022/11/20/whoa-say-goodbye.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/20/current-status-stressing.html",
+				
+				"content_html": "<p><strong>Current status</strong>: stressing out at the rapidly decreasing space in my suitcase.</p>\n",
+				"content_text": "**Current status**: stressing out at the rapidly decreasing space in my suitcase.\n",
+				"date_published": "2022-11-20T15:27:56-05:00",
+				"url": "https://json.blog/2022/11/20/current-status-stressing.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/20/i-dont-think.html",
+				
+				"content_html": "<p>I don’t think I’ve read any Greg Bear.  Where should I start?</p>\n",
+				"content_text": "I don’t think I’ve read any Greg Bear.  Where should I start?\n",
+				"date_published": "2022-11-20T13:16:00-05:00",
+				"url": "https://json.blog/2022/11/20/i-dont-think.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/19/ive-been-thinking.html",
+				
+				"content_html": "<p>I’ve been thinking a lot lately about the problem that Google+ Circles identified, but solved in an unwieldy way.</p>\n",
+				"content_text": "I’ve been thinking a lot lately about the problem that Google+ Circles identified, but solved in an unwieldy way.\n",
+				"date_published": "2022-11-19T21:02:34-05:00",
+				"url": "https://json.blog/2022/11/19/ive-been-thinking.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/19/we-leave-behind.html",
+				
+				"content_html": "<p>We leave behind pieces of ourselves<!-- raw HTML omitted --><!-- raw HTML omitted -->like clay shavings<!-- raw HTML omitted --><!-- raw HTML omitted --> in the places that shape us.</p>\n<p><a href=\"https://json.blog/uploads/2022/edd8bea85a.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"87b7be4827458773d280d667e1508b37\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/edd8bea85a.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "We leave behind pieces of ourselves<br><br>like clay shavings<br><br> in the places that shape us.\n\n![](https://json.blog/uploads/2022/edd8bea85a.jpg)\n",
+				"date_published": "2022-11-19T19:52:53-05:00",
+				"url": "https://json.blog/2022/11/19/we-leave-behind.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/19/i-traveled-alone.html",
+				
+				"content_html": "<p>I traveled alone to somewhere I love. I spent time in some of my favorite places. I also spent time with some friends. And it was everything I needed.</p>\n",
+				"content_text": "I traveled alone to somewhere I love. I spent time in some of my favorite places. I also spent time with some friends. And it was everything I needed.\n",
+				"date_published": "2022-11-19T15:47:53-05:00",
+				"url": "https://json.blog/2022/11/19/i-traveled-alone.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/19/crazy-that-i.html",
+				
+				"content_html": "<p>Crazy that I feel fortunate my diagnosis, hospitalization, appendectomy, and subsequent care seems to only be costing me $2200 or so out of pocket. 🇺🇸</p>\n",
+				"content_text": "Crazy that I feel fortunate my diagnosis, hospitalization, appendectomy, and subsequent care seems to only be costing me $2200 or so out of pocket. 🇺🇸\n",
+				"date_published": "2022-11-19T15:30:22-05:00",
+				"url": "https://json.blog/2022/11/19/crazy-that-i.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/19/elsas-mom-had.html",
+				
+				"content_html": "<p>Elsa’s mom had friends over for pozole last night. Brandy was very annoyed at it being loud and boisterous. At 10:40 this morning she still doesn’t want to get out from under the blanket to go walk. She’s too tired from sleeping on the couch with strangers.</p>\n",
+				"content_text": "Elsa’s mom had friends over for pozole last night. Brandy was very annoyed at it being loud and boisterous. At 10:40 this morning she still doesn’t want to get out from under the blanket to go walk. She’s too tired from sleeping on the couch with strangers. \n",
+				"date_published": "2022-11-19T10:41:59-05:00",
+				"url": "https://json.blog/2022/11/19/elsas-mom-had.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/19/dammit-i-just.html",
+				
+				"content_html": "<p>Dammit, I just figured out how I want to change my blog and I’m not good enough at CSS to sign up for this work, but now my brain is somewhat committed. Maybe I’ll learn Tailwind&hellip;</p>\n",
+				"content_text": "Dammit, I just figured out how I want to change my blog and I’m not good enough at CSS to sign up for this work, but now my brain is somewhat committed. Maybe I’ll learn Tailwind...\n",
+				"date_published": "2022-11-19T10:31:35-05:00",
+				"url": "https://json.blog/2022/11/19/dammit-i-just.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/18/a-notatall-surprising.html",
+				
+				"content_html": "<p>A <a href=\"https://cylus.org/how-to-start-fixing-baltimore-citys-dot-a7ffe7cf51d1\">not-at-all surprising exit post from a Baltimore City DOT employee</a>. All of these woes are things I experienced working in government (in a different city and state) and are commonplace.</p>\n",
+				"content_text": "A [not-at-all surprising exit post from a Baltimore City DOT employee](https://cylus.org/how-to-start-fixing-baltimore-citys-dot-a7ffe7cf51d1). All of these woes are things I experienced working in government (in a different city and state) and are commonplace.\n",
+				"date_published": "2022-11-18T11:30:22-05:00",
+				"url": "https://json.blog/2022/11/18/a-notatall-surprising.html",
+				"tags": ["baltimore"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/18/we-need-to.html",
+				
+				"content_html": "<p>“We need to hire a data science team for ad spend attribution and testing every feature in our store!”<!-- raw HTML omitted -->\n“This person bought four items of men’s clothing. Let’s send him an email every week this fall about our new dresses!”</p>\n",
+				"content_text": "“We need to hire a data science team for ad spend attribution and testing every feature in our store!”<br>\n“This person bought four items of men’s clothing. Let’s send him an email every week this fall about our new dresses!”\n",
+				"date_published": "2022-11-18T11:06:04-05:00",
+				"url": "https://json.blog/2022/11/18/we-need-to.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/18/they-got-rid.html",
+				
+				"content_html": "<p>They got rid of nitro cold brew at my coffee shop and it may not be returning and I’m not sure I can personally recover.</p>\n",
+				"content_text": "They got rid of nitro cold brew at my coffee shop and it may not be returning and I’m not sure I can personally recover.\n",
+				"date_published": "2022-11-18T10:45:45-05:00",
+				"url": "https://json.blog/2022/11/18/they-got-rid.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/18/your-hand-in.html",
+				
+				"content_html": "<p>Your Hand in Mine still hits.</p>\n",
+				"content_text": "Your Hand in Mine still hits.\n",
+				"date_published": "2022-11-18T10:43:13-05:00",
+				"url": "https://json.blog/2022/11/18/your-hand-in.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/18/flightys-with-liveactivity.html",
+				
+				"content_html": "<p><a href=\"https://apps.apple.com/us/app/flighty-fast-flight-tracker/id1358823008\">Flighty</a> with LiveActivity is as great as everyone says.</p>\n",
+				"content_text": "[Flighty](https://apps.apple.com/us/app/flighty-fast-flight-tracker/id1358823008) with LiveActivity is as great as everyone says.\n",
+				"date_published": "2022-11-18T10:14:15-05:00",
+				"url": "https://json.blog/2022/11/18/flightys-with-liveactivity.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/11/18/ars-covers-the.html",
 				
 				"content_html": "<p>Ars covers the <a href=\"https://arstechnica.com/?p=1898729\">destruction of content moderation at Twitter</a>— an incredible act of indifference to have fired the entire team responsible for moderation in Brazil days after a close election. Nilay was right; moderation is the product.</p>\n",
