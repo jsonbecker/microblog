@@ -7,6 +7,143 @@
 	"items": [
 		
 			{
+				"id": "http://jsonbecker.micro.blog/2022/11/28/pondering-a-gut.html",
+				
+				"content_html": "<p>Pondering a gut feeling this morning: Trump wants to be loved to obtain power. Elon Musk thinks his power should have led to being loved.</p>\n<p>Maybe not totally right, but I think there&rsquo;s something there.</p>\n",
+				"content_text": "Pondering a gut feeling this morning: Trump wants to be loved to obtain power. Elon Musk thinks his power should have led to being loved.\n\nMaybe not totally right, but I think there's something there.\n",
+				"date_published": "2022-11-28T10:52:48-06:00",
+				"url": "https://json.blog/2022/11/28/pondering-a-gut.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/28/me-im-going.html",
+				
+				"content_html": "<p>Me:  I’m going to keep East Coast time in Mexico.\nAlso me, night two: Guess it’s time to leave this bar at 12:30am.</p>\n",
+				"content_text": "Me:  I’m going to keep East Coast time in Mexico.\nAlso me, night two: Guess it’s time to leave this bar at 12:30am.\n",
+				"date_published": "2022-11-28T00:26:53-06:00",
+				"url": "https://json.blog/2022/11/28/me-im-going.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/27/it-seems-all.html",
+				
+				"content_html": "<p>It seems all of CDMX has decided coffee doesn’t need to be served before 9am. I have found one place to get coffee early, at 8am. Crazy.</p>\n",
+				"content_text": "It seems all of CDMX has decided coffee doesn’t need to be served before 9am. I have found one place to get coffee early, at 8am. Crazy.\n",
+				"date_published": "2022-11-27T16:13:28-06:00",
+				"url": "https://json.blog/2022/11/27/it-seems-all.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/27/gosh-reading-about.html",
+				
+				"content_html": "<p>Gosh, reading about these <a href=\"https://pedestrianobservations.com/2022/11/26/its-easy-to-waste-money/\">costly additions to the Second Avenue Subway project</a> is so depressing. I wish there was a stronger set of internal and external advocates for transit abundance over extravagance.</p>\n",
+				"content_text": "Gosh, reading about these [costly additions to the Second Avenue Subway project](https://pedestrianobservations.com/2022/11/26/its-easy-to-waste-money/) is so depressing. I wish there was a stronger set of internal and external advocates for transit abundance over extravagance.\n",
+				"date_published": "2022-11-27T12:16:22-06:00",
+				"url": "https://json.blog/2022/11/27/gosh-reading-about.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/27/the-sunday-organic.html",
+				
+				"content_html": "<p>The Sunday organic farmers market literally 2 blocks from our AirBnB has nitro cold brew and all the produce we could want. 😍</p>\n",
+				"content_text": "The Sunday organic farmers market literally 2 blocks from our AirBnB has nitro cold brew and all the produce we could want. 😍\n",
+				"date_published": "2022-11-27T09:47:40-06:00",
+				"url": "https://json.blog/2022/11/27/the-sunday-organic.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/26/are-there-any.html",
+				
+				"content_html": "<p>Are there any good apps for doing “check ins” at locations that is not some weird privacy nightmare with the data? I’d even take local only (or syncing through iCloud).</p>\n",
+				"content_text": "Are there any good apps for doing “check ins” at locations that is not some weird privacy nightmare with the data? I’d even take local only (or syncing through iCloud).\n",
+				"date_published": "2022-11-26T15:14:16-06:00",
+				"url": "https://json.blog/2022/11/26/are-there-any.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/26/andor-just.html",
+				
+				"content_html": "<p>Andor. Just. 👨‍🍳💋.</p>\n",
+				"content_text": "Andor. Just. 👨‍🍳💋.\n",
+				"date_published": "2022-11-26T11:16:22-06:00",
+				"url": "https://json.blog/2022/11/26/andor-just.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/24/three-years-ago.html",
+				
+				"content_html": "<p>Three years ago today we ate this for dinner and it was great</p>\n<p><a href=\"https://json.blog/uploads/2022/0e00666fb6.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"d19403ca591fb4eb6ddec50cb659a463\"\n   \n>\n  <img src =\"https://json.blog/uploads/2022/0e00666fb6.jpg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"\" \n        \n  />\n</a>\n\n</p>\n",
+				"content_text": "Three years ago today we ate this for dinner and it was great \n\n![](https://json.blog/uploads/2022/0e00666fb6.jpg)\n",
+				"date_published": "2022-11-24T20:30:27-06:00",
+				"url": "https://json.blog/2022/11/24/three-years-ago.html",
+				"tags": ["photoblogging"]
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/24/turkey-haters-are.html",
+				
+				"content_html": "<p>Turkey haters are wrong.</p>\n",
+				"content_text": "Turkey haters are wrong.\n",
+				"date_published": "2022-11-24T18:20:57-06:00",
+				"url": "https://json.blog/2022/11/24/turkey-haters-are.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/24/actually-you-shouldnt.html",
+				
+				"content_html": "<p><a href=\"https://www.dwell.com/article/actually-you-shouldnt-offer-help-in-someone-elses-kitchen-0b570f50\">Actually, You Shouldn’t Offer Help In Someone Else’s Kitchen</a></p>\n",
+				"content_text": "[Actually, You Shouldn’t Offer Help In Someone Else’s Kitchen](https://www.dwell.com/article/actually-you-shouldnt-offer-help-in-someone-elses-kitchen-0b570f50)\n",
+				"date_published": "2022-11-24T11:05:19-06:00",
+				"url": "https://json.blog/2022/11/24/actually-you-shouldnt.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/24/happy-unsubscribe-week.html",
+				
+				"content_html": "<p>Happy Unsubscribe Week! This is your time to excise all those digital fliers filling up your inbox. For me, it&rsquo;s a time to remember how each year I buy something I&rsquo;ve wanted (and told others about) for myself, ruining their holiday gifts!</p>\n",
+				"content_text": "Happy Unsubscribe Week! This is your time to excise all those digital fliers filling up your inbox. For me, it's a time to remember how each year I buy something I've wanted (and told others about) for myself, ruining their holiday gifts!\n",
+				"date_published": "2022-11-24T10:59:11-05:00",
+				"url": "https://json.blog/2022/11/24/happy-unsubscribe-week.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/24/it-is-with.html",
+				
+				"content_html": "<p>It is with deep shame that I announce that when I returned to my parents’ home for Thanksgiving, there were no pickles in the house. Actually, it was worse than that. My mother had year-old, shelf-stable, Stop and Shop brand pickles in a cupboard somewhere. Abhorrent. A shanda!</p>\n",
+				"content_text": "It is with deep shame that I announce that when I returned to my parents’ home for Thanksgiving, there were no pickles in the house. Actually, it was worse than that. My mother had year-old, shelf-stable, Stop and Shop brand pickles in a cupboard somewhere. Abhorrent. A shanda!\n",
+				"date_published": "2022-11-24T10:23:47-05:00",
+				"url": "https://json.blog/2022/11/24/it-is-with.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/24/just-a-few.html",
+				
+				"content_html": "<p>Just a few days until I’m in CDMX and all I want is great sushi 🤦🏻‍♂️.</p>\n",
+				"content_text": "Just a few days until I’m in CDMX and all I want is great sushi 🤦🏻‍♂️.\n",
+				"date_published": "2022-11-24T10:14:14-05:00",
+				"url": "https://json.blog/2022/11/24/just-a-few.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/23/well-my-dad.html",
+				
+				"content_html": "<p>Well my dad doesn’t have Disney+ and he noticed Andor was on ABC tonight and he’s watching, so I guess that strategy worked at least partly.</p>\n",
+				"content_text": "Well my dad doesn’t have Disney+ and he noticed Andor was on ABC tonight and he’s watching, so I guess that strategy worked at least partly.\n",
+				"date_published": "2022-11-23T21:00:47-05:00",
+				"url": "https://json.blog/2022/11/23/well-my-dad.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/23/zillow-gone-wild.html",
+				
+				"content_html": "<p>Zillow Gone Wild implies the existence of… yup there it is, Zillow Gone Mild. Good job, Tumblr.</p>\n",
+				"content_text": "Zillow Gone Wild implies the existence of… yup there it is, Zillow Gone Mild. Good job, Tumblr.\n",
+				"date_published": "2022-11-23T17:59:33-05:00",
+				"url": "https://json.blog/2022/11/23/zillow-gone-wild.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/23/one-time-elsa.html",
+				
+				"content_html": "<p>One time, Elsa and I hosted a potluck Friendsgiving Sidesgiving. We made 8 dishes, and were still worried we wouldn’t have enough food.</p>\n",
+				"content_text": "One time, Elsa and I hosted a potluck Friendsgiving Sidesgiving. We made 8 dishes, and were still worried we wouldn’t have enough food.\n",
+				"date_published": "2022-11-23T16:45:14-05:00",
+				"url": "https://json.blog/2022/11/23/one-time-elsa.html"
+			},
+			{
+				"id": "http://jsonbecker.micro.blog/2022/11/23/this-thorough-and.html",
+				
+				"content_html": "<p>This thorough and clear piece on the <a href=\"https://www.liberalcurrents.com/academic-freedom-in-the-media-who-is-being-silenced/\">absurdity of Kathleen Stock and the uncritical amplification she receives in the media</a> is what should have appeared in The Economist and BBC. Glad Liberal Currents picked up the slack.</p>\n",
+				"content_text": "This thorough and clear piece on the [absurdity of Kathleen Stock and the uncritical amplification she receives in the media](https://www.liberalcurrents.com/academic-freedom-in-the-media-who-is-being-silenced/) is what should have appeared in The Economist and BBC. Glad Liberal Currents picked up the slack.\n",
+				"date_published": "2022-11-23T11:05:40-05:00",
+				"url": "https://json.blog/2022/11/23/this-thorough-and.html"
+			},
+			{
 				"id": "http://jsonbecker.micro.blog/2022/11/23/advertising-from-dc.html",
 				
 				"content_html": "<p>Advertising from D2C blands is my least favorite thing in the world.</p>\n",
